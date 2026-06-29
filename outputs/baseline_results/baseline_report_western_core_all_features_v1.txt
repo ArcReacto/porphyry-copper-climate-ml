@@ -1,0 +1,21 @@
+Baseline report: western_core_all_features_v1
+Rows: 474
+Features: 703
+Positive labels: 158
+Negative labels: 316
+
+Important safeguards:
+- Coordinates, state, sample IDs, negative_type, and constructed distance-to-positive/MRDS fields are metadata only.
+- Coverage/count/distance feature columns are excluded from model inputs.
+- Scores are baseline diagnostics, not final causal evidence.
+
+Mean cross-validation metrics:
+                     dataset               cv                  model  roc_auc_mean  average_precision_mean  balanced_accuracy_mean  precision_mean  recall_mean  f1_mean
+western_core_all_features_v1 groupkfold_state       dummy_stratified        0.4357                  0.3159                  0.4357          0.2423       0.2345   0.2383
+western_core_all_features_v1 groupkfold_state hist_gradient_boosting        0.9349                  0.9052                  0.8184          0.8397       0.7315   0.7620
+western_core_all_features_v1 groupkfold_state    logistic_regression        0.8720                  0.7782                  0.7859          0.7803       0.6915   0.7110
+western_core_all_features_v1 groupkfold_state          random_forest        0.9564                  0.9137                  0.8302          0.8163       0.7812   0.7769
+western_core_all_features_v1 stratified_kfold       dummy_stratified        0.4192                  0.3087                  0.4192          0.2303       0.2403   0.2352
+western_core_all_features_v1 stratified_kfold hist_gradient_boosting        0.9789                  0.9623                  0.9160          0.8825       0.8921   0.8861
+western_core_all_features_v1 stratified_kfold    logistic_regression        0.9569                  0.9176                  0.9048          0.8571       0.8857   0.8694
+western_core_all_features_v1 stratified_kfold          random_forest        0.9804                  0.9621                  0.9300          0.8800       0.9234   0.9001

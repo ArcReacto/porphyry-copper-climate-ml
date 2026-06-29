@@ -1,0 +1,30 @@
+{
+  "rows": 52148,
+  "element_columns": [
+    "Ag_ppm",
+    "As_ppm",
+    "Au_sq_ppm",
+    "Bi_ppm",
+    "Cu_ppm",
+    "Mo_ppm",
+    "Pb_ppm",
+    "Re_ppm",
+    "Sb_ppm",
+    "W_ppm",
+    "Zn_ppm"
+  ],
+  "state_counts": {
+    "NV": 13828,
+    "MT": 11512,
+    "ID": 7766,
+    "AZ": 7633,
+    "UT": 5258,
+    "NM": 3487,
+    "OR": 2020,
+    "CA": 644
+  },
+  "outputs": {
+    "parquet": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\data_intermediate\\geochem2_nure_clean.parquet",
+    "preview_csv": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\data_intermediate\\geochem2_nure_clean_preview.csv"
+  }
+}

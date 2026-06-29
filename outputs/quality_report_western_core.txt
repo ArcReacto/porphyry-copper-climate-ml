@@ -1,0 +1,49 @@
+western_core analysis subset quality report
+Rows: 474
+Columns: 893
+Numeric columns: 837
+Included states: Arizona, Nevada, Utah, New Mexico, Colorado, California, Oregon, Washington, Idaho, Montana, Wyoming
+
+Label counts:
+- 0: 316
+- 1: 158
+
+Negative type counts:
+- (positive/blank): 158
+- mrds_hard_negative: 158
+- background_candidate_negative: 158
+
+State counts:
+- Arizona: 174
+- Washington: 111
+- Nevada: 84
+- New Mexico: 21
+- Oregon: 15
+- Utah: 15
+- Wyoming: 15
+- Colorado: 12
+- Idaho: 12
+- Montana: 9
+- California: 6
+
+Top 20 columns by missing rate:
+- geochem1_usgs_Re_value_nearest: 0.979
+- gravity_cmmi_deep_worms_steepness_max_5km: 0.823
+- gravity_cmmi_deep_worms_steepness_mean_5km: 0.823
+- geochem1_usgs_Au_value_nearest: 0.800
+- geochem1_usgs_W_value_nearest: 0.781
+- geochem2_nure_Re_ppm_mean_5km: 0.757
+- geochem2_nure_Re_ppm_max_5km: 0.757
+- geochem2_nure_Re_ppm_p95_5km: 0.757
+- geochem2_nure_Re_ppm_median_5km: 0.757
+- geochem1_usgs_Re_value_max_5km: 0.747
+- geochem1_usgs_Re_value_median_5km: 0.747
+- geochem1_usgs_Re_value_mean_5km: 0.747
+- geochem1_usgs_Re_value_p95_5km: 0.747
+- geochem1_usgs_Bi_value_nearest: 0.743
+- geochem2_nure_Re_ppm_max_10km: 0.690
+- geochem2_nure_Re_ppm_p95_10km: 0.690
+- geochem2_nure_Re_ppm_mean_10km: 0.690
+- geochem2_nure_Re_ppm_median_10km: 0.690
+- geochem2_nure_Re_ppm_nearest: 0.681
+- geochem1_usgs_Sb_value_nearest: 0.671

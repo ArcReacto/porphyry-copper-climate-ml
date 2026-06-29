@@ -1,0 +1,9 @@
+Environment check complete.
+Project root: C:\Users\PC\Desktop\探矿气象项目代码
+Checked paths: 42
+Missing paths: 0
+Mine header validation: True
+
+Outputs:
+C:\Users\PC\Desktop\探矿气象项目代码\logs\environment_check.json
+C:\Users\PC\Desktop\探矿气象项目代码\logs\environment_check.txt

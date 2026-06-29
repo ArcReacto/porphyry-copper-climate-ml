@@ -1,0 +1,21 @@
+Baseline report: western_core_full_climate_v1
+Rows: 474
+Features: 671
+Positive labels: 158
+Negative labels: 316
+
+Important safeguards:
+- Coordinates, state, sample IDs, negative_type, and constructed distance-to-positive/MRDS fields are metadata only.
+- Coverage/count/distance feature columns are excluded from model inputs.
+- Scores are baseline diagnostics, not final causal evidence.
+
+Mean cross-validation metrics:
+                     dataset               cv                  model  roc_auc_mean  average_precision_mean  balanced_accuracy_mean  precision_mean  recall_mean  f1_mean
+western_core_full_climate_v1 groupkfold_state       dummy_stratified        0.4357                  0.3159                  0.4357          0.2423       0.2345   0.2383
+western_core_full_climate_v1 groupkfold_state hist_gradient_boosting        0.9408                  0.8944                  0.8288          0.8614       0.7379   0.7748
+western_core_full_climate_v1 groupkfold_state    logistic_regression        0.8515                  0.7701                  0.7607          0.7686       0.6473   0.6862
+western_core_full_climate_v1 groupkfold_state          random_forest        0.9558                  0.9176                  0.8277          0.8194       0.7743   0.7738
+western_core_full_climate_v1 stratified_kfold       dummy_stratified        0.4192                  0.3087                  0.4192          0.2303       0.2403   0.2352
+western_core_full_climate_v1 stratified_kfold hist_gradient_boosting        0.9831                  0.9695                  0.9238          0.8881       0.9044   0.8954
+western_core_full_climate_v1 stratified_kfold    logistic_regression        0.9578                  0.9170                  0.9016          0.8459       0.8857   0.8641
+western_core_full_climate_v1 stratified_kfold          random_forest        0.9800                  0.9613                  0.9221          0.8739       0.9107   0.8901

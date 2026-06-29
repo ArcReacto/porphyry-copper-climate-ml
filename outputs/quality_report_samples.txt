@@ -1,0 +1,55 @@
+Samples feature table quality report
+Source file: C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_features_samples.parquet
+Rows: 1089
+Columns: 893
+Numeric columns: 837
+
+Top 20 columns by missing rate:
+- geochem1_usgs_Re_value_nearest: 0.989
+- geochem2_nure_Re_ppm_mean_5km: 0.894
+- geochem2_nure_Re_ppm_p95_5km: 0.894
+- geochem2_nure_Re_ppm_max_5km: 0.894
+- geochem2_nure_Re_ppm_median_5km: 0.894
+- gravity_cmmi_deep_worms_steepness_mean_5km: 0.870
+- gravity_cmmi_deep_worms_steepness_max_5km: 0.870
+- geochem2_nure_Re_ppm_max_10km: 0.865
+- geochem2_nure_Re_ppm_p95_10km: 0.865
+- geochem2_nure_Re_ppm_mean_10km: 0.865
+- geochem2_nure_Re_ppm_median_10km: 0.865
+- geochem1_usgs_Re_value_mean_5km: 0.864
+- geochem1_usgs_Re_value_median_5km: 0.864
+- geochem1_usgs_Re_value_p95_5km: 0.864
+- geochem1_usgs_Re_value_max_5km: 0.864
+- geochem2_nure_Ag_ppm_median_5km: 0.840
+- geochem2_nure_Ag_ppm_mean_5km: 0.840
+- geochem2_nure_Pb_ppm_max_5km: 0.840
+- geochem2_nure_Ag_ppm_p95_5km: 0.840
+- geochem2_nure_Ag_ppm_max_5km: 0.840
+
+State counts:
+- Alaska: 531
+- Arizona: 174
+- Washington: 111
+- Nevada: 84
+- Puerto Rico: 51
+- New Mexico: 21
+- North Carolina: 15
+- Oregon: 15
+- Utah: 15
+- Wyoming: 15
+- Colorado: 12
+- Idaho: 12
+- Montana: 9
+- California: 6
+- Maine: 6
+- Vermont: 6
+- Connecticut: 3
+- Texas: 3
+
+Label counts:
+- 0: 726
+- 1: 363
+
+Sample type counts:
+- negative: 726
+- positive: 363

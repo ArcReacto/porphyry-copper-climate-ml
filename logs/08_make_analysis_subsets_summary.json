@@ -1,0 +1,65 @@
+{
+  "source": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\model_features_samples.parquet",
+  "subsets": {
+    "western_core": {
+      "states": [
+        "Arizona",
+        "Nevada",
+        "Utah",
+        "New Mexico",
+        "Colorado",
+        "California",
+        "Oregon",
+        "Washington",
+        "Idaho",
+        "Montana",
+        "Wyoming"
+      ],
+      "rows": 474,
+      "columns": 893,
+      "label_counts": {
+        "0": 316,
+        "1": 158
+      },
+      "negative_type_counts": {
+        "": 158,
+        "mrds_hard_negative": 158,
+        "background_candidate_negative": 158
+      },
+      "outputs": {
+        "parquet": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\model_features_western_core.parquet",
+        "csv": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\model_features_western_core.csv",
+        "missing_rates_csv": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\quality_missing_rates_western_core.csv",
+        "numeric_summary_csv": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\quality_numeric_summary_western_core.csv",
+        "report_txt": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\quality_report_western_core.txt"
+      }
+    },
+    "southwest_core": {
+      "states": [
+        "Arizona",
+        "Nevada",
+        "Utah",
+        "New Mexico",
+        "Colorado"
+      ],
+      "rows": 306,
+      "columns": 893,
+      "label_counts": {
+        "0": 204,
+        "1": 102
+      },
+      "negative_type_counts": {
+        "": 102,
+        "mrds_hard_negative": 102,
+        "background_candidate_negative": 102
+      },
+      "outputs": {
+        "parquet": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\model_features_southwest_core.parquet",
+        "csv": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\model_features_southwest_core.csv",
+        "missing_rates_csv": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\quality_missing_rates_southwest_core.csv",
+        "numeric_summary_csv": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\quality_numeric_summary_southwest_core.csv",
+        "report_txt": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\outputs\\quality_report_southwest_core.txt"
+      }
+    }
+  }
+}

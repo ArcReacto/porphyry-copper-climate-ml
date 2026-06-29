@@ -1,0 +1,21 @@
+Baseline report: western_core_primary_v1
+Rows: 474
+Features: 196
+Positive labels: 158
+Negative labels: 316
+
+Important safeguards:
+- Coordinates, state, sample IDs, negative_type, and constructed distance-to-positive/MRDS fields are metadata only.
+- Coverage/count/distance feature columns are excluded from model inputs.
+- Scores are baseline diagnostics, not final causal evidence.
+
+Mean cross-validation metrics:
+                dataset               cv                  model  roc_auc_mean  average_precision_mean  balanced_accuracy_mean  precision_mean  recall_mean  f1_mean
+western_core_primary_v1 groupkfold_state       dummy_stratified        0.4357                  0.3159                  0.4357          0.2423       0.2345   0.2383
+western_core_primary_v1 groupkfold_state hist_gradient_boosting        0.9444                  0.9069                  0.8341          0.8492       0.7511   0.7738
+western_core_primary_v1 groupkfold_state    logistic_regression        0.7011                  0.6120                  0.7227          0.6848       0.6190   0.6032
+western_core_primary_v1 groupkfold_state          random_forest        0.9454                  0.8750                  0.8586          0.8016       0.8532   0.8047
+western_core_primary_v1 stratified_kfold       dummy_stratified        0.4192                  0.3087                  0.4192          0.2303       0.2403   0.2352
+western_core_primary_v1 stratified_kfold hist_gradient_boosting        0.9816                  0.9695                  0.9238          0.8818       0.9109   0.8937
+western_core_primary_v1 stratified_kfold    logistic_regression        0.8945                  0.7952                  0.8493          0.7845       0.8093   0.7949
+western_core_primary_v1 stratified_kfold          random_forest        0.9702                  0.9452                  0.8920          0.7990       0.8980   0.8436

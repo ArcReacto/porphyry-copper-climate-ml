@@ -1,0 +1,21 @@
+{
+  "rows": 1328452,
+  "selected_parameter_rows": 288,
+  "elements": [
+    "Cu",
+    "Mo",
+    "Au",
+    "Ag",
+    "Pb",
+    "Zn",
+    "As",
+    "Sb",
+    "Bi",
+    "W",
+    "Re"
+  ],
+  "outputs": {
+    "wide_parquet": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\data_intermediate\\geochem1_selected_elements_wide.parquet",
+    "selected_parameters_parquet": "C:\\Users\\PC\\Desktop\\探矿气象项目代码\\data_intermediate\\geochem1_selected_parameters.parquet"
+  }
+}
