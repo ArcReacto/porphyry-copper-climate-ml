@@ -1,0 +1,79 @@
+# Python / virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment and editor files
+.env
+.env.*
+.vscode/
+.idea/
+*.code-workspace
+
+# Local notes and paper-writing materials
+docs/
+
+# Local notes at repository root
+/*.md
+!/README.md
+!/README_CN.md
+
+# Large local data and generated intermediates
+data_intermediate/
+outputs/
+logs/
+tmp/
+temp/
+
+# Figure drafts and generated render artifacts
+figures/
+figuresnew/
+outputs/docx_render/
+*.inspect.ndjson
+
+# Office temporary files
+~$*
+*.docx
+*.pptx
+*.xlsx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives and bulky exported packages
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# Common local geospatial / raster / NetCDF data files
+*.parquet
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.tif
+*.tiff
+*.img
+*.hgt
+*.nc
+*.grd
+
+# Model artifacts
+*.pkl
+*.joblib
+*.model

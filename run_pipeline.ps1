@@ -18,19 +18,19 @@ else {
 
 Push-Location $ProjectRoot
 try {
-    & $Python .\scripts\00_check_environment.py
-    & $Python .\scripts\01_prepare_mines.py
-    & $Python .\scripts\07_build_sample_table.py
-    & $Python .\scripts\02_prepare_geochem2_nure.py
-    & $Python .\scripts\03_prepare_geochem1_usgs.py
-    & $Python .\scripts\04_prepare_gravity.py
-    & $Python .\scripts\05_spatial_align_features.py
-    & $Python .\scripts\13_align_cmmi_gravity_derivatives.py
-    & $Python .\scripts\11_align_terrain_geology.py
-    & $Python .\scripts\12_align_climate.py
-    & $Python .\scripts\06_quality_report.py
-    & $Python .\scripts\08_make_analysis_subsets.py
-    & $Python .\scripts\14_make_environment_groups.py
+    & $Python .\scripts\stage_01_data_alignment\00_check_environment.py
+    & $Python .\scripts\stage_01_data_alignment\01_prepare_mines.py
+    & $Python .\scripts\stage_02_sampling_and_region\07_build_sample_table.py
+    & $Python .\scripts\stage_01_data_alignment\02_prepare_geochem2_nure.py
+    & $Python .\scripts\stage_01_data_alignment\03_prepare_geochem1_usgs.py
+    & $Python .\scripts\stage_01_data_alignment\04_prepare_gravity.py
+    & $Python .\scripts\stage_01_data_alignment\05_spatial_align_features.py
+    & $Python .\scripts\stage_03_feature_expansion\13_align_cmmi_gravity_derivatives.py
+    & $Python .\scripts\stage_03_feature_expansion\11_align_terrain_geology.py
+    & $Python .\scripts\stage_03_feature_expansion\12_align_climate.py
+    & $Python .\scripts\stage_01_data_alignment\06_quality_report.py
+    & $Python .\scripts\stage_02_sampling_and_region\08_make_analysis_subsets.py
+    & $Python .\scripts\stage_03_feature_expansion\14_make_environment_groups.py
 }
 finally {
     Pop-Location

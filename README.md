@@ -1,124 +1,219 @@
-# 斑岩铜探矿 - 气象影响 - 因果推理项目代码
+# CD-MPM: Climate-Decoupled Mineral Prospectivity Mapping
 
-本项目用于把斑岩铜矿点、负样本、地球化学、地球物理、DEM、断层、地质图和气象数据对齐成表格特征，并运行第一版 baseline 模型。
-当前也已经生成气候/风化环境分组字段，可用于下一步按 environment 做因果发现。
+This repository contains the experimental code for a multi-source mineral prospectivity mapping project focused on climate-modified surface observations. The current main case study targets porphyry copper deposits in the western United States. The pipeline aligns mineral occurrence labels with geochemical, geophysical, geological, structural, terrain, and climate variables, then evaluates climate-aware prediction and ranking methods.
 
-## 当前主线
+The central method is **CD-MPM**, a climate-decoupled mineral prospectivity mapping workflow. Instead of treating climate variables only as direct predictors, the workflow uses them to identify climate-associated prospecting features and residualize selected observations before target ranking.
 
-当前默认主线只保留一套建模数据集：
+## Project Scope
+
+The project supports:
+
+- multi-source spatial feature alignment for mineral occurrence samples;
+- positive, hard-negative, and neutral sample construction;
+- baseline mineral prospectivity modeling;
+- climate ablation and climate-decoupling experiments;
+- climate sensitivity graph construction;
+- graph-guided residualization;
+- Top-K exploration ranking metrics;
+- cross-deposit-type generalization checks.
+
+The main benchmark currently uses a controlled **1:10 positive-to-hard-negative supervised dataset**. Neutral samples are retained in dataset packages but are not used in the main supervised training unless explicitly selected.
+
+## Repository Layout
 
 ```text
-western_core_all_features_v1
+.
+config/                         # Feature branch and experiment configuration files
+docs/                           # Notes, experiment summaries, reports, and paper-writing material
+figures/                        # Programmatically generated paper figures
+figuresnew/                     # Manually redesigned or final figure assets
+logs/                           # Environment and pipeline logs
+outputs/                        # Generated datasets, model outputs, reports, and figures
+scripts/
+  stage_01_data_alignment/      # Initial data checks and geochemical/geophysical cleaning
+  stage_02_sampling_and_region/
+  stage_03_feature_expansion/
+  stage_04_model_baseline/
+  stage_05_causal_graph/
+  stage_06_method_comparison/
+  stage_07_climate_decoupling/
+  stage_08_standard_workflow/
+  stage_09_generalization/
+  stage_10_branch_fusion/
+  stage_11_paper_optimization/
+  stage_12_paper_comparison/
+  stage_12_paper_figures/
+  stage_13_global_copper_catalog/
+src/                            # Shared project utilities, if used by scripts
+requirements.txt                # Python dependencies
+setup_env.ps1                   # Windows PowerShell environment setup
+run_pipeline.ps1                # End-to-end feature alignment pipeline
+run_standard_dataset_workflow.ps1
+run_paper_optimization_stage.ps1
 ```
 
-它包含：
+## Data
+
+The repository is designed to work with local geoscience datasets. Large raw and intermediate data files are not expected to be committed to GitHub.
+
+Set a local data root outside the repository, for example:
 
 ```text
-地球化学1 geochem1_usgs_*
-地球化学2 geochem2_nure_*
-NOAA 北美重力 gravity_na_*
-CMMI 重力派生 gravity_cmmi_*
-DEM 地形 terrain_*
-断层 fault_*
-CMMI 地质图 geology_*
-TerraClimate 气象 climate_*
+C:\path\to\local_geoscience_data
 ```
 
-旧的单特征或多特征组合结果已经归档，不再作为默认输出。
+The data sources include:
 
-## 环境初始化
+- mineral occurrence records and MRDS-derived mining records;
+- USGS geochemical data and NURE geochemical data;
+- NOAA gravity survey data;
+- CMMI gravity derivatives;
+- DEM-derived terrain variables;
+- geological map and fault features;
+- TerraClimate 1991-2020 climatology variables;
+- optional external deposit catalogues for generalization checks.
+
+For a clean GitHub version, place data outside the repository and update script arguments or configuration paths as needed.
+
+## Environment Setup
+
+This project is developed for Windows PowerShell and Python 3. The helper script creates a local virtual environment under `.venv/` and installs dependencies from `requirements.txt`.
 
 ```powershell
-cd 'C:\Users\PC\Desktop\探矿气象项目代码'
+cd "C:\path\to\project"
 .\setup_env.ps1
 ```
 
-## 运行数据对齐管线
+After setup, scripts are run through:
 
 ```powershell
-cd 'C:\Users\PC\Desktop\探矿气象项目代码'
+.\.venv\Scripts\python.exe
+```
+
+## Main Workflows
+
+### 1. Build Aligned Feature Tables
+
+Run the end-to-end alignment pipeline:
+
+```powershell
 .\run_pipeline.ps1
 ```
 
-该脚本会自动检查/创建虚拟环境，然后依次运行样本构建、地球化学、地球物理、CMMI 重力派生、DEM、断层、地质图、气象、质量报告、分析子集和环境分组脚本。
+This produces cleaned intermediate files and aligned modeling datasets under:
 
-## 环境分组
+```text
+data_intermediate/
+outputs/model_datasets/
+```
+
+### 2. Run the Standard Dataset Workflow
+
+For an already constructed modeling dataset, run:
 
 ```powershell
-.\.venv\Scripts\python.exe .\scripts\14_make_environment_groups.py
+.\run_standard_dataset_workflow.ps1 --input-path <model_dataset.parquet>
 ```
 
-主分组字段：
+The standard workflow generates:
+
+- baseline model results;
+- full/no-climate/residualized climate-decoupling results;
+- concept-level causal graph outputs;
+- concept-level climate-decoupling outputs.
+
+Default outputs are written to:
 
 ```text
-env_causal_group
+outputs/standardized_runs/<dataset_name>/
 ```
 
-当前 `western_core` 分组：
+### 3. Run Paper Optimization Experiments
 
-```text
-arid_basin_or_range: 190
-semi_arid_transition: 161
-snow_influenced_mountain: 77
-subhumid_humid_mountain: 46
-```
-
-这些 `env_*` 字段是后续因果发现的分组/元数据，不作为默认 baseline 的预测输入特征。
-
-## 生成主线建模数据集
+For the current main dataset, run:
 
 ```powershell
-.\.venv\Scripts\python.exe .\scripts\09_make_model_dataset.py
+.\run_paper_optimization_stage.ps1
 ```
 
-输出：
+This stage computes extended metrics, builds the climate sensitivity graph, runs graph-guided M4 residualization, and evaluates climate perturbation robustness.
+
+Key outputs are written to:
 
 ```text
-outputs\model_datasets\model_dataset_western_core_all_features_v1.parquet
-outputs\model_datasets\model_dataset_western_core_all_features_v1.csv
-outputs\model_datasets\model_dataset_western_core_all_features_v1_features.txt
+outputs/paper_optimization/
 ```
 
-当前规模：
+### 4. Run XGBoost M4 Hyperparameter Grid
 
-```text
-474 行
-158 个正样本
-316 个负样本
-703 个模型输入特征
-727 个总字段，其中包含 env_* 元数据字段
-```
+The graph-guided XGBoost grid searches over:
 
-## 训练四个 baseline 模型
-
-快速训练，不计算 permutation importance：
+- graph score threshold `tau`;
+- fold-local Spearman threshold `|rho_s|`.
 
 ```powershell
-.\.venv\Scripts\python.exe .\scripts\10_train_baseline.py --skip-permutation
+.\.venv\Scripts\python.exe .\scripts\stage_11_paper_optimization\70_xgboost_m4_hyperparameter_grid.py
 ```
 
-默认训练 4 个模型：
+Default outputs:
 
 ```text
-DummyClassifier
-LogisticRegression
-RandomForestClassifier
-HistGradientBoostingClassifier
+outputs/paper_optimization/xgboost_m4_hyperparameter_grid/
 ```
 
-输出：
+## Model Families
 
-```text
-outputs\baseline_results\baseline_report_western_core_all_features_v1.txt
-outputs\baseline_results\baseline_cv_summary_western_core_all_features_v1.csv
-outputs\baseline_results\baseline_cv_metrics_western_core_all_features_v1.csv
-outputs\baseline_results\baseline_group_errors_western_core_all_features_v1.csv
-outputs\baseline_results\baseline_feature_importance_western_core_all_features_v1.csv
-```
+The project includes several model and method families:
 
-## 重要说明
+- **Dummy stratified baseline**: sanity-check baseline.
+- **Logistic regression**: linear tabular baseline.
+- **Random forest**: tree ensemble baseline used in earlier experiments.
+- **HistGradientBoosting**: strong sklearn gradient boosting baseline.
+- **XGBoost**: stronger tree boosting model used in paper-oriented experiments.
+- **External MPM baselines**: reproduced methods inspired by recent mineral prospectivity mapping literature.
+- **M1 Full climate**: uses all features including climate variables.
+- **M2 No climate**: removes direct climate variables.
+- **M3 Full residualization**: residualizes broad feature sets and serves as an over-decoupling diagnostic.
+- **M4 Graph-guided residualization**: residualizes selected climate-associated features using a climate sensitivity graph.
 
-- `run_pipeline.ps1` 只负责数据对齐和质量报告，不默认训练模型。
-- baseline 分数用于判断当前特征表是否有预测可分性，不等同于因果证据。
-- 优先看 `groupkfold_state`，因为它按州分组验证，更接近跨地区泛化。
-- 详细字段血缘和对齐逻辑见 `docs\对齐逻辑说明.md`。
+## Evaluation
+
+The main validation protocol is **state-grouped GroupKFold**, where states define validation groups. This is intended as a practical regional validation protocol, not a full metallogenic-belt transfer test.
+
+Reported metrics include:
+
+- ROC-AUC;
+- average precision / PR-AUC;
+- balanced accuracy;
+- precision, recall, and F1;
+- Precision@K, Recall@K, F1@K;
+- Lift@K;
+- NDCG@K.
+
+Top-K metrics are emphasized because exploration is budget-constrained: only a small number of high-ranked targets can be followed up.
+
+## Current Main Experimental Direction
+
+The current paper-oriented storyline is:
+
+1. Multi-source geoscience and climate observations are aligned to candidate sample points.
+2. Climate is treated as an observation modifier rather than a direct deposit-forming factor.
+3. A climate sensitivity graph identifies stable climate-feature associations.
+4. Graph-guided residualization removes selected climate-associated variation from prospecting features.
+5. The resulting models are evaluated as target-ranking systems using Top-K metrics.
+
+Recent experiments show that graph-guided M4 can improve head-of-list ranking metrics over no-climate baselines under selected model families, especially when using XGBoost with tuned graph and Spearman thresholds.
+
+## Notes for GitHub Release
+
+Before pushing a public repository, consider excluding:
+
+- `.venv/`;
+- `outputs/`;
+- `data_intermediate/`;
+- raw geoscience data files;
+- temporary folders such as `tmp/` and `temp/`;
+- `__pycache__/` folders;
+- local Word, PowerPoint, and PDF drafts if they are not meant to be shared.
+
+The code is research-oriented and contains exploratory experiments. Reproducing all results requires access to the same local data sources and aligned dataset files.

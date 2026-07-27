@@ -14,4 +14,4 @@ $Python = Join-Path $VenvPath "Scripts\python.exe"
 Write-Host "Environment ready:"
 Write-Host $Python
 Write-Host "Run checks with:"
-Write-Host "`"$Python`" scripts\00_check_environment.py"
+Write-Host "`"$Python`" scripts\stage_01_data_alignment\00_check_environment.py"
