@@ -29,6 +29,8 @@ figures/                        # Programmatically generated paper figures
 figuresnew/                     # Manually redesigned or final figure assets
 logs/                           # Environment and pipeline logs
 outputs/                        # Generated datasets, model outputs, reports, and figures
+data/processed/porphyry_copper_1_10/
+                                # Released processed porphyry copper 1:10 benchmark dataset
 scripts/
   stage_01_data_alignment/      # Initial data checks and geochemical/geophysical cleaning
   stage_02_sampling_and_region/
@@ -54,7 +56,15 @@ run_paper_optimization_stage.ps1
 
 ## Data
 
-The repository is designed to work with local geoscience datasets. Large raw and intermediate data files are not expected to be committed to GitHub.
+This repository releases both code and a processed porphyry copper benchmark dataset. The released dataset is stored under:
+
+```text
+data/processed/porphyry_copper_1_10/
+```
+
+It contains the western-core porphyry copper 1:10 sample scheme used in the main experiments, including the supervised positive/hard-negative feature table, the version retaining neutral background samples, sample metadata, feature lists, and dataset metadata.
+
+Large raw source files and generated intermediate outputs are not committed to GitHub. To rebuild the full alignment pipeline from raw data, set a local data root outside the repository, for example:
 
 Set a local data root outside the repository, for example:
 
@@ -62,7 +72,7 @@ Set a local data root outside the repository, for example:
 C:\path\to\local_geoscience_data
 ```
 
-The data sources include:
+The raw data sources used to construct the released benchmark include:
 
 - mineral occurrence records and MRDS-derived mining records;
 - USGS geochemical data and NURE geochemical data;
@@ -73,7 +83,7 @@ The data sources include:
 - TerraClimate 1991-2020 climatology variables;
 - optional external deposit catalogues for generalization checks.
 
-For a clean GitHub version, place data outside the repository and update script arguments or configuration paths as needed.
+For full reproduction from raw data, place raw data outside the repository and update script arguments or configuration paths as needed.
 
 ## Environment Setup
 
@@ -191,29 +201,3 @@ Reported metrics include:
 - NDCG@K.
 
 Top-K metrics are emphasized because exploration is budget-constrained: only a small number of high-ranked targets can be followed up.
-
-## Current Main Experimental Direction
-
-The current paper-oriented storyline is:
-
-1. Multi-source geoscience and climate observations are aligned to candidate sample points.
-2. Climate is treated as an observation modifier rather than a direct deposit-forming factor.
-3. A climate sensitivity graph identifies stable climate-feature associations.
-4. Graph-guided residualization removes selected climate-associated variation from prospecting features.
-5. The resulting models are evaluated as target-ranking systems using Top-K metrics.
-
-Recent experiments show that graph-guided M4 can improve head-of-list ranking metrics over no-climate baselines under selected model families, especially when using XGBoost with tuned graph and Spearman thresholds.
-
-## Notes for GitHub Release
-
-Before pushing a public repository, consider excluding:
-
-- `.venv/`;
-- `outputs/`;
-- `data_intermediate/`;
-- raw geoscience data files;
-- temporary folders such as `tmp/` and `temp/`;
-- `__pycache__/` folders;
-- local Word, PowerPoint, and PDF drafts if they are not meant to be shared.
-
-The code is research-oriented and contains exploratory experiments. Reproducing all results requires access to the same local data sources and aligned dataset files.

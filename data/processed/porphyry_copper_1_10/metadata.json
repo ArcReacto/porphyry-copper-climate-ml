@@ -1,0 +1,53 @@
+{
+  "dataset_name": "porphyry_copper_known_mining_neutral_ratio_1_10",
+  "version": "v1",
+  "description": "Processed porphyry copper benchmark dataset for climate-decoupled mineral prospectivity mapping.",
+  "study_area": "Western-core United States study area used by the CD-MPM experiments",
+  "sample_scheme": {
+    "positive_samples": 158,
+    "hard_negative_samples": 1580,
+    "neutral_samples": 1580,
+    "positive_to_hard_negative_ratio": "1:10"
+  },
+  "label_encoding": {
+    "1": "known porphyry copper positive sample",
+    "0": "hard negative sample",
+    "-1": "neutral unlabeled background sample"
+  },
+  "tables": {
+    "supervised": {
+      "csv": "model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.csv",
+      "parquet": "model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.parquet",
+      "rows": 1738,
+      "columns": 682,
+      "feature_list": "model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1_features.txt",
+      "uses_neutral_samples": false
+    },
+    "with_neutral": {
+      "csv": "model_dataset_known_mining_neutral_ratio_1_10_with_neutral_all_features_v1.csv",
+      "parquet": "model_dataset_known_mining_neutral_ratio_1_10_with_neutral_all_features_v1.parquet",
+      "rows": 3318,
+      "columns": 682,
+      "feature_list": "model_dataset_known_mining_neutral_ratio_1_10_with_neutral_all_features_v1_features.txt",
+      "uses_neutral_samples": true
+    },
+    "samples": {
+      "csv": "samples_known_mining_neutral_ratio_1_10.csv",
+      "parquet": "samples_known_mining_neutral_ratio_1_10.parquet",
+      "rows": 3318
+    }
+  },
+  "feature_count": 656,
+  "feature_sources": [
+    "mineral occurrence and mining record metadata",
+    "USGS geochemistry",
+    "NURE geochemistry",
+    "NOAA gravity surveys",
+    "CMMI gravity derivatives",
+    "geological map attributes",
+    "fault and structural features",
+    "DEM-derived terrain variables",
+    "TerraClimate 1991-2020 climatology"
+  ],
+  "recommended_main_file": "model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.parquet"
+}

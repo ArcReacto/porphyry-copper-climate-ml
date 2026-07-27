@@ -77,3 +77,9 @@ desktop.ini
 *.pkl
 *.joblib
 *.model
+
+# Released processed benchmark dataset
+!data/
+!data/processed/
+!data/processed/porphyry_copper_1_10/
+!data/processed/porphyry_copper_1_10/**
