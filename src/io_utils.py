@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import csv
 import json
+import os
 from pathlib import Path
 from typing import Any
 
@@ -13,10 +14,33 @@ def project_root() -> Path:
     return Path(__file__).resolve().parents[1]
 
 
+def _default_data_root() -> Path:
+    return Path(os.environ.get("CDMPM_DATA_ROOT", project_root().parent / "data_raw"))
+
+
+def _expand_config_value(value: Any) -> Any:
+    if isinstance(value, dict):
+        return {key: _expand_config_value(child) for key, child in value.items()}
+    if isinstance(value, list):
+        return [_expand_config_value(child) for child in value]
+    if isinstance(value, str):
+        replacements = {
+            "${CDMPM_PROJECT_ROOT}": str(project_root()),
+            "${CDMPM_DATA_ROOT}": str(_default_data_root()),
+        }
+        expanded = value
+        for token, replacement in replacements.items():
+            expanded = expanded.replace(token, replacement)
+        return os.path.expandvars(expanded)
+    return value
+
+
 def load_config(config_path: str | Path | None = None) -> dict[str, Any]:
     path = Path(config_path) if config_path else project_root() / "config" / "paths.yaml"
     with path.open("r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
+        config = yaml.safe_load(f)
+    return _expand_config_value(config)
+
 
 
 def flatten_paths(obj: Any, prefix: str = "") -> list[tuple[str, Path]]:

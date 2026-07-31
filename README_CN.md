@@ -5,13 +5,13 @@
 项目代码根目录：
 
 ```text
-C:\Users\PC\Desktop\探矿气象项目代码
+${CDMPM_PROJECT_ROOT}
 ```
 
 项目数据根目录：
 
 ```text
-C:\Users\PC\Desktop\探矿气象数据集
+${CDMPM_DATA_ROOT}
 ```
 
 ## 1. 当前研究主线
@@ -88,7 +88,7 @@ flowchart TD
 首次运行：
 
 ```powershell
-cd 'C:\Users\PC\Desktop\探矿气象项目代码'
+cd '${CDMPM_PROJECT_ROOT}'
 .\setup_env.ps1
 ```
 
@@ -246,7 +246,7 @@ cd 'C:\Users\PC\Desktop\探矿气象项目代码'
 对任意建模数据集运行 baseline 和气候解耦：
 
 ```powershell
-.\run_standard_dataset_workflow.ps1 --validation-mode core --datasets "C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
+.\run_standard_dataset_workflow.ps1 --validation-mode core --datasets "${CDMPM_PROJECT_ROOT}\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
 ```
 
 `--validation-mode core` 运行：
@@ -306,7 +306,7 @@ outputs/standardized_runs/<数据集名>/
 运行：
 
 ```powershell
-.\run_standard_causal_graph_workflow.ps1 --datasets "C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
+.\run_standard_causal_graph_workflow.ps1 --datasets "${CDMPM_PROJECT_ROOT}\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
 ```
 
 输出：
@@ -351,7 +351,7 @@ aridity
 运行：
 
 ```powershell
-.\run_concept_climate_decoupling.ps1 --validation-mode core --datasets "C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
+.\run_concept_climate_decoupling.ps1 --validation-mode core --datasets "${CDMPM_PROJECT_ROOT}\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
 ```
 
 输出：
@@ -468,7 +468,7 @@ outputs/model_datasets/by_sample_scheme/known_mining_neutral/known_mining_neutra
 运行：
 
 ```powershell
-.\run_generalization_audit.ps1 --models hist_gradient_boosting random_forest --max-splits 3 --feature-sets all_features no_climate_no_location core_geo_geochem_geophysics concept_all concept_no_climate --datasets "C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
+.\run_generalization_audit.ps1 --models hist_gradient_boosting random_forest --max-splits 3 --feature-sets all_features no_climate_no_location core_geo_geochem_geophysics concept_all concept_no_climate --datasets "${CDMPM_PROJECT_ROOT}\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
 ```
 
 输出：

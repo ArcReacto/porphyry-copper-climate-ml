@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 import matplotlib.pyplot as plt
@@ -13,7 +14,7 @@ from cdmpm_figure_style import COLORS, save_figure
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-DATA_ROOT = Path.home() / "Desktop" / "\u63a2\u77ff\u6c14\u8c61\u6570\u636e\u96c6"
+DATA_ROOT = Path(os.environ.get("CDMPM_DATA_ROOT", PROJECT_ROOT.parent / "data_raw"))
 OUT_DIR = PROJECT_ROOT / "figures"
 
 DATASET_PATH = (

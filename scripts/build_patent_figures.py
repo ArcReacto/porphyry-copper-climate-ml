@@ -9,7 +9,7 @@ from docx.shared import Inches, Pt
 from docx.oxml.ns import qn
 
 
-PROJECT_ROOT = Path(r"C:\Users\PC\Desktop\探矿气象项目代码")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = PROJECT_ROOT / "docs" / "patent_figures"
 DOCX_PATH = PROJECT_ROOT / "docs" / "专利附图_气候解耦矿产远景预测.docx"
 

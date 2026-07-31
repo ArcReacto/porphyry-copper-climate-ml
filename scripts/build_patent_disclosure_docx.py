@@ -9,7 +9,7 @@ from docx.oxml.ns import qn
 from docx.shared import Cm, Inches, Pt, RGBColor
 
 
-PROJECT_ROOT = Path(r"C:\Users\PC\Desktop\探矿气象项目代码")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUT_PATH = PROJECT_ROOT / "docs" / "发明专利技术交底书_气候解耦矿产远景预测.docx"
 
 

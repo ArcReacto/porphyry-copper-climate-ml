@@ -1,65 +1,69 @@
 project:
-  root: 'C:\Users\PC\Desktop\探矿气象项目代码'
-  data_intermediate: 'C:\Users\PC\Desktop\探矿气象项目代码\data_intermediate'
-  outputs: 'C:\Users\PC\Desktop\探矿气象项目代码\outputs'
-  logs: 'C:\Users\PC\Desktop\探矿气象项目代码\logs'
+  root: "${CDMPM_PROJECT_ROOT}"
+  data_intermediate: "${CDMPM_PROJECT_ROOT}/data_intermediate"
+  outputs: "${CDMPM_PROJECT_ROOT}/outputs"
+  logs: "${CDMPM_PROJECT_ROOT}/logs"
 
-data_root: 'C:\Users\PC\Desktop\探矿气象数据集'
+# Set CDMPM_DATA_ROOT to the directory containing the raw source datasets.
+# Example:
+#   PowerShell: $env:CDMPM_DATA_ROOT = "D:/datasets/cdmpm_raw"
+#   Bash:       export CDMPM_DATA_ROOT=/data/cdmpm_raw
+data_root: "${CDMPM_DATA_ROOT}"
 
 mines:
-  mrds_full: 'C:\Users\PC\Desktop\探矿气象数据集\mrds.csv'
-  porphyry_subset_no_header: 'C:\Users\PC\Desktop\探矿气象数据集\矿点-工作表1.csv'
+  mrds_full: "${CDMPM_DATA_ROOT}/mrds.csv"
+  porphyry_subset_no_header: "${CDMPM_DATA_ROOT}/mines_porphyry.csv"
 
 geochem1:
-  parquet_dir: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学1\Geochem_DataRelease_2025_11_18.parquet'
-  metadata_xml: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学1\geochem_metadata.xml'
+  parquet_dir: "${CDMPM_DATA_ROOT}/geochem1/Geochem_DataRelease_2025_11_18.parquet"
+  metadata_xml: "${CDMPM_DATA_ROOT}/geochem1/geochem_metadata.xml"
   tables:
-    geol: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学1\Geochem_DataRelease_2025_11_18.parquet\tbl_geol.parquet'
-    chem: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学1\Geochem_DataRelease_2025_11_18.parquet\tbl_chem.parquet'
-    parameter: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学1\Geochem_DataRelease_2025_11_18.parquet\tbl_parameter.parquet'
-    parameter_rank: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学1\Geochem_DataRelease_2025_11_18.parquet\tbl_parameter_rank.parquet'
-    data_dictionary: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学1\Geochem_DataRelease_2025_11_18.parquet\tbl_data_dictionary.parquet'
-  gpkg_reference: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学1\Geochem_DataRelease_2025_11_18.gpkg'
+    geol: "${CDMPM_DATA_ROOT}/geochem1/Geochem_DataRelease_2025_11_18.parquet/tbl_geol.parquet"
+    chem: "${CDMPM_DATA_ROOT}/geochem1/Geochem_DataRelease_2025_11_18.parquet/tbl_chem.parquet"
+    parameter: "${CDMPM_DATA_ROOT}/geochem1/Geochem_DataRelease_2025_11_18.parquet/tbl_parameter.parquet"
+    parameter_rank: "${CDMPM_DATA_ROOT}/geochem1/Geochem_DataRelease_2025_11_18.parquet/tbl_parameter_rank.parquet"
+    data_dictionary: "${CDMPM_DATA_ROOT}/geochem1/Geochem_DataRelease_2025_11_18.parquet/tbl_data_dictionary.parquet"
+  gpkg_reference: "${CDMPM_DATA_ROOT}/geochem1/Geochem_DataRelease_2025_11_18.gpkg"
 
 geochem2:
-  main_csv: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学2\Reanalyzed_NURE-HSSRv8.csv'
-  data_dictionary: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学2\NURE_Reanalysis_DataDictionary_20210331.csv'
-  detection_limits: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学2\ChangeinDetectionLimit.csv'
-  sample_locations_zip: 'C:\Users\PC\Desktop\探矿气象数据集\地球化学2\NURE_Reanalysis_Sample_Locations.zip'
+  main_csv: "${CDMPM_DATA_ROOT}/geochem2/Reanalyzed_NURE-HSSRv8.csv"
+  data_dictionary: "${CDMPM_DATA_ROOT}/geochem2/NURE_Reanalysis_DataDictionary_20210331.csv"
+  detection_limits: "${CDMPM_DATA_ROOT}/geochem2/ChangeinDetectionLimit.csv"
+  sample_locations_zip: "${CDMPM_DATA_ROOT}/geochem2/NURE_Reanalysis_Sample_Locations.zip"
 
 gravity:
   first_stage:
-    north_america_grid_xyz: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\North_America_2.5_Bouguer_and_Free_Air_Gravity_Grid\dgrav.xyz'
-    north_america_grid_doc: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\North_America_2.5_Bouguer_and_Free_Air_Gravity_Grid\dgrav.txt'
-    alaska_freeair_xyz: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\Alaska_Terrain_Corrected_Free_Air_Anomalies\grav96al.xyz'
-    alaska_station_xyz: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\Alaska_Gravity_Station_Data\intak97.xyz'
-    alaska_station_doc: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\Alaska_Gravity_Station_Data\intak97.txt'
+    north_america_grid_xyz: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/North_America_2.5_Bouguer_and_Free_Air_Gravity_Grid/dgrav.xyz"
+    north_america_grid_doc: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/North_America_2.5_Bouguer_and_Free_Air_Gravity_Grid/dgrav.txt"
+    alaska_freeair_xyz: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/Alaska_Terrain_Corrected_Free_Air_Anomalies/grav96al.xyz"
+    alaska_station_xyz: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/Alaska_Gravity_Station_Data/intak97.xyz"
+    alaska_station_doc: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/Alaska_Gravity_Station_Data/intak97.txt"
   second_stage:
-    nevada_bouguer_xyz: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\Nevada_Bouguer_Gravity_Grid\nevboug.xyz'
-    utah_bouguer_xyz: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\Utah_Bouguer_Gravity_Grid\utahg.xyz'
-    idaho_bouguer_xyz: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\Idaho_Bouguer_Gravity_Grid\idahog.xyz'
-    california_s_nevada_station_xyz: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\noaa_gravity_surveys\California_and_Southern_Nevada\calif.xyz'
+    nevada_bouguer_xyz: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/Nevada_Bouguer_Gravity_Grid/nevboug.xyz"
+    utah_bouguer_xyz: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/Utah_Bouguer_Gravity_Grid/utahg.xyz"
+    idaho_bouguer_xyz: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/Idaho_Bouguer_Gravity_Grid/idahog.xyz"
+    california_s_nevada_station_xyz: "${CDMPM_DATA_ROOT}/geophysics/noaa_gravity_surveys/California_and_Southern_Nevada/calif.xyz"
   cmmi_derivatives:
-    root: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives'
-    hgm_tif: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives\GeophysicsGravity_HGM_USCanada\GeophysicsGravity_HGM_USCanada.tif'
-    hgm_tfw: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives\GeophysicsGravity_HGM_USCanada\GeophysicsGravity_HGM_USCanada.tfw'
-    up30km_tif: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives\GeophysicsGravity_Up30km_USCanada\GeophysicsGravity_Up30km_USCanada.tif'
-    up30km_tfw: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives\GeophysicsGravity_Up30km_USCanada\GeophysicsGravity_Up30km_USCanada.tfw'
-    up30km_hgm_tif: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives\GeophysicsGravity_Up30km_HGM_USCanada\GeophysicsGravity_Up30km_HGM_USCanada.tif'
-    up30km_hgm_tfw: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives\GeophysicsGravity_Up30km_HGM_USCanada\GeophysicsGravity_Up30km_HGM_USCanada.tfw'
-    shallow_worms_shp: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives\ShallowGravitySources_Worms_USCanada\ShallowGravitySources_Worms_USCanada.shp'
-    deep_worms_shp: 'C:\Users\PC\Desktop\探矿气象数据集\地球物理\CMMI_Gravity_Derivatives\DeepGravitySources_Worms_USCanada\DeepGravitySources_Worms_USCanada.shp'
+    root: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives"
+    hgm_tif: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives/GeophysicsGravity_HGM_USCanada/GeophysicsGravity_HGM_USCanada.tif"
+    hgm_tfw: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives/GeophysicsGravity_HGM_USCanada/GeophysicsGravity_HGM_USCanada.tfw"
+    up30km_tif: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives/GeophysicsGravity_Up30km_USCanada/GeophysicsGravity_Up30km_USCanada.tif"
+    up30km_tfw: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives/GeophysicsGravity_Up30km_USCanada/GeophysicsGravity_Up30km_USCanada.tfw"
+    up30km_hgm_tif: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives/GeophysicsGravity_Up30km_HGM_USCanada/GeophysicsGravity_Up30km_HGM_USCanada.tif"
+    up30km_hgm_tfw: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives/GeophysicsGravity_Up30km_HGM_USCanada/GeophysicsGravity_Up30km_HGM_USCanada.tfw"
+    shallow_worms_shp: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives/ShallowGravitySources_Worms_USCanada/ShallowGravitySources_Worms_USCanada.shp"
+    deep_worms_shp: "${CDMPM_DATA_ROOT}/geophysics/CMMI_Gravity_Derivatives/DeepGravitySources_Worms_USCanada/DeepGravitySources_Worms_USCanada.shp"
 
 dem:
-  hgt_root: 'C:\Users\PC\Desktop\探矿气象数据集\DEM'
+  hgt_root: "${CDMPM_DATA_ROOT}/DEM"
 
 geology:
-  cmmi_classification_csv: 'C:\Users\PC\Desktop\探矿气象数据集\地质\CMMI_Geology\CMMI_Classification.csv'
-  geology_conus_shp: 'C:\Users\PC\Desktop\探矿气象数据集\地质\CMMI_Geology\Geology_CONUS\Geology_CONUS.shp'
-  faults_uscanada_shp: 'C:\Users\PC\Desktop\探矿气象数据集\地质\CMMI_Faults\GeologyFaults_USCanada\GeologyFaults_USCanada.shp'
+  cmmi_classification_csv: "${CDMPM_DATA_ROOT}/geology/CMMI_Geology/CMMI_Classification.csv"
+  geology_conus_shp: "${CDMPM_DATA_ROOT}/geology/CMMI_Geology/Geology_CONUS/Geology_CONUS.shp"
+  faults_uscanada_shp: "${CDMPM_DATA_ROOT}/geology/CMMI_Faults/GeologyFaults_USCanada/GeologyFaults_USCanada.shp"
 
 climate:
-  terraclimate_climatology_dir: 'C:\Users\PC\Desktop\探矿气象数据集\气象\TerraClimate_climatology_1991_2020'
+  terraclimate_climatology_dir: "${CDMPM_DATA_ROOT}/climate/TerraClimate_climatology_1991_2020"
 
 targets:
   elements:

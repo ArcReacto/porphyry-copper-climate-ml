@@ -137,7 +137,7 @@ outputs/standardized_runs/<数据集名>/
 运行示例：
 
 ```powershell
-.\run_standard_dataset_workflow.ps1 --datasets "C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_datasets\model_dataset_western_core_all_features_v1.parquet"
+.\run_standard_dataset_workflow.ps1 --datasets "${CDMPM_PROJECT_ROOT}\outputs\model_datasets\model_dataset_western_core_all_features_v1.parquet"
 ```
 
 M4 在该标准入口中会在每个交叉验证 fold 的训练集内部重新筛选气候敏感地球化学特征，避免复用旧数据集筛选表。
@@ -147,7 +147,7 @@ M4 在该标准入口中会在每个交叉验证 fold 的训练集内部重新�
 stage_05 也新增了一个标准化入口：
 
 ```powershell
-.\run_standard_causal_graph_workflow.ps1 --datasets "C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
+.\run_standard_causal_graph_workflow.ps1 --datasets "${CDMPM_PROJECT_ROOT}\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
 ```
 
 对应脚本：
@@ -168,7 +168,7 @@ outputs\standardized_runs\<数据集名>\03_causal_graph
 After running the standardized causal graph workflow, concept features can be used for a concept-level climate decoupling experiment:
 
 ```powershell
-.\run_concept_climate_decoupling.ps1 --validation-mode core --datasets "C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
+.\run_concept_climate_decoupling.ps1 --validation-mode core --datasets "${CDMPM_PROJECT_ROOT}\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
 ```
 
 Corresponding script:
@@ -190,7 +190,7 @@ This experiment compares all concepts, no climate concepts, all non-climate conc
 Strict generalization and de-regionalization audit:
 
 ```powershell
-.\run_generalization_audit.ps1 --models hist_gradient_boosting random_forest --max-splits 3 --feature-sets all_features no_climate_no_location core_geo_geochem_geophysics concept_all concept_no_climate --datasets "C:\Users\PC\Desktop\探矿气象项目代码\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
+.\run_generalization_audit.ps1 --models hist_gradient_boosting random_forest --max-splits 3 --feature-sets all_features no_climate_no_location core_geo_geochem_geophysics concept_all concept_no_climate --datasets "${CDMPM_PROJECT_ROOT}\outputs\model_datasets\by_sample_scheme\ratio_1_10\model_dataset_western_core_ratio_1_10_all_features_v1.parquet"
 ```
 
 Corresponding script:

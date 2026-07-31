@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import os
 import json
 import math
 import re
@@ -16,7 +17,7 @@ from shapely.prepared import prep
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-DATA_ROOT = PROJECT_ROOT.parent / "探矿气象数据集"
+DATA_ROOT = Path(os.environ.get("CDMPM_DATA_ROOT", PROJECT_ROOT.parent / "data_raw"))
 GLOBAL_DATA_ROOT = DATA_ROOT / "Global-copper-deposit-dataset"
 OUT_ROOT = PROJECT_ROOT / "outputs" / "global_copper_catalog"
 EARTH_RADIUS_KM = 6371.0088
