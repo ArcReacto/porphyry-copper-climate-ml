@@ -1,0 +1,23 @@
+{
+  "experiment": "final_model_spatial_block_validation",
+  "dataset": "known_mining_neutral_ratio_1_10_supervised_all_features_v1",
+  "input_dataset": "PACKAGE_ROOT/outputs/model_datasets/by_sample_scheme/known_mining_neutral/known_mining_neutral_ratio_1_10/model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.parquet",
+  "grid_degrees": [
+    2.0,
+    3.0
+  ],
+  "validation": "5-fold GroupKFold by spatial grid",
+  "models": [
+    "NoClimate_RF",
+    "M4_Spearman_RF",
+    "M4_GraphUnion_RF"
+  ],
+  "random_state": 20260622,
+  "fold_local_steps": [
+    "environment stability",
+    "causal edge discovery",
+    "graph construction",
+    "Spearman selection",
+    "residualizer fit"
+  ]
+}

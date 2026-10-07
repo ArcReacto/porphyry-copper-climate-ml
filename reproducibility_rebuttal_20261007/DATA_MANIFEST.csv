@@ -1,0 +1,21 @@
+path,rows,columns,positive_rows,negative_rows,role
+data/run_inputs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.csv,1738,682,158,1580,Main aligned 1:10 supervised benchmark
+data/run_inputs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/00_dataset_profile/feature_roles.csv,682,10,,,Feature roles and model eligibility flags
+data/run_inputs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/03_causal_graph/02_feature_to_concept_resolved.csv,658,10,,,Feature-to-concept mapping
+data/run_inputs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/03_causal_graph/04_concept_features.csv,1738,73,158,1580,Aligned concept-level features
+data/run_inputs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/03_causal_graph/05_concept_feature_dictionary.csv,49,7,,,Concept feature dictionary
+data/run_inputs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/04_concept_climate_decoupling/00_concept_feature_roles.csv,49,10,,,Concept-level roles
+data/sample_schemes/ratio_1_5/model_dataset_known_mining_neutral_ratio_1_5_supervised_all_features_v1.csv,948,680,158,790,Negative-ratio sensitivity 1:5
+data/sample_schemes/ratio_1_20/model_dataset_known_mining_neutral_ratio_1_20_supervised_all_features_v1.csv,3318,684,158,3160,Negative-ratio sensitivity 1:20
+data/sample_schemes/ratio_1_10/model_dataset_known_mining_neutral_ratio_1_10_with_neutral_all_features_v1.csv,3318,682,158,1580,Negative-source sensitivity including neutral/background rows
+data/sample_schemes/ratio_1_10/samples_known_mining_neutral_ratio_1_10.csv,3318,66,158,1580,Sample provenance and spatial audit fields
+data/aster_basic/aster_climate_features.csv,1744,317,145,1599,Basic ASTER-aligned climate features
+data/aster_basic/features_VNIR.csv,1735,12,145,1590,ASTER VNIR bands
+data/aster_basic/features_SWIR.csv,1735,16,145,1590,ASTER SWIR bands
+data/aster_basic/features_TIR.csv,1735,18,145,1590,ASTER TIR bands
+data/aster_basic/lulc_features.csv,1744,50,,,ASTER-aligned land-cover features
+data/aster_enhanced/A132_enhanced_features_binary_1738.csv,1738,139,158,1580,Aligned 132-dimensional enhanced ASTER input
+data/aster_enhanced/A132_feature_manifest.csv,132,6,,,A132 feature definitions
+data/aster_enhanced/fixed_splits_stage1.csv,3318,8,158,1580,Fixed sample and fold mapping
+data/aster_enhanced/state_grouped_fold_summary.csv,11,6,,,State-to-fold summary
+data/paleoclimate/paleoclimate_aligned_1738.csv,1738,18,158,1580,Aligned WNATA and NASPA variables; 1729 complete rows

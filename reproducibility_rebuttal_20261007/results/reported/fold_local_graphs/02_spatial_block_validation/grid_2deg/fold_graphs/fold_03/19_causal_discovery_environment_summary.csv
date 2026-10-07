@@ -1,0 +1,4 @@
+﻿environment,rows,positive,negative,candidate_concepts,edges,status
+arid_basin_or_range,561,41,520,36,45,ok
+semi_arid_transition,477,49,428,36,45,ok
+snow_influenced_mountain,155,50,105,36,45,ok

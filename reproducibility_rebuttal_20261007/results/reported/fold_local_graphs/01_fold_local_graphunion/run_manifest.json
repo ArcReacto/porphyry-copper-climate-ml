@@ -1,0 +1,34 @@
+{
+  "experiment": "fold_local_graphunion",
+  "dataset": "known_mining_neutral_ratio_1_10_supervised_all_features_v1",
+  "input_dataset": "PACKAGE_ROOT/outputs/model_datasets/by_sample_scheme/known_mining_neutral/known_mining_neutral_ratio_1_10/model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.parquet",
+  "run_dir": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1",
+  "output_dir": "PACKAGE_ROOT/outputs/rebuttal_experiments/01_fold_local_graphunion",
+  "validation": "5-fold GroupKFold by state",
+  "random_state": 20260622,
+  "models": [
+    "NoClimate_RF",
+    "M4_Spearman_RF",
+    "M4_GraphUnion_RF"
+  ],
+  "parameters": {
+    "bootstrap": 100,
+    "top_k": 12,
+    "selection_rate_threshold": 0.5,
+    "auc_threshold": 0.3,
+    "rf_top_k": 12,
+    "partial_threshold": 0.18,
+    "p_threshold": 0.2,
+    "max_edges_per_environment": 45,
+    "spearman_threshold": 0.3,
+    "min_combined_score": 0.5
+  },
+  "leakage_control": {
+    "concept_correlation": "training fold only",
+    "environment_stability": "training fold only",
+    "causal_edge_discovery": "training fold only",
+    "graph_target_selection": "training fold only",
+    "residualizer": "training fold only",
+    "test_fold_usage": "transform and evaluation only"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "run_dir": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1",
+  "source_dataset": "PACKAGE_ROOT/outputs/model_datasets/by_sample_scheme/known_mining_neutral/known_mining_neutral_ratio_1_10/model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.parquet",
+  "source_dataset_sha256": "c138aadba4a4e4a9bbb5b129607be376915d885998a17a01686473ef915a811c",
+  "feature_roles_sha256": "2c9d565d84316fb8325d2d72ce1fc63c50a1439e74696c7d0e3c47654c75ed25",
+  "alignment_sha256": "1dc7d6078c53d7a92deed0c4cf5ccaf215ab661917dfe0f448e5bb7ff1056d2c",
+  "qc_summary_sha256": "4e364adc75edeb86818e2afb3fd09320f4cd08d3630debd1491b4c76285a719b",
+  "sample_count": 1729,
+  "positive_count": 158,
+  "n_folds": 5,
+  "spearman_threshold": 0.3,
+  "random_state": 20260622,
+  "model_family": "xgboost",
+  "xgboost_parameters": {
+    "n_estimators": 400,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_child_weight": 3,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "reg_lambda": 2.0,
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "random_state": 20260622,
+    "n_jobs": 4
+  },
+  "configs": [
+    "m2_no_climate",
+    "m4_modern_24",
+    "m4_modern_2",
+    "m4_paleo_2",
+    "m4_modern_plus_paleo_26",
+    "m1_modern_full",
+    "m1_modern_plus_paleo"
+  ]
+}

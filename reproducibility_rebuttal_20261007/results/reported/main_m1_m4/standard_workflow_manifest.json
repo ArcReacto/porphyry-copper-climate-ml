@@ -1,0 +1,15 @@
+{
+  "dataset": "known_mining_neutral_ratio_1_10_supervised_all_features_v1",
+  "input_path": "PACKAGE_ROOT/outputs/model_datasets/by_sample_scheme/known_mining_neutral/known_mining_neutral_ratio_1_10/model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.parquet",
+  "output_dir": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1",
+  "m4_threshold": 0.3,
+  "validation_mode": "core",
+  "rf_n_estimators": 300,
+  "outputs": {
+    "profile": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/00_dataset_profile/dataset_profile.json",
+    "baseline_summary": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/01_baseline_models/baseline_summary.csv",
+    "climate_decoupling_summary": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/02_climate_decoupling/climate_decoupling_summary.csv",
+    "combined_summary": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/standard_workflow_summary.csv",
+    "report": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/standard_workflow_report.md"
+  }
+}

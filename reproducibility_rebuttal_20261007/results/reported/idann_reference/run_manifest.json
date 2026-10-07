@@ -1,0 +1,37 @@
+{
+  "reference": "Lin and Zuo (2025), DOI 10.1007/s11004-024-10164-3",
+  "status": "IDANN-inspired tabular adaptation; not an exact paper reproduction",
+  "input_path": "PACKAGE_ROOT/outputs/model_datasets/by_sample_scheme/known_mining_neutral/known_mining_neutral_ratio_1_10/model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.parquet",
+  "input_sha256": "c138aadba4a4e4a9bbb5b129607be376915d885998a17a01686473ef915a811c",
+  "roles_path": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/00_dataset_profile/feature_roles.csv",
+  "roles_sha256": "2c9d565d84316fb8325d2d72ce1fc63c50a1439e74696c7d0e3c47654c75ed25",
+  "paper_path": "EXTERNAL_REFERENCE/s11004-024-10164-3.pdf",
+  "paper_sha256": "074ea2240c57a93c3b51c3ec0acd141cd3401ae553042fd5382dd3eece774e91",
+  "n_samples": 1738,
+  "n_positives": 158,
+  "n_features": 385,
+  "cv": "GroupKFold(n_splits=5, groups=state)",
+  "modes": [
+    "source_only",
+    "dan_mmd",
+    "dann",
+    "idann"
+  ],
+  "epochs": 30,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "seeds": [
+    2025,
+    2026,
+    2027
+  ],
+  "max_folds": 5,
+  "architecture": "MLP 385-128-64-32; label head 32-64-32-1; domain head 32-32-1",
+  "adaptations": [
+    "Tabular MLP replaces original 7x7x42 patch CNN because patch rasters are unavailable.",
+    "Train-fold-only k-nearest-neighbor linear interpolation replaces DeepSMOTE.",
+    "Target samples are used as unlabeled transductive inputs only; no target labels enter training.",
+    "Source-fitted median imputation, standardization, and clipping to [-8,8].",
+    "Fixed epochs and hyperparameters; no held-out labels used for tuning."
+  ]
+}

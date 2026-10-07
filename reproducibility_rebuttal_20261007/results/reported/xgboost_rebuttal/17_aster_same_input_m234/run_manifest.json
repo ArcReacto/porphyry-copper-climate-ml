@@ -1,0 +1,55 @@
+{
+  "experiment": "same-input ASTER M2/M3/M4 comparison",
+  "data_dir": "PACKAGE_ROOT/data/aster_basic",
+  "run_dir_for_climate_roles": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1",
+  "output_dir": "PACKAGE_ROOT/outputs/rebuttal_experiments/xgboost/17_aster_same_input_m234",
+  "rows": 1735,
+  "positive": 145,
+  "negative": 1590,
+  "states": 11,
+  "aster_features": 31,
+  "lulc_features": 48,
+  "climate_adjusters": 24,
+  "aster_missing_fraction": 0.1399088965324905,
+  "lulc_missing_fraction": 0.12641690682036502,
+  "climate_missing_fraction": 0.0,
+  "input_sha256": {
+    "aster_climate": "efe55a7f71eca85dfc14f966bd44e6351988eee191e924ba8193e10c6f4e976b",
+    "vnir": "d12541d6047dac1e72e2faf36c04487088c22b4f51651a4a21e40a0a7fcb6784",
+    "swir": "5ec669a121845a8593c5506217d444aa68d62bc21721e0e5b0bc7da5360e3edd",
+    "tir": "02889590b1fbb43e523cc1fb8eb86bd825cd575d23c483628e10c80b8778d7db",
+    "lulc": "81598f55d735343f6e69d59ee30dcad498ffb8d4bdf8f571dcc136376e07d24a"
+  },
+  "validation": "5-fold GroupKFold by state",
+  "models": [
+    "M2_ASTER_RAW_XGB",
+    "M3_ASTER_BROAD_XGB",
+    "M4_ASTER_SPEARMAN_XGB"
+  ],
+  "spearman_threshold": 0.3,
+  "paired_bootstrap": {
+    "unit": "held-out fold",
+    "repeats": 10000,
+    "seed": 20261006
+  },
+  "residualizer": {
+    "model": "Ridge",
+    "alpha": 10.0,
+    "fit_scope": "training fold only"
+  },
+  "classifier": "XGBoost",
+  "xgboost_parameters": {
+    "n_estimators": 400,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_child_weight": 3,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "reg_lambda": 2.0,
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "random_state": 20260622,
+    "n_jobs": 4
+  },
+  "feature_boundary": "31 basic ASTER + 48 LULC; no 611-dimensional ASTER_enhanced features"
+}

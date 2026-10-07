@@ -1,0 +1,5 @@
+threshold_km,clusters,multi_sample_clusters,samples_in_multi_sample_clusters,cross_state_clusters,label_mixed_clusters,largest_cluster
+1.0,1696,32,74,0,0,4
+5.0,1527,157,368,0,0,8
+10.0,1181,281,838,0,0,12
+20.0,592,212,1358,3,0,123

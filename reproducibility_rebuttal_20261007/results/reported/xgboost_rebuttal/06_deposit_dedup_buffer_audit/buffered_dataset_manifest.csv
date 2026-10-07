@@ -1,0 +1,21 @@
+buffer_km,fold,test_group,n_train_before,n_train_after,n_train_removed,positive_train_before,positive_train_after,positive_removed,n_test,positive_test
+0.0,1,Arizona,1100,1100,0,100,100,0,638,58
+0.0,2,Washington,1331,1331,0,121,121,0,407,37
+0.0,3,Nevada,1430,1430,0,130,130,0,308,28
+0.0,4,California;Colorado;New Mexico;Oregon,1540,1540,0,140,140,0,198,18
+0.0,5,Idaho;Montana;Utah;Wyoming,1551,1551,0,141,141,0,187,17
+10.0,1,Arizona,1100,1100,0,100,100,0,638,58
+10.0,2,Washington,1331,1331,0,121,121,0,407,37
+10.0,3,Nevada,1430,1430,0,130,130,0,308,28
+10.0,4,California;Colorado;New Mexico;Oregon,1540,1540,0,140,140,0,198,18
+10.0,5,Idaho;Montana;Utah;Wyoming,1551,1551,0,141,141,0,187,17
+20.0,1,Arizona,1100,1099,1,100,100,0,638,58
+20.0,2,Washington,1331,1329,2,121,121,0,407,37
+20.0,3,Nevada,1430,1430,0,130,130,0,308,28
+20.0,4,California;Colorado;New Mexico;Oregon,1540,1538,2,140,140,0,198,18
+20.0,5,Idaho;Montana;Utah;Wyoming,1551,1549,2,141,141,0,187,17
+30.0,1,Arizona,1100,1099,1,100,100,0,638,58
+30.0,2,Washington,1331,1325,6,121,121,0,407,37
+30.0,3,Nevada,1430,1429,1,130,129,1,308,28
+30.0,4,California;Colorado;New Mexico;Oregon,1540,1529,11,140,140,0,198,18
+30.0,5,Idaho;Montana;Utah;Wyoming,1551,1543,8,141,141,0,187,17

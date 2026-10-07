@@ -1,0 +1,5 @@
+group_type,duplicate_groups,duplicate_rows,label_conflict_groups,cross_state_groups
+deposit_or_source_id,55,112,0,0
+exact_coordinate,1,2,0,0
+positive_site_name,2,4,0,1
+sample_id,70,140,0,70

@@ -1,0 +1,6 @@
+directory,file_count,size_mb,contents
+results/reported/main_m1_m4,10,6.055,Original M1-M4 metrics predictions summaries selections and manifest
+results/reported/fold_local_graphs,289,12.665,State and spatial fold graph construction and selection artifacts
+results/reported/xgboost_rebuttal,98,90.391,Fixed-XGBoost reviewer-requested experiments and diagnostics
+results/reported/paleoclimate_xgboost,7,7.179,Paleoclimate fold metrics OOF selections contrasts and report
+results/reported/idann_reference,5,1.481,Three-seed IDANN-inspired reference outputs

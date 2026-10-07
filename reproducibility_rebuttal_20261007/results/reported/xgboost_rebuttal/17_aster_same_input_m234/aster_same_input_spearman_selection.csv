@@ -1,0 +1,156 @@
+fold,test_group,target_column,best_climate_column,spearman,spearman_abs_max,n_pair_at_best,is_spearman_sensitive
+1,Arizona,aster_b4_b9,climate_srad_annual_mean,-0.6023045994764272,0.6023045994764272,755,True
+1,Arizona,aster_ferric_index,climate_srad_annual_mean,0.5661204064385041,0.5661204064385041,1058,True
+1,Arizona,aster_nir_red_ratio,climate_srad_annual_mean,-0.5499246202605544,0.5499246202605544,1058,True
+1,Arizona,aster_ndvi_like,climate_srad_annual_mean,-0.5294352726953071,0.5294352726953071,1058,True
+1,Arizona,aster_b7_b8,climate_srad_annual_mean,-0.5288897600575091,0.5288897600575091,755,True
+1,Arizona,aster_b09,climate_srad_annual_mean,0.5223147934195147,0.5223147934195147,756,True
+1,Arizona,tir_b10,climate_srad_annual_mean,0.47600269245842913,0.47600269245842913,1055,True
+1,Arizona,tir_b14,climate_srad_annual_mean,0.46375627290592286,0.46375627290592286,1055,True
+1,Arizona,tir_b11,climate_srad_annual_mean,0.46056770877077463,0.46056770877077463,1055,True
+1,Arizona,tir_b13,climate_srad_annual_mean,0.45940060876062383,0.45940060876062383,1055,True
+1,Arizona,aster_b05,climate_srad_annual_mean,0.45884326846234824,0.45884326846234824,756,True
+1,Arizona,tir_b12,climate_srad_annual_mean,0.4456877074362697,0.4456877074362697,1055,True
+1,Arizona,aster_b08,climate_srad_annual_mean,0.4454134805094094,0.4454134805094094,756,True
+1,Arizona,aster_swir_brightness,climate_srad_annual_mean,0.4344945311460287,0.4344945311460287,759,True
+1,Arizona,aster_b06,climate_srad_annual_mean,0.4201224001507869,0.4201224001507869,755,True
+1,Arizona,aster_b07,climate_srad_annual_mean,0.4037924344705421,0.4037924344705421,755,True
+1,Arizona,aster_b6_b5,climate_srad_annual_mean,-0.3644242336414762,0.3644242336414762,755,True
+1,Arizona,aster_b04,climate_srad_annual_mean,0.3301377499527506,0.3301377499527506,757,True
+1,Arizona,tir_carb_sil,climate_soil_annual_mean,0.27934778201590876,0.27934778201590876,1055,False
+1,Arizona,aster_b5_b7,climate_srad_annual_mean,0.24435845290821623,0.24435845290821623,752,False
+1,Arizona,aster_b2,climate_vap_annual_mean,-0.23176422796008084,0.23176422796008084,1058,False
+1,Arizona,tir_quartz_mean5,climate_soil_annual_mean,0.221552005985704,0.221552005985704,1055,False
+1,Arizona,tir_quartz,climate_soil_annual_mean,0.22041996476819908,0.22041996476819908,1055,False
+1,Arizona,tir_quartz_mean3,climate_soil_annual_mean,0.22026497259381442,0.22026497259381442,1055,False
+1,Arizona,aster_b1,climate_vap_annual_mean,-0.15416563041085657,0.15416563041085657,1058,False
+1,Arizona,aster_brightness,climate_vap_annual_mean,-0.14440983075922123,0.14440983075922123,1058,False
+1,Arizona,aster_b3n,env_climate_deficit_annual_mm,-0.08315188009209624,0.08315188009209624,1058,False
+1,Arizona,tir_quartz_std3,climate_vap_annual_mean,0.07574800704109669,0.07574800704109669,1055,False
+1,Arizona,tir_quartz_std5,climate_aet_annual_sum,0.059616169512646075,0.059616169512646075,1055,False
+1,Arizona,tir_quartz_center_diff3,climate_aet_annual_sum,0.03926106691937753,0.03926106691937753,1055,False
+1,Arizona,tir_quartz_center_diff5,climate_aet_annual_sum,0.029555116861562696,0.029555116861562696,1055,False
+2,Washington,tir_b13,climate_srad_annual_mean,0.4364545934666705,0.4364545934666705,1211,True
+2,Washington,tir_b14,climate_srad_annual_mean,0.4362867799228839,0.4362867799228839,1211,True
+2,Washington,tir_b11,climate_srad_annual_mean,0.4275711484979311,0.4275711484979311,1211,True
+2,Washington,tir_b12,climate_srad_annual_mean,0.4251956186241821,0.4251956186241821,1211,True
+2,Washington,tir_b10,climate_srad_annual_mean,0.42319196278161886,0.42319196278161886,1211,True
+2,Washington,aster_b6_b5,climate_srad_annual_mean,-0.34567358963969036,0.34567358963969036,876,True
+2,Washington,tir_carb_sil,climate_srad_annual_mean,-0.3271798633514981,0.3271798633514981,1211,True
+2,Washington,aster_ferric_index,climate_srad_annual_mean,0.3162464003453608,0.3162464003453608,1315,True
+2,Washington,aster_b05,climate_srad_annual_mean,0.2962625363855388,0.2962625363855388,876,False
+2,Washington,aster_b4_b9,climate_vap_annual_mean,0.28830892973484823,0.28830892973484823,875,False
+2,Washington,aster_b04,climate_srad_annual_mean,0.2734904736024622,0.2734904736024622,877,False
+2,Washington,aster_b07,climate_srad_annual_mean,0.2667570091593982,0.2667570091593982,874,False
+2,Washington,aster_swir_brightness,climate_srad_annual_mean,0.2641980235619019,0.2641980235619019,878,False
+2,Washington,aster_b08,climate_srad_annual_mean,0.25652622970587713,0.25652622970587713,874,False
+2,Washington,tir_quartz_mean5,climate_srad_annual_mean,-0.25529620327400254,0.25529620327400254,1211,False
+2,Washington,aster_b06,climate_srad_annual_mean,0.25441302849753783,0.25441302849753783,877,False
+2,Washington,tir_quartz_mean3,climate_srad_annual_mean,-0.24953397008577902,0.24953397008577902,1211,False
+2,Washington,tir_quartz,climate_srad_annual_mean,-0.2472695016385349,0.2472695016385349,1211,False
+2,Washington,tir_quartz_std5,climate_srad_annual_mean,-0.22204376989800867,0.22204376989800867,1211,False
+2,Washington,aster_b09,climate_srad_annual_mean,0.21357702354819297,0.21357702354819297,875,False
+2,Washington,aster_b7_b8,climate_vap_annual_mean,0.20809269711793416,0.20809269711793416,874,False
+2,Washington,tir_quartz_std3,climate_srad_annual_mean,-0.20503918893617099,0.20503918893617099,1211,False
+2,Washington,aster_b3n,climate_srad_annual_mean,-0.19211395735141895,0.19211395735141895,1315,False
+2,Washington,aster_b1,climate_srad_annual_mean,-0.16918259809839103,0.16918259809839103,1315,False
+2,Washington,aster_brightness,climate_srad_annual_mean,-0.15113062188913173,0.15113062188913173,1315,False
+2,Washington,aster_ndvi_like,env_aridity_index_ppt_pet,0.11647604178077346,0.11647604178077346,1315,False
+2,Washington,aster_nir_red_ratio,climate_q_annual_sum,0.11584219541268119,0.11584219541268119,1315,False
+2,Washington,aster_b2,env_climate_swe_annual_mean_mm,0.11027614961448919,0.11027614961448919,1315,False
+2,Washington,aster_b5_b7,env_climate_ppt_annual_mm,-0.10962655065484227,0.10962655065484227,873,False
+2,Washington,tir_quartz_center_diff3,climate_tmin_annual_mean,-0.05300724672776048,0.05300724672776048,1211,False
+2,Washington,tir_quartz_center_diff5,climate_aet_annual_sum,0.050032097178319655,0.050032097178319655,1211,False
+3,Nevada,tir_b14,climate_srad_annual_mean,0.6273521602941938,0.6273521602941938,1307,True
+3,Nevada,tir_b10,climate_srad_annual_mean,0.6273415605190037,0.6273415605190037,1307,True
+3,Nevada,tir_b13,climate_srad_annual_mean,0.626659613795513,0.626659613795513,1307,True
+3,Nevada,tir_b11,climate_srad_annual_mean,0.6228650722795827,0.6228650722795827,1307,True
+3,Nevada,tir_b12,climate_srad_annual_mean,0.6167338145780035,0.6167338145780035,1307,True
+3,Nevada,aster_ferric_index,climate_srad_annual_mean,0.5755464211468378,0.5755464211468378,1409,True
+3,Nevada,aster_b05,climate_srad_annual_mean,0.5251346169057657,0.5251346169057657,978,True
+3,Nevada,aster_b09,climate_srad_annual_mean,0.503426843707641,0.503426843707641,979,True
+3,Nevada,aster_swir_brightness,climate_srad_annual_mean,0.49346657656889475,0.49346657656889475,982,True
+3,Nevada,aster_b08,climate_srad_annual_mean,0.48888540271134934,0.48888540271134934,979,True
+3,Nevada,tir_carb_sil,climate_srad_annual_mean,-0.48844276114579355,0.48844276114579355,1307,True
+3,Nevada,aster_b06,climate_srad_annual_mean,0.4810931385283954,0.4810931385283954,978,True
+3,Nevada,aster_b07,climate_srad_annual_mean,0.4774799918222209,0.4774799918222209,978,True
+3,Nevada,aster_nir_red_ratio,climate_srad_annual_mean,-0.467935630307955,0.467935630307955,1409,True
+3,Nevada,aster_ndvi_like,climate_srad_annual_mean,-0.45750738327183366,0.45750738327183366,1409,True
+3,Nevada,aster_b04,climate_srad_annual_mean,0.4566716948379156,0.4566716948379156,979,True
+3,Nevada,aster_b6_b5,climate_srad_annual_mean,-0.44226864181978803,0.44226864181978803,977,True
+3,Nevada,tir_quartz_mean5,climate_srad_annual_mean,-0.4033486061423878,0.4033486061423878,1307,True
+3,Nevada,tir_quartz,climate_srad_annual_mean,-0.3998490325291493,0.3998490325291493,1307,True
+3,Nevada,tir_quartz_mean3,climate_srad_annual_mean,-0.3997964216678513,0.3997964216678513,1307,True
+3,Nevada,aster_b7_b8,climate_dtr_annual_mean,-0.3759179426821214,0.3759179426821214,978,True
+3,Nevada,aster_b4_b9,climate_dtr_annual_mean,-0.32300346510135414,0.32300346510135414,978,True
+3,Nevada,tir_quartz_std3,climate_srad_annual_mean,-0.26637458947632253,0.26637458947632253,1307,False
+3,Nevada,tir_quartz_std5,climate_srad_annual_mean,-0.2570143321855286,0.2570143321855286,1307,False
+3,Nevada,aster_b5_b7,climate_srad_annual_mean,0.1972943142218226,0.1972943142218226,975,False
+3,Nevada,aster_b3n,env_climate_pet_annual_mm,-0.18132173029748472,0.18132173029748472,1409,False
+3,Nevada,aster_b2,climate_vap_annual_mean,-0.1556599089709129,0.1556599089709129,1409,False
+3,Nevada,aster_b1,climate_vap_annual_mean,-0.1387440137082229,0.1387440137082229,1409,False
+3,Nevada,aster_brightness,climate_vap_annual_mean,-0.13579532351410042,0.13579532351410042,1409,False
+3,Nevada,tir_quartz_center_diff5,climate_aet_annual_sum,0.06149112566255091,0.06149112566255091,1307,False
+3,Nevada,tir_quartz_center_diff3,climate_aet_annual_sum,0.05891368736384034,0.05891368736384034,1307,False
+4,Colorado;New Mexico;Utah;Wyoming,tir_b14,climate_srad_annual_mean,0.6184561753794562,0.6184561753794562,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_b13,climate_srad_annual_mean,0.6171721556235136,0.6171721556235136,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_b10,climate_srad_annual_mean,0.6138551082394875,0.6138551082394875,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_b11,climate_srad_annual_mean,0.6114303959460551,0.6114303959460551,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_b12,climate_srad_annual_mean,0.6051624574128799,0.6051624574128799,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_ferric_index,climate_srad_annual_mean,0.539140182297326,0.539140182297326,1575,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b05,climate_srad_annual_mean,0.5140365907920734,0.5140365907920734,1058,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b09,climate_srad_annual_mean,0.48839771994544534,0.48839771994544534,1059,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_swir_brightness,climate_srad_annual_mean,0.4844450528433927,0.4844450528433927,1062,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b08,climate_srad_annual_mean,0.4792194469901123,0.4792194469901123,1059,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b06,climate_srad_annual_mean,0.4756161321131623,0.4756161321131623,1058,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b07,climate_srad_annual_mean,0.4711866713500267,0.4711866713500267,1058,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_carb_sil,climate_srad_annual_mean,-0.46865980092224,0.46865980092224,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_nir_red_ratio,climate_srad_annual_mean,-0.4492449123841518,0.4492449123841518,1575,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b04,climate_srad_annual_mean,0.4442237100490761,0.4442237100490761,1059,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_ndvi_like,climate_srad_annual_mean,-0.43824544569705803,0.43824544569705803,1575,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b6_b5,climate_srad_annual_mean,-0.43497417410513456,0.43497417410513456,1057,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b7_b8,climate_dtr_annual_mean,-0.432878615879044,0.432878615879044,1058,True
+4,Colorado;New Mexico;Utah;Wyoming,aster_b4_b9,climate_dtr_annual_mean,-0.40413050550514246,0.40413050550514246,1058,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_quartz_mean5,climate_srad_annual_mean,-0.3825147352531281,0.3825147352531281,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_quartz_mean3,climate_srad_annual_mean,-0.379101166573503,0.379101166573503,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_quartz,climate_srad_annual_mean,-0.3778870920291999,0.3778870920291999,1474,True
+4,Colorado;New Mexico;Utah;Wyoming,tir_quartz_std3,climate_srad_annual_mean,-0.2451036475248024,0.2451036475248024,1474,False
+4,Colorado;New Mexico;Utah;Wyoming,tir_quartz_std5,climate_srad_annual_mean,-0.23608680179601305,0.23608680179601305,1474,False
+4,Colorado;New Mexico;Utah;Wyoming,aster_b5_b7,climate_soil_annual_mean,-0.22220407245092041,0.22220407245092041,1055,False
+4,Colorado;New Mexico;Utah;Wyoming,aster_b3n,climate_srad_annual_mean,-0.14985683555598323,0.14985683555598323,1575,False
+4,Colorado;New Mexico;Utah;Wyoming,aster_b2,climate_aet_pet_ratio_annual,-0.11730868201970904,0.11730868201970904,1575,False
+4,Colorado;New Mexico;Utah;Wyoming,aster_b1,climate_vap_annual_mean,-0.07520483169864302,0.07520483169864302,1575,False
+4,Colorado;New Mexico;Utah;Wyoming,aster_brightness,climate_vap_annual_mean,-0.07360694708040229,0.07360694708040229,1575,False
+4,Colorado;New Mexico;Utah;Wyoming,tir_quartz_center_diff3,climate_aet_annual_sum,0.046235582381461686,0.046235582381461686,1474,False
+4,Colorado;New Mexico;Utah;Wyoming,tir_quartz_center_diff5,climate_aet_annual_sum,0.03787945885559224,0.03787945885559224,1474,False
+5,California;Idaho;Montana;Oregon,tir_b14,climate_srad_annual_mean,0.5995247793961346,0.5995247793961346,1461,True
+5,California;Idaho;Montana;Oregon,tir_b13,climate_srad_annual_mean,0.5984272105699328,0.5984272105699328,1461,True
+5,California;Idaho;Montana;Oregon,tir_b10,climate_srad_annual_mean,0.5961752545403209,0.5961752545403209,1461,True
+5,California;Idaho;Montana;Oregon,tir_b11,climate_srad_annual_mean,0.5939383951829652,0.5939383951829652,1461,True
+5,California;Idaho;Montana;Oregon,tir_b12,climate_srad_annual_mean,0.5891635272190191,0.5891635272190191,1461,True
+5,California;Idaho;Montana;Oregon,aster_ferric_index,climate_srad_annual_mean,0.5053472405697738,0.5053472405697738,1563,True
+5,California;Idaho;Montana;Oregon,aster_b05,climate_srad_annual_mean,0.4662024016434928,0.4662024016434928,1060,True
+5,California;Idaho;Montana;Oregon,tir_carb_sil,climate_srad_annual_mean,-0.45994915965467204,0.45994915965467204,1461,True
+5,California;Idaho;Montana;Oregon,aster_b09,climate_dtr_annual_mean,0.4589785061944533,0.4589785061944533,1059,True
+5,California;Idaho;Montana;Oregon,aster_swir_brightness,climate_srad_annual_mean,0.4389852928994991,0.4389852928994991,1063,True
+5,California;Idaho;Montana;Oregon,aster_b08,climate_srad_annual_mean,0.4346964394417152,0.4346964394417152,1060,True
+5,California;Idaho;Montana;Oregon,aster_b07,climate_srad_annual_mean,0.42551409347909946,0.42551409347909946,1059,True
+5,California;Idaho;Montana;Oregon,aster_b06,climate_srad_annual_mean,0.4235620599988923,0.4235620599988923,1060,True
+5,California;Idaho;Montana;Oregon,aster_b7_b8,climate_dtr_annual_mean,-0.41967108907541,0.41967108907541,1059,True
+5,California;Idaho;Montana;Oregon,aster_b6_b5,climate_srad_annual_mean,-0.4176413792843153,0.4176413792843153,1059,True
+5,California;Idaho;Montana;Oregon,aster_b04,climate_srad_annual_mean,0.41254374340031225,0.41254374340031225,1060,True
+5,California;Idaho;Montana;Oregon,aster_nir_red_ratio,climate_soil_annual_mean,0.40343201822992786,0.40343201822992786,1563,True
+5,California;Idaho;Montana;Oregon,aster_b4_b9,climate_vap_annual_mean,0.39703748266593736,0.39703748266593736,1058,True
+5,California;Idaho;Montana;Oregon,aster_ndvi_like,climate_soil_annual_mean,0.39218126774680545,0.39218126774680545,1563,True
+5,California;Idaho;Montana;Oregon,tir_quartz_mean5,climate_srad_annual_mean,-0.3895377980383531,0.3895377980383531,1461,True
+5,California;Idaho;Montana;Oregon,tir_quartz_mean3,climate_srad_annual_mean,-0.38562943164367436,0.38562943164367436,1461,True
+5,California;Idaho;Montana;Oregon,tir_quartz,climate_srad_annual_mean,-0.38557056047565436,0.38557056047565436,1461,True
+5,California;Idaho;Montana;Oregon,tir_quartz_std3,climate_srad_annual_mean,-0.2545417766974094,0.2545417766974094,1461,False
+5,California;Idaho;Montana;Oregon,tir_quartz_std5,climate_srad_annual_mean,-0.24504437295844594,0.24504437295844594,1461,False
+5,California;Idaho;Montana;Oregon,aster_b5_b7,env_climate_deficit_annual_mm,0.1927770767437785,0.1927770767437785,1057,False
+5,California;Idaho;Montana;Oregon,aster_b2,climate_vap_annual_mean,-0.17779119121321918,0.17779119121321918,1563,False
+5,California;Idaho;Montana;Oregon,aster_b3n,climate_srad_annual_mean,-0.15769099584573565,0.15769099584573565,1563,False
+5,California;Idaho;Montana;Oregon,aster_b1,climate_vap_annual_mean,-0.14291165896504002,0.14291165896504002,1563,False
+5,California;Idaho;Montana;Oregon,aster_brightness,climate_vap_annual_mean,-0.13957266929286163,0.13957266929286163,1563,False
+5,California;Idaho;Montana;Oregon,tir_quartz_center_diff5,climate_ws_annual_mean,0.039824482584820915,0.039824482584820915,1461,False
+5,California;Idaho;Montana;Oregon,tir_quartz_center_diff3,climate_ws_annual_mean,0.03769136365742937,0.03769136365742937,1461,False

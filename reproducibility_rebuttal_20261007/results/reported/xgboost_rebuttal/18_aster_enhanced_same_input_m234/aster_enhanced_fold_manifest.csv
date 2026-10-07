@@ -1,0 +1,6 @@
+fold,split_id,test_group,n_train,n_test,positive_train,positive_test,m4_selected_features
+0,state_fold_0,Arizona,1100,638,100,58,60
+1,state_fold_1,Washington,1331,407,121,37,68
+2,state_fold_2,Nevada,1430,308,130,28,72
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,1540,198,140,18,80
+4,state_fold_4,Colorado;Montana;Oregon;Utah,1551,187,141,17,72

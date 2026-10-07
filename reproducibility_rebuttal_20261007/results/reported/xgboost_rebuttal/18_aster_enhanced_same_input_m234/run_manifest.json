@@ -1,0 +1,55 @@
+{
+  "experiment": "enhanced ASTER same-input M2/M3/M4 comparison",
+  "input_root": "PACKAGE_ROOT/data/rebuttal_inputs/aster_A132_20261006",
+  "main_data": "PACKAGE_ROOT/data/processed/porphyry_copper_1_10/model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.csv",
+  "role_table": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1/00_dataset_profile/feature_roles.csv",
+  "output_dir": "PACKAGE_ROOT/outputs/rebuttal_experiments/xgboost/18_aster_enhanced_same_input_m234",
+  "rows": 1738,
+  "positive": 158,
+  "negative": 1580,
+  "states": 11,
+  "aster_features": 132,
+  "climate_adjusters": 24,
+  "aster_missing_fraction": 0.0,
+  "climate_missing_fraction": 0.0,
+  "folds": 5,
+  "input_sha256": {
+    "aster": "f49c1fb86f6ca9c1d33dc86c57857c9e2505b39eb520aa4f3c6ecaaeda15e240",
+    "feature_manifest": "65704690a81172f40cfa29c2154b02aae4470d3ff95f5a6c4a870dcfd6869c94",
+    "fixed_splits": "ec4570c8c6c433b5f98ee30435feb62749b3bf7259836cc9258ad1791ee81724",
+    "main_benchmark": "0fe9a913ac79e88822e48a199e7b7941e95ed5af3f38efecb40181951f576a01",
+    "feature_roles": "2c9d565d84316fb8325d2d72ce1fc63c50a1439e74696c7d0e3c47654c75ed25"
+  },
+  "validation": "five fixed state-grouped folds from fixed_splits_stage1.csv",
+  "models": [
+    "M2_A132_RAW_XGB",
+    "M3_A132_BROAD_XGB",
+    "M4_A132_SPEARMAN_XGB"
+  ],
+  "spearman_threshold": 0.3,
+  "paired_bootstrap": {
+    "unit": "held-out fold",
+    "repeats": 10000,
+    "seed": 20261006
+  },
+  "residualizer": {
+    "model": "Ridge",
+    "alpha": 10.0,
+    "fit_scope": "training fold only"
+  },
+  "classifier": "XGBoost",
+  "xgboost_parameters": {
+    "n_estimators": 400,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_child_weight": 3,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "reg_lambda": 2.0,
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "random_state": 20260622,
+    "n_jobs": 4
+  },
+  "feature_boundary": "132 enhanced ASTER A1-A3 features only; no LULC and no climate in classifier"
+}

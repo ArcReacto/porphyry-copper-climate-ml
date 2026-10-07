@@ -1,0 +1,2 @@
+rows,positive,negative,states,aster_features,lulc_features,climate_adjusters,aster_missing_fraction,lulc_missing_fraction,climate_missing_fraction
+1735,145,1590,11,31,48,24,0.1399088965324905,0.12641690682036502,0.0

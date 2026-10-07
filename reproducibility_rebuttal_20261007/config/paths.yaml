@@ -1,0 +1,9 @@
+project:
+  root: .
+  data_intermediate: data_intermediate
+  outputs: outputs
+  logs: logs
+
+# The rebuttal package contains aligned model inputs only. Raw source archives
+# are intentionally not redistributed; see README.md for provenance links.
+data_root: data

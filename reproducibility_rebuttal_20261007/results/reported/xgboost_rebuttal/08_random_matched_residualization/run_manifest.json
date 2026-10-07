@@ -1,0 +1,25 @@
+{
+  "dataset_path": "PACKAGE_ROOT/outputs/model_datasets/by_sample_scheme/known_mining_neutral/known_mining_neutral_ratio_1_10/model_dataset_known_mining_neutral_ratio_1_10_supervised_all_features_v1.parquet",
+  "run_dir": "PACKAGE_ROOT/outputs/standardized_runs/known_mining_neutral_ratio_1_10_supervised_all_features_v1",
+  "rows": 1738,
+  "positive": 158,
+  "negative": 1580,
+  "random_repetitions": 100,
+  "random_seed": 20261001,
+  "spearman_threshold": 0.3,
+  "matching": "geochemistry role plus feature missing-rate quartile",
+  "model_family": "xgboost",
+  "xgboost_parameters": {
+    "n_estimators": 400,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_child_weight": 3,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "reg_lambda": 2.0,
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "random_state": 20260622,
+    "n_jobs": 4
+  }
+}

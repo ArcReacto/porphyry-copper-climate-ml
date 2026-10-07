@@ -1,0 +1,6 @@
+fold,test_group,n_train,n_test,positive_train,positive_test,m4_selected_aster_features
+1,Arizona,1063,672,89,56,18
+2,Washington,1318,417,108,37,8
+3,Nevada,1414,321,124,21,22
+4,Colorado;New Mexico;Utah;Wyoming,1578,157,127,18,22
+5,California;Idaho;Montana;Oregon,1567,168,132,13,22

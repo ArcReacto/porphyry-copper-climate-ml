@@ -1,0 +1,6 @@
+﻿fold,test_group,n_train,n_test,positive_train,positive_test,stable_concepts,candidate_concepts,stable_edges,selected_graph_concepts,graph_mapped_features,graph_residual_features
+1,Arizona,1100,638,100,58,49,36,35,16,319,318
+2,Washington,1331,407,121,37,49,30,32,10,37,36
+3,Nevada,1430,308,130,28,49,33,30,12,46,45
+4,California;Colorado;New Mexico;Oregon,1540,198,140,18,49,35,32,13,163,162
+5,Idaho;Montana;Utah;Wyoming,1551,187,141,17,49,35,28,14,192,191

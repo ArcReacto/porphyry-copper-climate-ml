@@ -1,0 +1,14 @@
+{
+  "predictions": "PACKAGE_ROOT/outputs/rebuttal_experiments/xgboost/05_final_ratio_sensitivity/ratio_oof_predictions.csv",
+  "clusters": "PACKAGE_ROOT/outputs/rebuttal_experiments/06_deposit_dedup_buffer_audit/deposit_clusters.csv",
+  "cluster_threshold_km": 5.0,
+  "budgets": [
+    0.05,
+    0.1
+  ],
+  "models": [
+    "NoClimate_XGB",
+    "M4_Spearman_XGB"
+  ],
+  "unit_warning": "Distance-based positive-sample proxy clusters, not verified independent deposits"
+}

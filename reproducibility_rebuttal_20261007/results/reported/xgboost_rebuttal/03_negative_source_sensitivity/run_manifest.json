@@ -1,0 +1,30 @@
+{
+  "experiment": "negative_source_sensitivity",
+  "input_dataset": "PACKAGE_ROOT/outputs/model_datasets/by_sample_scheme/known_mining_neutral/known_mining_neutral_ratio_1_10/model_dataset_known_mining_neutral_ratio_1_10_with_neutral_all_features_v1.parquet",
+  "schemes": {
+    "hard_only": "158 positives + 1580 MRDS hard negatives",
+    "background_only": "158 positives + 1580 unlabeled background proxies relabeled for sensitivity only",
+    "mixed_50_50": "158 positives + 790 hard negatives + 790 background proxies"
+  },
+  "validation": "5-fold GroupKFold by state",
+  "models": [
+    "NoClimate_XGB",
+    "M4_Spearman_XGB"
+  ],
+  "model_family": "xgboost",
+  "xgboost_parameters": {
+    "n_estimators": 400,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_child_weight": 3,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "reg_lambda": 2.0,
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "random_state": 20260622,
+    "n_jobs": 4
+  },
+  "random_state": 20260622,
+  "interpretation_boundary": "Background proxies are unlabeled, not verified negatives."
+}

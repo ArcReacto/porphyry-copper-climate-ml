@@ -1,0 +1,661 @@
+fold,split_id,test_group,target_column,best_climate_column,spearman,spearman_abs_max,n_pair_at_best,is_spearman_sensitive
+0,state_fold_0,Arizona,ND_B05_B04_7x7,climate_aet_annual_sum,-0.5178845201137041,0.5178845201137041,1100,True
+0,state_fold_0,Arizona,B05_B04_7x7,climate_aet_annual_sum,-0.5178556201143538,0.5178556201143538,1100,True
+0,state_fold_0,Arizona,ND_B08_B03N_7x7,climate_water_balance_annual_mm,-0.5151402668648569,0.5151402668648569,1100,True
+0,state_fold_0,Arizona,ND_B08_B03N_5x5,climate_water_balance_annual_mm,-0.5122939920362087,0.5122939920362087,1100,True
+0,state_fold_0,Arizona,ND_B05_B04_5x5,climate_aet_annual_sum,-0.5121396936182275,0.5121396936182275,1100,True
+0,state_fold_0,Arizona,B05_B04_5x5,climate_aet_annual_sum,-0.5121182462882792,0.5121182462882792,1100,True
+0,state_fold_0,Arizona,ND_B08_B03N_3x3,climate_water_balance_annual_mm,-0.5094187225650788,0.5094187225650788,1100,True
+0,state_fold_0,Arizona,ND_B08_B03N_center,climate_water_balance_annual_mm,-0.5079438393856635,0.5079438393856635,1100,True
+0,state_fold_0,Arizona,ND_B05_B04_3x3,climate_aet_annual_sum,-0.5055039112236096,0.5055039112236096,1100,True
+0,state_fold_0,Arizona,B05_B04_3x3,climate_aet_annual_sum,-0.5054435583044712,0.5054435583044712,1100,True
+0,state_fold_0,Arizona,B05_B04_center,climate_aet_annual_sum,-0.5011357265475092,0.5011357265475092,1100,True
+0,state_fold_0,Arizona,ND_B05_B04_center,climate_aet_annual_sum,-0.4993153793392493,0.4993153793392493,1100,True
+0,state_fold_0,Arizona,ND_B06_B04_7x7,climate_aet_annual_sum,-0.4334342436340826,0.4334342436340826,1100,True
+0,state_fold_0,Arizona,B06_B04_7x7,climate_aet_annual_sum,-0.4334134056454446,0.4334134056454446,1100,True
+0,state_fold_0,Arizona,ND_B06_B04_5x5,climate_aet_annual_sum,-0.43004710231099896,0.43004710231099896,1100,True
+0,state_fold_0,Arizona,B06_B04_5x5,climate_aet_annual_sum,-0.4300164813376026,0.4300164813376026,1100,True
+0,state_fold_0,Arizona,ND_B06_B04_3x3,climate_aet_annual_sum,-0.42877649932524,0.42877649932524,1100,True
+0,state_fold_0,Arizona,B06_B04_3x3,climate_aet_annual_sum,-0.4286681840992839,0.4286681840992839,1100,True
+0,state_fold_0,Arizona,B06_B04_center,climate_aet_annual_sum,-0.4254023652661707,0.4254023652661707,1100,True
+0,state_fold_0,Arizona,ND_B06_B04_center,climate_aet_annual_sum,-0.4253455469013172,0.4253455469013172,1100,True
+0,state_fold_0,Arizona,Fe_oxide_proxy_7x7,climate_water_balance_annual_mm,-0.4113609667584797,0.4113609667584797,1100,True
+0,state_fold_0,Arizona,ND_B04_B03N_7x7,climate_water_balance_annual_mm,-0.4113609667584797,0.4113609667584797,1100,True
+0,state_fold_0,Arizona,B04_B03N_7x7,climate_water_balance_annual_mm,-0.4113609667584797,0.4113609667584797,1100,True
+0,state_fold_0,Arizona,Fe_oxide_proxy_5x5,climate_water_balance_annual_mm,-0.4092986957208617,0.4092986957208617,1100,True
+0,state_fold_0,Arizona,B04_B03N_5x5,climate_water_balance_annual_mm,-0.4092986957208617,0.4092986957208617,1100,True
+0,state_fold_0,Arizona,ND_B04_B03N_5x5,climate_water_balance_annual_mm,-0.40929774547790554,0.40929774547790554,1100,True
+0,state_fold_0,Arizona,Fe_oxide_proxy_center,climate_water_balance_annual_mm,-0.4079258430895354,0.4079258430895354,1100,True
+0,state_fold_0,Arizona,B04_B03N_center,climate_water_balance_annual_mm,-0.4079258430895354,0.4079258430895354,1100,True
+0,state_fold_0,Arizona,ND_B04_B03N_center,climate_water_balance_annual_mm,-0.40765184924821646,0.40765184924821646,1100,True
+0,state_fold_0,Arizona,B04_B03N_3x3,climate_water_balance_annual_mm,-0.40752577016118585,0.40752577016118585,1100,True
+0,state_fold_0,Arizona,Fe_oxide_proxy_3x3,climate_water_balance_annual_mm,-0.40752577016118585,0.40752577016118585,1100,True
+0,state_fold_0,Arizona,ND_B04_B03N_3x3,climate_water_balance_annual_mm,-0.4075256719060733,0.4075256719060733,1100,True
+0,state_fold_0,Arizona,ND_B07_B04_5x5,climate_aet_annual_sum,-0.4011207998066274,0.4011207998066274,1100,True
+0,state_fold_0,Arizona,B07_B04_5x5,climate_aet_annual_sum,-0.4010833368853716,0.4010833368853716,1100,True
+0,state_fold_0,Arizona,ND_B07_B04_3x3,climate_aet_annual_sum,-0.40092407132329777,0.40092407132329777,1100,True
+0,state_fold_0,Arizona,B07_B04_3x3,climate_aet_annual_sum,-0.40091014085727744,0.40091014085727744,1100,True
+0,state_fold_0,Arizona,ND_B07_B04_7x7,climate_aet_annual_sum,-0.4008321331493832,0.4008321331493832,1100,True
+0,state_fold_0,Arizona,B07_B04_7x7,climate_aet_annual_sum,-0.40082140564403773,0.40082140564403773,1100,True
+0,state_fold_0,Arizona,B07_B04_center,climate_aet_annual_sum,-0.39312083503277107,0.39312083503277107,1100,True
+0,state_fold_0,Arizona,ND_B07_B04_center,climate_aet_annual_sum,-0.3925137903157946,0.3925137903157946,1100,True
+0,state_fold_0,Arizona,SWIR_brightness_7x7,climate_water_balance_annual_mm,-0.36406716178252,0.36406716178252,1100,True
+0,state_fold_0,Arizona,SWIR_brightness_5x5,climate_water_balance_annual_mm,-0.3624445845678322,0.3624445845678322,1100,True
+0,state_fold_0,Arizona,SWIR_brightness_3x3,climate_water_balance_annual_mm,-0.36092834579042116,0.36092834579042116,1100,True
+0,state_fold_0,Arizona,SWIR_brightness_center,climate_water_balance_annual_mm,-0.360292021786045,0.360292021786045,1100,True
+0,state_fold_0,Arizona,B03N_B02_7x7,climate_aet_annual_sum,0.3587610410144242,0.3587610410144242,1100,True
+0,state_fold_0,Arizona,ND_B03N_B02_7x7,climate_aet_annual_sum,0.3587610410144242,0.3587610410144242,1100,True
+0,state_fold_0,Arizona,ND_B03N_B02_5x5,climate_aet_annual_sum,0.3554314495147173,0.3554314495147173,1100,True
+0,state_fold_0,Arizona,B03N_B02_5x5,climate_aet_annual_sum,0.3554314495147173,0.3554314495147173,1100,True
+0,state_fold_0,Arizona,B03N_B02_3x3,climate_aet_annual_sum,0.3529987215346993,0.3529987215346993,1100,True
+0,state_fold_0,Arizona,ND_B03N_B02_3x3,climate_aet_annual_sum,0.3529478126570821,0.3529478126570821,1100,True
+0,state_fold_0,Arizona,B03N_B02_center,climate_aet_annual_sum,0.34856721921030964,0.34856721921030964,1100,True
+0,state_fold_0,Arizona,ND_B03N_B02_center,climate_aet_annual_sum,0.3485561796266115,0.3485561796266115,1100,True
+0,state_fold_0,Arizona,B09_B07_7x7,climate_vap_annual_mean,-0.33124249996905564,0.33124249996905564,1100,True
+0,state_fold_0,Arizona,B09_B07_3x3,climate_vap_annual_mean,-0.3311193020529583,0.3311193020529583,1100,True
+0,state_fold_0,Arizona,B09_B07_center,climate_vap_annual_mean,-0.33090133361468893,0.33090133361468893,1100,True
+0,state_fold_0,Arizona,B09_B07_5x5,climate_vap_annual_mean,-0.3297857737129969,0.3297857737129969,1100,True
+0,state_fold_0,Arizona,B07_B08_7x7,climate_srad_annual_mean,-0.3005568771262542,0.3005568771262542,1100,True
+0,state_fold_0,Arizona,chlorite_epidote_proxy_7x7,climate_srad_annual_mean,0.3005230589996219,0.3005230589996219,1100,True
+0,state_fold_0,Arizona,ND_B07_B08_7x7,climate_srad_annual_mean,-0.3005230589996219,0.3005230589996219,1100,True
+0,state_fold_0,Arizona,B08_B07_7x7,climate_srad_annual_mean,0.30048931280178176,0.30048931280178176,1100,True
+0,state_fold_0,Arizona,B08_B07_5x5,climate_srad_annual_mean,0.2935477740012916,0.2935477740012916,1100,False
+0,state_fold_0,Arizona,chlorite_epidote_proxy_5x5,climate_srad_annual_mean,0.29354467243324717,0.29354467243324717,1100,False
+0,state_fold_0,Arizona,ND_B07_B08_5x5,climate_srad_annual_mean,-0.29354467243324717,0.29354467243324717,1100,False
+0,state_fold_0,Arizona,B07_B08_5x5,climate_srad_annual_mean,-0.29353629239365836,0.29353629239365836,1100,False
+0,state_fold_0,Arizona,B02_B01_7x7,climate_water_balance_annual_mm,-0.2934294824816416,0.2934294824816416,1100,False
+0,state_fold_0,Arizona,ND_B02_B01_7x7,climate_water_balance_annual_mm,-0.2934294824816416,0.2934294824816416,1100,False
+0,state_fold_0,Arizona,B08_B07_3x3,climate_srad_annual_mean,0.291117374049577,0.291117374049577,1100,False
+0,state_fold_0,Arizona,ND_B07_B08_3x3,climate_srad_annual_mean,-0.2910629664096144,0.2910629664096144,1100,False
+0,state_fold_0,Arizona,chlorite_epidote_proxy_3x3,climate_srad_annual_mean,0.2910629664096144,0.2910629664096144,1100,False
+0,state_fold_0,Arizona,B07_B08_3x3,climate_srad_annual_mean,-0.2910240696428637,0.2910240696428637,1100,False
+0,state_fold_0,Arizona,B02_B01_5x5,climate_water_balance_annual_mm,-0.28908842247037064,0.28908842247037064,1100,False
+0,state_fold_0,Arizona,ND_B02_B01_5x5,climate_water_balance_annual_mm,-0.288893077803538,0.288893077803538,1100,False
+0,state_fold_0,Arizona,B02_B01_3x3,climate_water_balance_annual_mm,-0.2847714344397075,0.2847714344397075,1100,False
+0,state_fold_0,Arizona,ND_B02_B01_3x3,climate_water_balance_annual_mm,-0.28411863132061976,0.28411863132061976,1100,False
+0,state_fold_0,Arizona,Mg_OH_carbonate_proxy_7x7,climate_srad_annual_mean,0.2822230994889731,0.2822230994889731,1100,False
+0,state_fold_0,Arizona,B08_B07_center,climate_srad_annual_mean,0.2809773361227664,0.2809773361227664,1100,False
+0,state_fold_0,Arizona,B02_B01_center,climate_water_balance_annual_mm,-0.27969967233849063,0.27969967233849063,1100,False
+0,state_fold_0,Arizona,ND_B02_B01_center,climate_water_balance_annual_mm,-0.27951176466528355,0.27951176466528355,1100,False
+0,state_fold_0,Arizona,Mg_OH_carbonate_proxy_5x5,climate_srad_annual_mean,0.2780979895815729,0.2780979895815729,1100,False
+0,state_fold_0,Arizona,ND_B07_B08_center,climate_srad_annual_mean,-0.27569082232466724,0.27569082232466724,1100,False
+0,state_fold_0,Arizona,chlorite_epidote_proxy_center,climate_srad_annual_mean,0.27569082232466724,0.27569082232466724,1100,False
+0,state_fold_0,Arizona,Mg_OH_carbonate_proxy_3x3,climate_srad_annual_mean,0.2738863004838484,0.2738863004838484,1100,False
+0,state_fold_0,Arizona,B07_B08_center,climate_vap_annual_mean,0.27190227041312937,0.27190227041312937,1100,False
+0,state_fold_0,Arizona,B09_B08_5x5,climate_vap_annual_mean,-0.26620608847463345,0.26620608847463345,1100,False
+0,state_fold_0,Arizona,ND_B09_B08_5x5,climate_vap_annual_mean,-0.2661852258182407,0.2661852258182407,1100,False
+0,state_fold_0,Arizona,ND_B09_B08_3x3,climate_vap_annual_mean,-0.26571690177474466,0.26571690177474466,1100,False
+0,state_fold_0,Arizona,B09_B08_3x3,climate_vap_annual_mean,-0.2656468276813857,0.2656468276813857,1100,False
+0,state_fold_0,Arizona,B05_B02_center,env_climate_deficit_annual_mm,0.2644607866731989,0.2644607866731989,1100,False
+0,state_fold_0,Arizona,ND_B05_B02_center,env_climate_deficit_annual_mm,0.26405125683794933,0.26405125683794933,1100,False
+0,state_fold_0,Arizona,ND_B09_B08_7x7,climate_vap_annual_mean,-0.2638480637115631,0.2638480637115631,1100,False
+0,state_fold_0,Arizona,B09_B08_7x7,climate_vap_annual_mean,-0.2637870941367253,0.2637870941367253,1100,False
+0,state_fold_0,Arizona,ND_B05_B02_3x3,env_climate_deficit_annual_mm,0.26268333629611135,0.26268333629611135,1100,False
+0,state_fold_0,Arizona,B05_B02_3x3,env_climate_deficit_annual_mm,0.26268054675098484,0.26268054675098484,1100,False
+0,state_fold_0,Arizona,B05_B02_7x7,env_climate_deficit_annual_mm,0.26222435551777673,0.26222435551777673,1100,False
+0,state_fold_0,Arizona,ND_B05_B02_7x7,env_climate_deficit_annual_mm,0.26222435551777673,0.26222435551777673,1100,False
+0,state_fold_0,Arizona,ND_B05_B02_5x5,env_climate_deficit_annual_mm,0.26219708335224234,0.26219708335224234,1100,False
+0,state_fold_0,Arizona,B05_B02_5x5,env_climate_deficit_annual_mm,0.26219708335224234,0.26219708335224234,1100,False
+0,state_fold_0,Arizona,B09_B08_center,climate_vap_annual_mean,-0.25832353210569525,0.25832353210569525,1100,False
+0,state_fold_0,Arizona,Mg_OH_carbonate_proxy_center,climate_srad_annual_mean,0.25558144575513714,0.25558144575513714,1100,False
+0,state_fold_0,Arizona,ND_B09_B08_center,climate_vap_annual_mean,-0.25414699921284684,0.25414699921284684,1100,False
+0,state_fold_0,Arizona,B06_B05_7x7,climate_srad_annual_mean,-0.137436967998432,0.137436967998432,1100,False
+0,state_fold_0,Arizona,kaolinite_proxy_7x7,climate_srad_annual_mean,-0.13741130194524065,0.13741130194524065,1100,False
+0,state_fold_0,Arizona,ND_B05_B06_7x7,climate_srad_annual_mean,0.13741130194524065,0.13741130194524065,1100,False
+0,state_fold_0,Arizona,B05_B06_7x7,climate_srad_annual_mean,0.13738540670076846,0.13738540670076846,1100,False
+0,state_fold_0,Arizona,kaolinite_proxy_5x5,climate_srad_annual_mean,-0.13622734824638574,0.13622734824638574,1100,False
+0,state_fold_0,Arizona,ND_B05_B06_5x5,climate_srad_annual_mean,0.13622734824638574,0.13622734824638574,1100,False
+0,state_fold_0,Arizona,B06_B05_5x5,climate_srad_annual_mean,-0.1362263421829714,0.1362263421829714,1100,False
+0,state_fold_0,Arizona,B05_B06_5x5,climate_srad_annual_mean,0.13622493571984554,0.13622493571984554,1100,False
+0,state_fold_0,Arizona,B05_B06_3x3,climate_srad_annual_mean,0.13467980767563065,0.13467980767563065,1100,False
+0,state_fold_0,Arizona,kaolinite_proxy_3x3,climate_srad_annual_mean,-0.13464150567321387,0.13464150567321387,1100,False
+0,state_fold_0,Arizona,ND_B05_B06_3x3,climate_srad_annual_mean,0.13464150567321387,0.13464150567321387,1100,False
+0,state_fold_0,Arizona,B06_B05_3x3,climate_srad_annual_mean,-0.13463198792848904,0.13463198792848904,1100,False
+0,state_fold_0,Arizona,ND_B06_B07_7x7,env_climate_swe_annual_mean_mm,0.11963696412523732,0.11963696412523732,1100,False
+0,state_fold_0,Arizona,B05_B06_center,climate_srad_annual_mean,0.11809113485199955,0.11809113485199955,1100,False
+0,state_fold_0,Arizona,B04_B02_center,env_climate_pet_annual_mm,0.11647036376333311,0.11647036376333311,1100,False
+0,state_fold_0,Arizona,ND_B04_B02_center,env_climate_pet_annual_mm,0.11637620729573614,0.11637620729573614,1100,False
+0,state_fold_0,Arizona,B04_B02_3x3,env_climate_pet_annual_mm,0.11422287534189564,0.11422287534189564,1100,False
+0,state_fold_0,Arizona,ND_B04_B02_3x3,env_climate_pet_annual_mm,0.11421990721438323,0.11421990721438323,1100,False
+0,state_fold_0,Arizona,ND_B06_B07_3x3,env_climate_swe_annual_mean_mm,0.11366361594259629,0.11366361594259629,1100,False
+0,state_fold_0,Arizona,ND_B06_B07_5x5,env_climate_swe_annual_mean_mm,0.11262345438151444,0.11262345438151444,1100,False
+0,state_fold_0,Arizona,kaolinite_proxy_center,climate_srad_annual_mean,-0.11232122934735446,0.11232122934735446,1100,False
+0,state_fold_0,Arizona,ND_B05_B06_center,climate_srad_annual_mean,0.11232122934735446,0.11232122934735446,1100,False
+0,state_fold_0,Arizona,B04_B02_5x5,env_climate_pet_annual_mm,0.11112473897464334,0.11112473897464334,1100,False
+0,state_fold_0,Arizona,ND_B04_B02_5x5,env_climate_pet_annual_mm,0.11112473897464334,0.11112473897464334,1100,False
+0,state_fold_0,Arizona,B04_B02_7x7,env_climate_pet_annual_mm,0.10893545060714949,0.10893545060714949,1100,False
+0,state_fold_0,Arizona,ND_B04_B02_7x7,env_climate_pet_annual_mm,0.10892842525609214,0.10892842525609214,1100,False
+0,state_fold_0,Arizona,B06_B05_center,climate_srad_annual_mean,-0.10737828856742315,0.10737828856742315,1100,False
+0,state_fold_0,Arizona,ND_B06_B07_center,env_climate_swe_annual_mean_mm,0.09321662368134077,0.09321662368134077,1100,False
+0,state_fold_0,Arizona,Al_OH_proxy_3x3,env_climate_swe_annual_mean_mm,-0.059410119979194806,0.059410119979194806,1100,False
+0,state_fold_0,Arizona,Al_OH_proxy_center,climate_vap_annual_mean,0.05593732263457081,0.05593732263457081,1100,False
+0,state_fold_0,Arizona,Al_OH_proxy_7x7,env_climate_swe_annual_mean_mm,-0.054730784203859406,0.054730784203859406,1100,False
+0,state_fold_0,Arizona,Al_OH_proxy_5x5,env_climate_swe_annual_mean_mm,-0.050174375833626904,0.050174375833626904,1100,False
+1,state_fold_1,Washington,ND_B05_B04_7x7,env_climate_ppt_annual_mm,-0.4710963696741825,0.4710963696741825,1331,True
+1,state_fold_1,Washington,B05_B04_7x7,env_climate_ppt_annual_mm,-0.4710905931544305,0.4710905931544305,1331,True
+1,state_fold_1,Washington,ND_B05_B04_5x5,env_climate_ppt_annual_mm,-0.4661587108403963,0.4661587108403963,1331,True
+1,state_fold_1,Washington,B05_B04_5x5,env_climate_ppt_annual_mm,-0.4661546015128316,0.4661546015128316,1331,True
+1,state_fold_1,Washington,ND_B05_B04_3x3,env_climate_ppt_annual_mm,-0.4576517585859491,0.4576517585859491,1331,True
+1,state_fold_1,Washington,B05_B04_3x3,env_climate_ppt_annual_mm,-0.45762993718494416,0.45762993718494416,1331,True
+1,state_fold_1,Washington,B05_B04_center,env_climate_ppt_annual_mm,-0.4507132696107406,0.4507132696107406,1331,True
+1,state_fold_1,Washington,ND_B05_B04_center,env_climate_ppt_annual_mm,-0.4496624927800613,0.4496624927800613,1331,True
+1,state_fold_1,Washington,ND_B08_B03N_7x7,climate_soil_annual_mean,-0.42611618099599,0.42611618099599,1331,True
+1,state_fold_1,Washington,ND_B08_B03N_5x5,climate_soil_annual_mean,-0.42120638288989615,0.42120638288989615,1331,True
+1,state_fold_1,Washington,ND_B08_B03N_3x3,climate_soil_annual_mean,-0.4149466260260217,0.4149466260260217,1331,True
+1,state_fold_1,Washington,ND_B02_B01_7x7,climate_soil_annual_mean,-0.41021784415709556,0.41021784415709556,1331,True
+1,state_fold_1,Washington,B02_B01_7x7,climate_soil_annual_mean,-0.41008038080349235,0.41008038080349235,1331,True
+1,state_fold_1,Washington,ND_B08_B03N_center,climate_soil_annual_mean,-0.40880767999803647,0.40880767999803647,1331,True
+1,state_fold_1,Washington,ND_B02_B01_5x5,climate_soil_annual_mean,-0.4033918348618633,0.4033918348618633,1331,True
+1,state_fold_1,Washington,B02_B01_5x5,climate_soil_annual_mean,-0.4033918348618633,0.4033918348618633,1331,True
+1,state_fold_1,Washington,ND_B02_B01_3x3,climate_soil_annual_mean,-0.39676853543133034,0.39676853543133034,1331,True
+1,state_fold_1,Washington,B02_B01_3x3,climate_soil_annual_mean,-0.39638465983022314,0.39638465983022314,1331,True
+1,state_fold_1,Washington,ND_B02_B01_center,climate_soil_annual_mean,-0.38989071773746553,0.38989071773746553,1331,True
+1,state_fold_1,Washington,B02_B01_center,climate_soil_annual_mean,-0.38843759467757655,0.38843759467757655,1331,True
+1,state_fold_1,Washington,ND_B07_B04_7x7,env_climate_ppt_annual_mm,-0.36313767737641656,0.36313767737641656,1331,True
+1,state_fold_1,Washington,B07_B04_7x7,env_climate_ppt_annual_mm,-0.3631352548149603,0.3631352548149603,1331,True
+1,state_fold_1,Washington,SWIR_brightness_7x7,climate_soil_annual_mean,-0.361499646031843,0.361499646031843,1331,True
+1,state_fold_1,Washington,ND_B06_B04_7x7,env_climate_ppt_annual_mm,-0.3614838748795235,0.3614838748795235,1331,True
+1,state_fold_1,Washington,B06_B04_7x7,env_climate_ppt_annual_mm,-0.3614718755056646,0.3614718755056646,1331,True
+1,state_fold_1,Washington,ND_B07_B04_5x5,env_climate_ppt_annual_mm,-0.3607344606258752,0.3607344606258752,1331,True
+1,state_fold_1,Washington,B07_B04_5x5,env_climate_ppt_annual_mm,-0.360725237429852,0.360725237429852,1331,True
+1,state_fold_1,Washington,ND_B03N_B02_7x7,climate_aet_annual_sum,0.3605004784042583,0.3605004784042583,1331,True
+1,state_fold_1,Washington,B03N_B02_7x7,climate_aet_annual_sum,0.3605004784042583,0.3605004784042583,1331,True
+1,state_fold_1,Washington,SWIR_brightness_5x5,climate_soil_annual_mean,-0.360058747135785,0.360058747135785,1331,True
+1,state_fold_1,Washington,SWIR_brightness_center,climate_soil_annual_mean,-0.3595650061666056,0.3595650061666056,1331,True
+1,state_fold_1,Washington,SWIR_brightness_3x3,climate_soil_annual_mean,-0.3593635224108827,0.3593635224108827,1331,True
+1,state_fold_1,Washington,ND_B03N_B02_5x5,climate_aet_annual_sum,0.35724740993422527,0.35724740993422527,1331,True
+1,state_fold_1,Washington,B03N_B02_5x5,climate_aet_annual_sum,0.35724740993422527,0.35724740993422527,1331,True
+1,state_fold_1,Washington,ND_B06_B04_5x5,env_climate_ppt_annual_mm,-0.35717750316290836,0.35717750316290836,1331,True
+1,state_fold_1,Washington,B06_B04_5x5,env_climate_ppt_annual_mm,-0.35716727755311267,0.35716727755311267,1331,True
+1,state_fold_1,Washington,ND_B03N_B02_3x3,climate_aet_annual_sum,0.35490598357336395,0.35490598357336395,1331,True
+1,state_fold_1,Washington,B03N_B02_3x3,climate_aet_annual_sum,0.35487359468541596,0.35487359468541596,1331,True
+1,state_fold_1,Washington,ND_B07_B04_3x3,env_climate_ppt_annual_mm,-0.35442540715495113,0.35442540715495113,1331,True
+1,state_fold_1,Washington,B07_B04_3x3,env_climate_ppt_annual_mm,-0.3544177896894949,0.3544177896894949,1331,True
+1,state_fold_1,Washington,Fe_oxide_proxy_7x7,climate_water_balance_annual_mm,-0.35242299097836444,0.35242299097836444,1331,True
+1,state_fold_1,Washington,ND_B04_B03N_7x7,climate_water_balance_annual_mm,-0.35242299097836444,0.35242299097836444,1331,True
+1,state_fold_1,Washington,B04_B03N_7x7,climate_water_balance_annual_mm,-0.35242299097836444,0.35242299097836444,1331,True
+1,state_fold_1,Washington,ND_B06_B04_3x3,env_climate_ppt_annual_mm,-0.35059027942826454,0.35059027942826454,1331,True
+1,state_fold_1,Washington,B06_B04_3x3,env_climate_ppt_annual_mm,-0.3505681950327041,0.3505681950327041,1331,True
+1,state_fold_1,Washington,B04_B03N_5x5,climate_water_balance_annual_mm,-0.34914841726872364,0.34914841726872364,1331,True
+1,state_fold_1,Washington,Fe_oxide_proxy_5x5,climate_water_balance_annual_mm,-0.34914841726872364,0.34914841726872364,1331,True
+1,state_fold_1,Washington,ND_B04_B03N_5x5,climate_water_balance_annual_mm,-0.34914666703672104,0.34914666703672104,1331,True
+1,state_fold_1,Washington,ND_B03N_B02_center,climate_aet_annual_sum,0.3480215569213279,0.3480215569213279,1331,True
+1,state_fold_1,Washington,B03N_B02_center,climate_aet_annual_sum,0.3480131376481038,0.3480131376481038,1331,True
+1,state_fold_1,Washington,B06_B04_center,env_climate_ppt_annual_mm,-0.3444035683499815,0.3444035683499815,1331,True
+1,state_fold_1,Washington,B07_B04_center,env_climate_ppt_annual_mm,-0.34429025297969845,0.34429025297969845,1331,True
+1,state_fold_1,Washington,ND_B07_B04_center,env_climate_ppt_annual_mm,-0.3441849310296896,0.3441849310296896,1331,True
+1,state_fold_1,Washington,ND_B06_B04_center,env_climate_ppt_annual_mm,-0.34352947915563103,0.34352947915563103,1331,True
+1,state_fold_1,Washington,ND_B04_B03N_3x3,climate_water_balance_annual_mm,-0.34298331325231973,0.34298331325231973,1331,True
+1,state_fold_1,Washington,Fe_oxide_proxy_3x3,climate_water_balance_annual_mm,-0.34297436284422333,0.34297436284422333,1331,True
+1,state_fold_1,Washington,B04_B03N_3x3,climate_water_balance_annual_mm,-0.34297436284422333,0.34297436284422333,1331,True
+1,state_fold_1,Washington,B04_B03N_center,climate_water_balance_annual_mm,-0.3365339746224324,0.3365339746224324,1331,True
+1,state_fold_1,Washington,Fe_oxide_proxy_center,climate_water_balance_annual_mm,-0.3365339746224324,0.3365339746224324,1331,True
+1,state_fold_1,Washington,ND_B04_B03N_center,climate_water_balance_annual_mm,-0.33615156739830443,0.33615156739830443,1331,True
+1,state_fold_1,Washington,ND_B09_B08_3x3,climate_vap_annual_mean,-0.33597968134305095,0.33597968134305095,1331,True
+1,state_fold_1,Washington,B09_B08_3x3,climate_vap_annual_mean,-0.3359702597978303,0.3359702597978303,1331,True
+1,state_fold_1,Washington,B09_B08_5x5,climate_vap_annual_mean,-0.3345786956439847,0.3345786956439847,1331,True
+1,state_fold_1,Washington,ND_B09_B08_5x5,climate_vap_annual_mean,-0.3345754379929328,0.3345754379929328,1331,True
+1,state_fold_1,Washington,B09_B08_center,climate_vap_annual_mean,-0.3344843222432389,0.3344843222432389,1331,True
+1,state_fold_1,Washington,ND_B09_B08_center,climate_vap_annual_mean,-0.33406071302949486,0.33406071302949486,1331,True
+1,state_fold_1,Washington,B09_B08_7x7,climate_vap_annual_mean,-0.3312494404498298,0.3312494404498298,1331,True
+1,state_fold_1,Washington,ND_B09_B08_7x7,climate_vap_annual_mean,-0.33124142864708805,0.33124142864708805,1331,True
+1,state_fold_1,Washington,B09_B07_center,climate_vap_annual_mean,-0.29194975543426244,0.29194975543426244,1331,False
+1,state_fold_1,Washington,B09_B07_3x3,climate_vap_annual_mean,-0.2864542351682204,0.2864542351682204,1331,False
+1,state_fold_1,Washington,B09_B07_5x5,climate_vap_annual_mean,-0.2860150551805584,0.2860150551805584,1331,False
+1,state_fold_1,Washington,B09_B07_7x7,climate_vap_annual_mean,-0.28396628830071624,0.28396628830071624,1331,False
+1,state_fold_1,Washington,B06_B05_7x7,climate_water_balance_annual_mm,0.251530073527806,0.251530073527806,1331,False
+1,state_fold_1,Washington,kaolinite_proxy_7x7,climate_water_balance_annual_mm,0.25152757827857747,0.25152757827857747,1331,False
+1,state_fold_1,Washington,ND_B05_B06_7x7,climate_water_balance_annual_mm,-0.25152757827857747,0.25152757827857747,1331,False
+1,state_fold_1,Washington,B05_B06_7x7,climate_water_balance_annual_mm,-0.2515250708687056,0.2515250708687056,1331,False
+1,state_fold_1,Washington,B05_B06_5x5,climate_water_balance_annual_mm,-0.24340506140550544,0.24340506140550544,1331,False
+1,state_fold_1,Washington,ND_B05_B06_5x5,climate_water_balance_annual_mm,-0.24340150827328383,0.24340150827328383,1331,False
+1,state_fold_1,Washington,kaolinite_proxy_5x5,climate_water_balance_annual_mm,0.24340150827328383,0.24340150827328383,1331,False
+1,state_fold_1,Washington,B06_B05_5x5,climate_water_balance_annual_mm,0.24339829534721524,0.24339829534721524,1331,False
+1,state_fold_1,Washington,B05_B06_3x3,climate_water_balance_annual_mm,-0.23536013697250593,0.23536013697250593,1331,False
+1,state_fold_1,Washington,kaolinite_proxy_3x3,climate_water_balance_annual_mm,0.2353570168950109,0.2353570168950109,1331,False
+1,state_fold_1,Washington,ND_B05_B06_3x3,climate_water_balance_annual_mm,-0.2353570168950109,0.2353570168950109,1331,False
+1,state_fold_1,Washington,B06_B05_3x3,climate_water_balance_annual_mm,0.23535557198234022,0.23535557198234022,1331,False
+1,state_fold_1,Washington,Mg_OH_carbonate_proxy_7x7,climate_q_annual_sum,-0.22472458030012496,0.22472458030012496,1331,False
+1,state_fold_1,Washington,ND_B06_B07_7x7,climate_q_annual_sum,0.2216152221749173,0.2216152221749173,1331,False
+1,state_fold_1,Washington,Mg_OH_carbonate_proxy_5x5,climate_q_annual_sum,-0.22046502992635456,0.22046502992635456,1331,False
+1,state_fold_1,Washington,ND_B06_B07_5x5,climate_q_annual_sum,0.21863315587769294,0.21863315587769294,1331,False
+1,state_fold_1,Washington,Mg_OH_carbonate_proxy_3x3,climate_q_annual_sum,-0.21845406833205136,0.21845406833205136,1331,False
+1,state_fold_1,Washington,ND_B06_B07_3x3,climate_q_annual_sum,0.21619700713768597,0.21619700713768597,1331,False
+1,state_fold_1,Washington,B05_B02_center,env_climate_pet_annual_mm,0.21052195617340372,0.21052195617340372,1331,False
+1,state_fold_1,Washington,ND_B05_B02_center,env_climate_pet_annual_mm,0.21031198211189187,0.21031198211189187,1331,False
+1,state_fold_1,Washington,B05_B02_3x3,env_climate_pet_annual_mm,0.2084183237783434,0.2084183237783434,1331,False
+1,state_fold_1,Washington,ND_B05_B02_3x3,env_climate_pet_annual_mm,0.2084183237783434,0.2084183237783434,1331,False
+1,state_fold_1,Washington,ND_B05_B02_5x5,climate_srad_annual_mean,0.20582059227397642,0.20582059227397642,1331,False
+1,state_fold_1,Washington,B05_B02_5x5,climate_srad_annual_mean,0.20582059227397642,0.20582059227397642,1331,False
+1,state_fold_1,Washington,ND_B05_B02_7x7,climate_srad_annual_mean,0.2012595875780282,0.2012595875780282,1331,False
+1,state_fold_1,Washington,B05_B02_7x7,climate_srad_annual_mean,0.2012595875780282,0.2012595875780282,1331,False
+1,state_fold_1,Washington,Mg_OH_carbonate_proxy_center,env_climate_ppt_annual_mm,-0.19058719962539866,0.19058719962539866,1331,False
+1,state_fold_1,Washington,B05_B06_center,env_climate_deficit_annual_mm,0.18732849289100711,0.18732849289100711,1331,False
+1,state_fold_1,Washington,ND_B05_B06_center,env_climate_deficit_annual_mm,0.18357066847248066,0.18357066847248066,1331,False
+1,state_fold_1,Washington,kaolinite_proxy_center,env_climate_deficit_annual_mm,-0.18357066847248066,0.18357066847248066,1331,False
+1,state_fold_1,Washington,B06_B05_center,env_climate_deficit_annual_mm,-0.18073994858892806,0.18073994858892806,1331,False
+1,state_fold_1,Washington,B08_B07_7x7,climate_dtr_annual_mean,0.17840826730067902,0.17840826730067902,1331,False
+1,state_fold_1,Washington,chlorite_epidote_proxy_7x7,climate_dtr_annual_mean,0.1783998791798841,0.1783998791798841,1331,False
+1,state_fold_1,Washington,ND_B07_B08_7x7,climate_dtr_annual_mean,-0.1783998791798841,0.1783998791798841,1331,False
+1,state_fold_1,Washington,B07_B08_7x7,climate_dtr_annual_mean,-0.17838661029798225,0.17838661029798225,1331,False
+1,state_fold_1,Washington,B08_B07_5x5,climate_dtr_annual_mean,0.17825604172082946,0.17825604172082946,1331,False
+1,state_fold_1,Washington,ND_B07_B08_5x5,climate_dtr_annual_mean,-0.17824195932259437,0.17824195932259437,1331,False
+1,state_fold_1,Washington,chlorite_epidote_proxy_5x5,climate_dtr_annual_mean,0.17824195932259437,0.17824195932259437,1331,False
+1,state_fold_1,Washington,B07_B08_5x5,climate_dtr_annual_mean,-0.17822797235205257,0.17822797235205257,1331,False
+1,state_fold_1,Washington,B08_B07_3x3,climate_dtr_annual_mean,0.17576684633021739,0.17576684633021739,1331,False
+1,state_fold_1,Washington,ND_B07_B08_3x3,climate_dtr_annual_mean,-0.17571720752438483,0.17571720752438483,1331,False
+1,state_fold_1,Washington,chlorite_epidote_proxy_3x3,climate_dtr_annual_mean,0.17571720752438483,0.17571720752438483,1331,False
+1,state_fold_1,Washington,B07_B08_3x3,climate_dtr_annual_mean,-0.17567122064937737,0.17567122064937737,1331,False
+1,state_fold_1,Washington,ND_B06_B07_center,climate_q_annual_sum,0.16150657967798723,0.16150657967798723,1331,False
+1,state_fold_1,Washington,B04_B02_3x3,env_climate_swe_annual_mean_mm,-0.1564198963921285,0.1564198963921285,1331,False
+1,state_fold_1,Washington,ND_B04_B02_3x3,env_climate_swe_annual_mean_mm,-0.1564198963921285,0.1564198963921285,1331,False
+1,state_fold_1,Washington,ND_B04_B02_center,env_climate_swe_annual_mean_mm,-0.15552995644749273,0.15552995644749273,1331,False
+1,state_fold_1,Washington,B04_B02_center,env_climate_swe_annual_mean_mm,-0.15552121083068943,0.15552121083068943,1331,False
+1,state_fold_1,Washington,B04_B02_5x5,env_climate_swe_annual_mean_mm,-0.15277780089634865,0.15277780089634865,1331,False
+1,state_fold_1,Washington,ND_B04_B02_5x5,env_climate_swe_annual_mean_mm,-0.15277780089634865,0.15277780089634865,1331,False
+1,state_fold_1,Washington,B08_B07_center,climate_dtr_annual_mean,0.149425650165451,0.149425650165451,1331,False
+1,state_fold_1,Washington,B04_B02_7x7,env_climate_swe_annual_mean_mm,-0.14910323126851466,0.14910323126851466,1331,False
+1,state_fold_1,Washington,ND_B04_B02_7x7,env_climate_swe_annual_mean_mm,-0.14910323126851466,0.14910323126851466,1331,False
+1,state_fold_1,Washington,ND_B07_B08_center,climate_dtr_annual_mean,-0.14702797571424614,0.14702797571424614,1331,False
+1,state_fold_1,Washington,chlorite_epidote_proxy_center,climate_dtr_annual_mean,0.14702797571424614,0.14702797571424614,1331,False
+1,state_fold_1,Washington,B07_B08_center,climate_dtr_annual_mean,-0.14451583911455365,0.14451583911455365,1331,False
+1,state_fold_1,Washington,Al_OH_proxy_5x5,climate_q_annual_sum,-0.09336804431939286,0.09336804431939286,1331,False
+1,state_fold_1,Washington,Al_OH_proxy_3x3,climate_q_annual_sum,-0.08883051453395426,0.08883051453395426,1331,False
+1,state_fold_1,Washington,Al_OH_proxy_7x7,climate_q_annual_sum,-0.08594653949309697,0.08594653949309697,1331,False
+1,state_fold_1,Washington,Al_OH_proxy_center,climate_soil_annual_mean,-0.05133750528649224,0.05133750528649224,1331,False
+2,state_fold_2,Nevada,ND_B08_B03N_7x7,env_aridity_index_ppt_pet,-0.5623813491744719,0.5623813491744719,1430,True
+2,state_fold_2,Nevada,ND_B08_B03N_5x5,env_aridity_index_ppt_pet,-0.5594984838886082,0.5594984838886082,1430,True
+2,state_fold_2,Nevada,ND_B08_B03N_3x3,env_aridity_index_ppt_pet,-0.5562589956747898,0.5562589956747898,1430,True
+2,state_fold_2,Nevada,ND_B08_B03N_center,env_aridity_index_ppt_pet,-0.5527451019115699,0.5527451019115699,1430,True
+2,state_fold_2,Nevada,ND_B04_B03N_7x7,env_aridity_index_ppt_pet,-0.4911565132445344,0.4911565132445344,1430,True
+2,state_fold_2,Nevada,B04_B03N_7x7,env_aridity_index_ppt_pet,-0.4911565132445344,0.4911565132445344,1430,True
+2,state_fold_2,Nevada,Fe_oxide_proxy_7x7,env_aridity_index_ppt_pet,-0.4911565132445344,0.4911565132445344,1430,True
+2,state_fold_2,Nevada,B04_B03N_5x5,climate_water_balance_annual_mm,-0.4879624950077101,0.4879624950077101,1430,True
+2,state_fold_2,Nevada,Fe_oxide_proxy_5x5,climate_water_balance_annual_mm,-0.4879624950077101,0.4879624950077101,1430,True
+2,state_fold_2,Nevada,ND_B04_B03N_5x5,climate_water_balance_annual_mm,-0.4879624950077101,0.4879624950077101,1430,True
+2,state_fold_2,Nevada,ND_B04_B03N_3x3,env_aridity_index_ppt_pet,-0.48507006616998966,0.48507006616998966,1430,True
+2,state_fold_2,Nevada,B04_B03N_3x3,env_aridity_index_ppt_pet,-0.4850694978717109,0.4850694978717109,1430,True
+2,state_fold_2,Nevada,Fe_oxide_proxy_3x3,env_aridity_index_ppt_pet,-0.4850694978717109,0.4850694978717109,1430,True
+2,state_fold_2,Nevada,ND_B05_B04_7x7,env_climate_ppt_annual_mm,-0.4845294521436511,0.4845294521436511,1430,True
+2,state_fold_2,Nevada,B05_B04_7x7,env_climate_ppt_annual_mm,-0.48452157672748636,0.48452157672748636,1430,True
+2,state_fold_2,Nevada,B04_B03N_center,env_aridity_index_ppt_pet,-0.48285781907611,0.48285781907611,1430,True
+2,state_fold_2,Nevada,Fe_oxide_proxy_center,env_aridity_index_ppt_pet,-0.48285781907611,0.48285781907611,1430,True
+2,state_fold_2,Nevada,ND_B04_B03N_center,env_aridity_index_ppt_pet,-0.48252454247973803,0.48252454247973803,1430,True
+2,state_fold_2,Nevada,ND_B05_B04_5x5,env_climate_ppt_annual_mm,-0.47901523522296374,0.47901523522296374,1430,True
+2,state_fold_2,Nevada,B05_B04_5x5,env_climate_ppt_annual_mm,-0.47899699568470355,0.47899699568470355,1430,True
+2,state_fold_2,Nevada,ND_B05_B04_3x3,env_climate_ppt_annual_mm,-0.4712207432490582,0.4712207432490582,1430,True
+2,state_fold_2,Nevada,B05_B04_3x3,env_climate_ppt_annual_mm,-0.47115084738978696,0.47115084738978696,1430,True
+2,state_fold_2,Nevada,B05_B04_center,env_aridity_index_ppt_pet,-0.46650843460319286,0.46650843460319286,1430,True
+2,state_fold_2,Nevada,ND_B05_B04_center,env_aridity_index_ppt_pet,-0.4648716922917269,0.4648716922917269,1430,True
+2,state_fold_2,Nevada,ND_B02_B01_7x7,env_aridity_index_ppt_pet,-0.44838533384697843,0.44838533384697843,1430,True
+2,state_fold_2,Nevada,B02_B01_7x7,env_aridity_index_ppt_pet,-0.4481145891431084,0.4481145891431084,1430,True
+2,state_fold_2,Nevada,B02_B01_5x5,env_aridity_index_ppt_pet,-0.442652735518501,0.442652735518501,1430,True
+2,state_fold_2,Nevada,ND_B02_B01_5x5,env_aridity_index_ppt_pet,-0.4425100927146558,0.4425100927146558,1430,True
+2,state_fold_2,Nevada,B02_B01_3x3,env_aridity_index_ppt_pet,-0.43806206266483244,0.43806206266483244,1430,True
+2,state_fold_2,Nevada,ND_B02_B01_3x3,env_aridity_index_ppt_pet,-0.4380293397920459,0.4380293397920459,1430,True
+2,state_fold_2,Nevada,ND_B02_B01_center,env_aridity_index_ppt_pet,-0.43026527812700155,0.43026527812700155,1430,True
+2,state_fold_2,Nevada,B02_B01_center,env_aridity_index_ppt_pet,-0.4267238427610823,0.4267238427610823,1430,True
+2,state_fold_2,Nevada,SWIR_brightness_center,env_aridity_index_ppt_pet,-0.40178490718855214,0.40178490718855214,1430,True
+2,state_fold_2,Nevada,SWIR_brightness_3x3,env_aridity_index_ppt_pet,-0.4011717394331019,0.4011717394331019,1430,True
+2,state_fold_2,Nevada,SWIR_brightness_7x7,env_aridity_index_ppt_pet,-0.4008784307511716,0.4008784307511716,1430,True
+2,state_fold_2,Nevada,SWIR_brightness_5x5,env_aridity_index_ppt_pet,-0.4005570681273518,0.4005570681273518,1430,True
+2,state_fold_2,Nevada,ND_B06_B04_7x7,climate_aet_annual_sum,-0.39030976365662307,0.39030976365662307,1430,True
+2,state_fold_2,Nevada,B06_B04_7x7,climate_aet_annual_sum,-0.3902813743154356,0.3902813743154356,1430,True
+2,state_fold_2,Nevada,ND_B06_B04_5x5,climate_aet_annual_sum,-0.38702499731565465,0.38702499731565465,1430,True
+2,state_fold_2,Nevada,B06_B04_5x5,climate_aet_annual_sum,-0.38700820338008063,0.38700820338008063,1430,True
+2,state_fold_2,Nevada,B06_B04_center,climate_aet_annual_sum,-0.3849105583763428,0.3849105583763428,1430,True
+2,state_fold_2,Nevada,ND_B07_B04_7x7,climate_aet_annual_sum,-0.38490824870768203,0.38490824870768203,1430,True
+2,state_fold_2,Nevada,B07_B04_7x7,climate_aet_annual_sum,-0.38490143572029445,0.38490143572029445,1430,True
+2,state_fold_2,Nevada,ND_B07_B04_5x5,climate_aet_annual_sum,-0.3845745172485044,0.3845745172485044,1430,True
+2,state_fold_2,Nevada,B07_B04_5x5,climate_aet_annual_sum,-0.3845601121520119,0.3845601121520119,1430,True
+2,state_fold_2,Nevada,ND_B06_B04_3x3,climate_aet_annual_sum,-0.3843622322152995,0.3843622322152995,1430,True
+2,state_fold_2,Nevada,B06_B04_3x3,climate_aet_annual_sum,-0.3843389625578375,0.3843389625578375,1430,True
+2,state_fold_2,Nevada,ND_B06_B04_center,climate_aet_annual_sum,-0.38396434380389033,0.38396434380389033,1430,True
+2,state_fold_2,Nevada,ND_B07_B04_3x3,climate_aet_annual_sum,-0.38356358847399036,0.38356358847399036,1430,True
+2,state_fold_2,Nevada,B07_B04_3x3,climate_aet_annual_sum,-0.38355959066060735,0.38355959066060735,1430,True
+2,state_fold_2,Nevada,B07_B04_center,climate_aet_annual_sum,-0.3777431241959054,0.3777431241959054,1430,True
+2,state_fold_2,Nevada,ND_B07_B04_center,climate_aet_annual_sum,-0.37712068828014295,0.37712068828014295,1430,True
+2,state_fold_2,Nevada,B03N_B02_7x7,climate_aet_annual_sum,0.31549400732791616,0.31549400732791616,1430,True
+2,state_fold_2,Nevada,ND_B03N_B02_7x7,climate_aet_annual_sum,0.31549400732791616,0.31549400732791616,1430,True
+2,state_fold_2,Nevada,ND_B03N_B02_5x5,climate_aet_annual_sum,0.31343919828364875,0.31343919828364875,1430,True
+2,state_fold_2,Nevada,B03N_B02_5x5,climate_aet_annual_sum,0.31343919828364875,0.31343919828364875,1430,True
+2,state_fold_2,Nevada,B05_B02_center,env_climate_deficit_annual_mm,0.3128360020411675,0.3128360020411675,1430,True
+2,state_fold_2,Nevada,ND_B05_B02_center,env_climate_deficit_annual_mm,0.3123802209936511,0.3123802209936511,1430,True
+2,state_fold_2,Nevada,ND_B03N_B02_3x3,climate_aet_annual_sum,0.3121317766030417,0.3121317766030417,1430,True
+2,state_fold_2,Nevada,B03N_B02_3x3,climate_aet_annual_sum,0.3121305434829151,0.3121305434829151,1430,True
+2,state_fold_2,Nevada,ND_B05_B02_3x3,env_climate_deficit_annual_mm,0.3120082976560147,0.3120082976560147,1430,True
+2,state_fold_2,Nevada,B05_B02_3x3,env_climate_deficit_annual_mm,0.31200698127768883,0.31200698127768883,1430,True
+2,state_fold_2,Nevada,B05_B02_5x5,env_climate_deficit_annual_mm,0.31132061111724524,0.31132061111724524,1430,True
+2,state_fold_2,Nevada,ND_B05_B02_5x5,env_climate_deficit_annual_mm,0.31132061111724524,0.31132061111724524,1430,True
+2,state_fold_2,Nevada,ND_B05_B02_7x7,env_climate_deficit_annual_mm,0.30952199352362236,0.30952199352362236,1430,True
+2,state_fold_2,Nevada,B05_B02_7x7,env_climate_deficit_annual_mm,0.30952199352362236,0.30952199352362236,1430,True
+2,state_fold_2,Nevada,B03N_B02_center,climate_aet_annual_sum,0.3072219862228957,0.3072219862228957,1430,True
+2,state_fold_2,Nevada,ND_B03N_B02_center,climate_aet_annual_sum,0.3070488852172913,0.3070488852172913,1430,True
+2,state_fold_2,Nevada,B09_B08_5x5,climate_vap_annual_mean,-0.30176150441124944,0.30176150441124944,1430,True
+2,state_fold_2,Nevada,ND_B09_B08_5x5,climate_vap_annual_mean,-0.30174302970973477,0.30174302970973477,1430,True
+2,state_fold_2,Nevada,ND_B09_B08_3x3,climate_vap_annual_mean,-0.300974436589098,0.300974436589098,1430,True
+2,state_fold_2,Nevada,B09_B08_3x3,climate_vap_annual_mean,-0.3009399714236188,0.3009399714236188,1430,True
+2,state_fold_2,Nevada,ND_B09_B08_7x7,climate_vap_annual_mean,-0.29883933225868836,0.29883933225868836,1430,False
+2,state_fold_2,Nevada,B09_B08_7x7,climate_vap_annual_mean,-0.29881657963824954,0.29881657963824954,1430,False
+2,state_fold_2,Nevada,B09_B08_center,climate_vap_annual_mean,-0.29119936821155507,0.29119936821155507,1430,False
+2,state_fold_2,Nevada,ND_B09_B08_center,climate_vap_annual_mean,-0.2896445925200509,0.2896445925200509,1430,False
+2,state_fold_2,Nevada,B09_B07_3x3,climate_vap_annual_mean,-0.272868029705343,0.272868029705343,1430,False
+2,state_fold_2,Nevada,B09_B07_7x7,climate_vap_annual_mean,-0.27257206020701175,0.27257206020701175,1430,False
+2,state_fold_2,Nevada,B09_B07_5x5,climate_vap_annual_mean,-0.27232374413927957,0.27232374413927957,1430,False
+2,state_fold_2,Nevada,B09_B07_center,climate_vap_annual_mean,-0.2659621432640422,0.2659621432640422,1430,False
+2,state_fold_2,Nevada,Mg_OH_carbonate_proxy_7x7,climate_soil_annual_mean,-0.2642737289409626,0.2642737289409626,1430,False
+2,state_fold_2,Nevada,Mg_OH_carbonate_proxy_5x5,climate_soil_annual_mean,-0.2622719245422673,0.2622719245422673,1430,False
+2,state_fold_2,Nevada,B08_B07_7x7,climate_dtr_annual_mean,0.261790360090714,0.261790360090714,1430,False
+2,state_fold_2,Nevada,Mg_OH_carbonate_proxy_3x3,climate_soil_annual_mean,-0.2617888227772296,0.2617888227772296,1430,False
+2,state_fold_2,Nevada,ND_B07_B08_7x7,climate_dtr_annual_mean,-0.2617852178519053,0.2617852178519053,1430,False
+2,state_fold_2,Nevada,chlorite_epidote_proxy_7x7,climate_dtr_annual_mean,0.2617852178519053,0.2617852178519053,1430,False
+2,state_fold_2,Nevada,B07_B08_7x7,climate_dtr_annual_mean,-0.26177736168048527,0.26177736168048527,1430,False
+2,state_fold_2,Nevada,B08_B07_5x5,climate_dtr_annual_mean,0.2592689365375204,0.2592689365375204,1430,False
+2,state_fold_2,Nevada,ND_B07_B08_5x5,climate_dtr_annual_mean,-0.2592416602266381,0.2592416602266381,1430,False
+2,state_fold_2,Nevada,chlorite_epidote_proxy_5x5,climate_dtr_annual_mean,0.2592416602266381,0.2592416602266381,1430,False
+2,state_fold_2,Nevada,B07_B08_5x5,climate_dtr_annual_mean,-0.2592140292828908,0.2592140292828908,1430,False
+2,state_fold_2,Nevada,B08_B07_3x3,climate_dtr_annual_mean,0.2550680174145871,0.2550680174145871,1430,False
+2,state_fold_2,Nevada,chlorite_epidote_proxy_3x3,climate_dtr_annual_mean,0.2550122655811956,0.2550122655811956,1430,False
+2,state_fold_2,Nevada,ND_B07_B08_3x3,climate_dtr_annual_mean,-0.2550122655811956,0.2550122655811956,1430,False
+2,state_fold_2,Nevada,B07_B08_3x3,climate_dtr_annual_mean,-0.2549639542125194,0.2549639542125194,1430,False
+2,state_fold_2,Nevada,B05_B06_7x7,env_climate_tmean_annual_c,0.24867859864139444,0.24867859864139444,1430,False
+2,state_fold_2,Nevada,ND_B05_B06_7x7,env_climate_tmean_annual_c,0.2486718993927072,0.2486718993927072,1430,False
+2,state_fold_2,Nevada,kaolinite_proxy_7x7,env_climate_tmean_annual_c,-0.2486718993927072,0.2486718993927072,1430,False
+2,state_fold_2,Nevada,B06_B05_7x7,env_climate_tmean_annual_c,-0.2486651939708379,0.2486651939708379,1430,False
+2,state_fold_2,Nevada,B06_B05_5x5,env_climate_tmean_annual_c,-0.24470166233120927,0.24470166233120927,1430,False
+2,state_fold_2,Nevada,kaolinite_proxy_5x5,env_climate_tmean_annual_c,-0.24469368648944753,0.24469368648944753,1430,False
+2,state_fold_2,Nevada,ND_B05_B06_5x5,env_climate_tmean_annual_c,0.24469368648944753,0.24469368648944753,1430,False
+2,state_fold_2,Nevada,B05_B06_5x5,env_climate_tmean_annual_c,0.2446793567786124,0.2446793567786124,1430,False
+2,state_fold_2,Nevada,B06_B05_3x3,env_climate_tmean_annual_c,-0.24066980146854616,0.24066980146854616,1430,False
+2,state_fold_2,Nevada,ND_B05_B06_3x3,env_climate_tmean_annual_c,0.24061954078068404,0.24061954078068404,1430,False
+2,state_fold_2,Nevada,kaolinite_proxy_3x3,env_climate_tmean_annual_c,-0.24061954078068404,0.24061954078068404,1430,False
+2,state_fold_2,Nevada,B05_B06_3x3,env_climate_tmean_annual_c,0.24057870797868053,0.24057870797868053,1430,False
+2,state_fold_2,Nevada,Mg_OH_carbonate_proxy_center,climate_soil_annual_mean,-0.23311560417776628,0.23311560417776628,1430,False
+2,state_fold_2,Nevada,B08_B07_center,climate_dtr_annual_mean,0.22876336954632534,0.22876336954632534,1430,False
+2,state_fold_2,Nevada,ND_B07_B08_center,climate_dtr_annual_mean,-0.2230226975956687,0.2230226975956687,1430,False
+2,state_fold_2,Nevada,chlorite_epidote_proxy_center,climate_dtr_annual_mean,0.2230226975956687,0.2230226975956687,1430,False
+2,state_fold_2,Nevada,B07_B08_center,climate_dtr_annual_mean,-0.21734242141807816,0.21734242141807816,1430,False
+2,state_fold_2,Nevada,B05_B06_center,env_climate_tmean_annual_c,0.2065657919785893,0.2065657919785893,1430,False
+2,state_fold_2,Nevada,kaolinite_proxy_center,env_climate_tmean_annual_c,-0.2031557238830568,0.2031557238830568,1430,False
+2,state_fold_2,Nevada,ND_B05_B06_center,env_climate_tmean_annual_c,0.2031557238830568,0.2031557238830568,1430,False
+2,state_fold_2,Nevada,B06_B05_center,env_climate_swe_annual_mean_mm,0.2018916414389397,0.2018916414389397,1430,False
+2,state_fold_2,Nevada,B04_B02_center,env_climate_pet_annual_mm,0.19726705520872773,0.19726705520872773,1430,False
+2,state_fold_2,Nevada,ND_B04_B02_center,env_climate_pet_annual_mm,0.19702763669698864,0.19702763669698864,1430,False
+2,state_fold_2,Nevada,B04_B02_3x3,env_climate_pet_annual_mm,0.19657383306366275,0.19657383306366275,1430,False
+2,state_fold_2,Nevada,ND_B04_B02_3x3,env_climate_pet_annual_mm,0.19657255678425264,0.19657255678425264,1430,False
+2,state_fold_2,Nevada,ND_B04_B02_5x5,env_climate_pet_annual_mm,0.19265406658905387,0.19265406658905387,1430,False
+2,state_fold_2,Nevada,B04_B02_5x5,env_climate_pet_annual_mm,0.19265406658905387,0.19265406658905387,1430,False
+2,state_fold_2,Nevada,B04_B02_7x7,env_climate_pet_annual_mm,0.18920764845333873,0.18920764845333873,1430,False
+2,state_fold_2,Nevada,ND_B04_B02_7x7,env_climate_pet_annual_mm,0.18920452544269795,0.18920452544269795,1430,False
+2,state_fold_2,Nevada,ND_B06_B07_5x5,env_climate_ppt_annual_mm,0.18289857823033492,0.18289857823033492,1430,False
+2,state_fold_2,Nevada,ND_B06_B07_7x7,env_climate_ppt_annual_mm,0.18167397865340099,0.18167397865340099,1430,False
+2,state_fold_2,Nevada,ND_B06_B07_3x3,env_climate_ppt_annual_mm,0.1804684422426135,0.1804684422426135,1430,False
+2,state_fold_2,Nevada,ND_B06_B07_center,env_climate_ppt_annual_mm,0.1333093030839542,0.1333093030839542,1430,False
+2,state_fold_2,Nevada,Al_OH_proxy_3x3,climate_aet_annual_sum,-0.06574802026637415,0.06574802026637415,1430,False
+2,state_fold_2,Nevada,Al_OH_proxy_7x7,climate_srad_annual_mean,-0.06550203240317813,0.06550203240317813,1430,False
+2,state_fold_2,Nevada,Al_OH_proxy_5x5,climate_aet_annual_sum,-0.06284821180812422,0.06284821180812422,1430,False
+2,state_fold_2,Nevada,Al_OH_proxy_center,climate_srad_annual_mean,-0.06062239236927971,0.06062239236927971,1430,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B08_B03N_7x7,env_aridity_index_ppt_pet,-0.5311526556722682,0.5311526556722682,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B08_B03N_5x5,env_aridity_index_ppt_pet,-0.5289295289256662,0.5289295289256662,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B08_B03N_3x3,env_aridity_index_ppt_pet,-0.5254378857932536,0.5254378857932536,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B08_B03N_center,env_aridity_index_ppt_pet,-0.5216351755105912,0.5216351755105912,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B04_7x7,climate_aet_pet_ratio_annual,-0.5178061925239137,0.5178061925239137,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B04_7x7,climate_aet_pet_ratio_annual,-0.517790991580215,0.517790991580215,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B04_5x5,env_climate_ppt_annual_mm,-0.5129962019577402,0.5129962019577402,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B04_5x5,env_climate_ppt_annual_mm,-0.5129813350140592,0.5129813350140592,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B04_3x3,climate_aet_pet_ratio_annual,-0.5054838440274323,0.5054838440274323,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B04_3x3,climate_aet_pet_ratio_annual,-0.5054235080453274,0.5054235080453274,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B04_center,climate_aet_pet_ratio_annual,-0.49885797556750755,0.49885797556750755,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B04_center,climate_aet_pet_ratio_annual,-0.4971997909649751,0.4971997909649751,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B04_B03N_7x7,climate_water_balance_annual_mm,-0.45348389223475916,0.45348389223475916,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Fe_oxide_proxy_7x7,climate_water_balance_annual_mm,-0.45348389223475916,0.45348389223475916,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B04_B03N_7x7,climate_water_balance_annual_mm,-0.45348389223475916,0.45348389223475916,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B04_B03N_5x5,climate_water_balance_annual_mm,-0.45165870227509364,0.45165870227509364,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Fe_oxide_proxy_5x5,climate_water_balance_annual_mm,-0.45165870227509364,0.45165870227509364,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B04_B03N_5x5,climate_water_balance_annual_mm,-0.4516576643854272,0.4516576643854272,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B04_B03N_3x3,climate_water_balance_annual_mm,-0.4480099588518911,0.4480099588518911,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B04_B03N_3x3,climate_water_balance_annual_mm,-0.44800467476207306,0.44800467476207306,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Fe_oxide_proxy_3x3,climate_water_balance_annual_mm,-0.44800467476207306,0.44800467476207306,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Fe_oxide_proxy_center,climate_water_balance_annual_mm,-0.445211790544477,0.445211790544477,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B04_B03N_center,climate_water_balance_annual_mm,-0.445211790544477,0.445211790544477,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B04_B03N_center,climate_water_balance_annual_mm,-0.4449392723965714,0.4449392723965714,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B06_B04_7x7,climate_aet_annual_sum,-0.4121434569134415,0.4121434569134415,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B06_B04_7x7,climate_aet_annual_sum,-0.4121130235058297,0.4121130235058297,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B06_B04_5x5,climate_aet_annual_sum,-0.40867524701739855,0.40867524701739855,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B06_B04_5x5,climate_aet_annual_sum,-0.4086588002920873,0.4086588002920873,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B06_B04_3x3,climate_aet_annual_sum,-0.40515674515434225,0.40515674515434225,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B06_B04_3x3,climate_aet_annual_sum,-0.4050834160005461,0.4050834160005461,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B02_B01_7x7,climate_soil_annual_mean,-0.4027779851231227,0.4027779851231227,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B02_B01_7x7,climate_soil_annual_mean,-0.4025819404048338,0.4025819404048338,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B06_B04_center,climate_aet_annual_sum,-0.4006673703213773,0.4006673703213773,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B06_B04_center,climate_aet_annual_sum,-0.40014394541816123,0.40014394541816123,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B02_B01_5x5,climate_soil_annual_mean,-0.39669093236975317,0.39669093236975317,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B02_B01_5x5,climate_soil_annual_mean,-0.39657380373929063,0.39657380373929063,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B07_B04_7x7,climate_aet_annual_sum,-0.3962935072175015,0.3962935072175015,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B07_B04_7x7,climate_aet_annual_sum,-0.3962883772999504,0.3962883772999504,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B07_B04_5x5,climate_aet_annual_sum,-0.3952043415868074,0.3952043415868074,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B07_B04_5x5,climate_aet_annual_sum,-0.39519192619842564,0.39519192619842564,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B07_B04_3x3,env_climate_ppt_annual_mm,-0.3930773028970531,0.3930773028970531,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B07_B04_3x3,env_climate_ppt_annual_mm,-0.39307184723122374,0.39307184723122374,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B02_B01_3x3,climate_soil_annual_mean,-0.3908510399422639,0.3908510399422639,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B02_B01_3x3,climate_soil_annual_mean,-0.39080019637401364,0.39080019637401364,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B02_B01_center,climate_soil_annual_mean,-0.38685710440365456,0.38685710440365456,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B02_B01_center,climate_soil_annual_mean,-0.38377002601916943,0.38377002601916943,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B07_B04_center,env_climate_ppt_annual_mm,-0.38284617868747106,0.38284617868747106,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B07_B04_center,env_climate_ppt_annual_mm,-0.38234216331842746,0.38234216331842746,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,SWIR_brightness_7x7,env_aridity_index_ppt_pet,-0.38110324351428193,0.38110324351428193,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,SWIR_brightness_center,env_aridity_index_ppt_pet,-0.3809089832536704,0.3809089832536704,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,SWIR_brightness_3x3,env_aridity_index_ppt_pet,-0.38070154424508595,0.38070154424508595,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,SWIR_brightness_5x5,env_aridity_index_ppt_pet,-0.3806493866331371,0.3806493866331371,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B03N_B02_7x7,climate_aet_annual_sum,0.3567307212048398,0.3567307212048398,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B03N_B02_7x7,climate_aet_annual_sum,0.3567307212048398,0.3567307212048398,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B03N_B02_5x5,climate_aet_annual_sum,0.3545106946788309,0.3545106946788309,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B03N_B02_5x5,climate_aet_annual_sum,0.3545106946788309,0.3545106946788309,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B03N_B02_3x3,climate_aet_annual_sum,0.35355641912012187,0.35355641912012187,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B03N_B02_3x3,climate_aet_annual_sum,0.35349399260626335,0.35349399260626335,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B03N_B02_center,climate_aet_annual_sum,0.3472965436064032,0.3472965436064032,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B03N_B02_center,climate_aet_annual_sum,0.3472347566802987,0.3472347566802987,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B09_B07_3x3,climate_vap_annual_mean,-0.32432721758308763,0.32432721758308763,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B09_B07_7x7,climate_vap_annual_mean,-0.32387176498377057,0.32387176498377057,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B09_B08_5x5,climate_vap_annual_mean,-0.3238135981810906,0.3238135981810906,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B09_B08_5x5,climate_vap_annual_mean,-0.32381331569774036,0.32381331569774036,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B09_B07_center,climate_vap_annual_mean,-0.32319770227440636,0.32319770227440636,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B09_B07_5x5,climate_vap_annual_mean,-0.32309166923782257,0.32309166923782257,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B09_B08_3x3,climate_vap_annual_mean,-0.3224695286215259,0.3224695286215259,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B09_B08_3x3,climate_vap_annual_mean,-0.3224383273352355,0.3224383273352355,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B09_B08_7x7,climate_vap_annual_mean,-0.321708393105622,0.321708393105622,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B09_B08_7x7,climate_vap_annual_mean,-0.3216822031565071,0.3216822031565071,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B09_B08_center,climate_vap_annual_mean,-0.31319245174386945,0.31319245174386945,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B09_B08_center,climate_vap_annual_mean,-0.31088254003815,0.31088254003815,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B02_5x5,climate_srad_annual_mean,0.3046273861947549,0.3046273861947549,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B02_5x5,climate_srad_annual_mean,0.3046273861947549,0.3046273861947549,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B02_3x3,climate_srad_annual_mean,0.3044374392579491,0.3044374392579491,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B02_3x3,climate_srad_annual_mean,0.30443623010766774,0.30443623010766774,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B02_center,climate_srad_annual_mean,0.30235576722376784,0.30235576722376784,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B02_7x7,climate_srad_annual_mean,0.30213898320919597,0.30213898320919597,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B02_7x7,climate_srad_annual_mean,0.30213898320919597,0.30213898320919597,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B02_center,climate_srad_annual_mean,0.3019105182349592,0.3019105182349592,1540,True
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B08_B07_7x7,climate_dtr_annual_mean,0.28075644336449285,0.28075644336449285,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,chlorite_epidote_proxy_7x7,climate_dtr_annual_mean,0.28075388535761464,0.28075388535761464,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B07_B08_7x7,climate_dtr_annual_mean,-0.28075388535761464,0.28075388535761464,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B07_B08_7x7,climate_dtr_annual_mean,-0.28074864819108697,0.28074864819108697,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B08_B07_5x5,climate_dtr_annual_mean,0.2804638814550213,0.2804638814550213,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,chlorite_epidote_proxy_5x5,climate_dtr_annual_mean,0.28044244381399247,0.28044244381399247,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B07_B08_5x5,climate_dtr_annual_mean,-0.28044244381399247,0.28044244381399247,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B07_B08_5x5,climate_dtr_annual_mean,-0.28041996563296495,0.28041996563296495,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B08_B07_3x3,climate_dtr_annual_mean,0.2741841361502945,0.2741841361502945,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B07_B08_3x3,climate_dtr_annual_mean,-0.27415424223919743,0.27415424223919743,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,chlorite_epidote_proxy_3x3,climate_dtr_annual_mean,0.27415424223919743,0.27415424223919743,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B07_B08_3x3,climate_dtr_annual_mean,-0.2741287403121953,0.2741287403121953,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Mg_OH_carbonate_proxy_7x7,climate_soil_annual_mean,-0.2687137598419006,0.2687137598419006,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Mg_OH_carbonate_proxy_5x5,climate_soil_annual_mean,-0.265999997512807,0.265999997512807,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Mg_OH_carbonate_proxy_3x3,climate_soil_annual_mean,-0.264225590429852,0.264225590429852,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B06_7x7,climate_water_balance_annual_mm,-0.2513708738056241,0.2513708738056241,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B06_B05_7x7,climate_water_balance_annual_mm,0.251368143442739,0.251368143442739,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,kaolinite_proxy_7x7,climate_water_balance_annual_mm,0.25136810740893695,0.25136810740893695,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B06_7x7,climate_water_balance_annual_mm,-0.25136810740893695,0.25136810740893695,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B08_B07_center,climate_dtr_annual_mean,0.24925520878912164,0.24925520878912164,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B06_5x5,climate_water_balance_annual_mm,-0.2472487318273383,0.2472487318273383,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B06_5x5,climate_water_balance_annual_mm,-0.24723313070999592,0.24723313070999592,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,kaolinite_proxy_5x5,climate_water_balance_annual_mm,0.24723313070999592,0.24723313070999592,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B06_B05_5x5,climate_water_balance_annual_mm,0.24721685459396983,0.24721685459396983,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B07_B08_center,climate_dtr_annual_mean,-0.24457068596151285,0.24457068596151285,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,chlorite_epidote_proxy_center,climate_dtr_annual_mean,0.24457068596151285,0.24457068596151285,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B06_B05_3x3,climate_water_balance_annual_mm,0.2445363004212557,0.2445363004212557,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B06_3x3,climate_water_balance_annual_mm,-0.24452810440399259,0.24452810440399259,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,kaolinite_proxy_3x3,climate_water_balance_annual_mm,0.24452642867772395,0.24452642867772395,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B06_3x3,climate_water_balance_annual_mm,-0.24452642867772395,0.24452642867772395,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Mg_OH_carbonate_proxy_center,climate_soil_annual_mean,-0.24175678605320836,0.24175678605320836,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B07_B08_center,climate_dtr_annual_mean,-0.23986793227378642,0.23986793227378642,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B05_B06_center,env_climate_deficit_annual_mm,0.21055362126918717,0.21055362126918717,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,kaolinite_proxy_center,env_climate_deficit_annual_mm,-0.20508041975842306,0.20508041975842306,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B05_B06_center,env_climate_deficit_annual_mm,0.20508041975842306,0.20508041975842306,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B06_B05_center,env_climate_swe_annual_mean_mm,0.2009726706737785,0.2009726706737785,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B04_B02_3x3,climate_srad_annual_mean,0.19030773305488227,0.19030773305488227,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B04_B02_3x3,climate_srad_annual_mean,0.19030714731075443,0.19030714731075443,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B04_B02_center,climate_srad_annual_mean,0.18900278527737296,0.18900278527737296,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B04_B02_center,climate_srad_annual_mean,0.1887635686260862,0.1887635686260862,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B04_B02_5x5,climate_srad_annual_mean,0.1872221981941918,0.1872221981941918,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B04_B02_5x5,climate_srad_annual_mean,0.1872221981941918,0.1872221981941918,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,B04_B02_7x7,climate_srad_annual_mean,0.1836320161523448,0.1836320161523448,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B04_B02_7x7,climate_srad_annual_mean,0.1836320161523448,0.1836320161523448,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B06_B07_3x3,climate_q_annual_sum,0.16184359814647664,0.16184359814647664,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B06_B07_5x5,climate_q_annual_sum,0.1612676792803833,0.1612676792803833,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B06_B07_7x7,climate_q_annual_sum,0.16059449357660155,0.16059449357660155,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,ND_B06_B07_center,climate_q_annual_sum,0.12607228342815277,0.12607228342815277,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Al_OH_proxy_7x7,climate_srad_annual_mean,-0.06817812667606754,0.06817812667606754,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Al_OH_proxy_center,climate_srad_annual_mean,-0.06159907950013892,0.06159907950013892,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Al_OH_proxy_5x5,climate_srad_annual_mean,-0.05768741792175785,0.05768741792175785,1540,False
+3,state_fold_3,California;Idaho;New Mexico;Wyoming,Al_OH_proxy_3x3,climate_srad_annual_mean,-0.05092588698134248,0.05092588698134248,1540,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B04_7x7,env_climate_ppt_annual_mm,-0.5162956749357307,0.5162956749357307,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B04_7x7,env_climate_ppt_annual_mm,-0.516287622444568,0.516287622444568,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B04_5x5,env_climate_ppt_annual_mm,-0.5113292267848398,0.5113292267848398,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B04_5x5,env_climate_ppt_annual_mm,-0.5113262738131011,0.5113262738131011,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B08_B03N_7x7,climate_soil_annual_mean,-0.5070691493497056,0.5070691493497056,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B08_B03N_5x5,climate_soil_annual_mean,-0.5045042749357326,0.5045042749357326,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B04_3x3,env_climate_ppt_annual_mm,-0.5041966166461161,0.5041966166461161,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B04_3x3,env_climate_ppt_annual_mm,-0.5041567670789969,0.5041567670789969,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B08_B03N_3x3,climate_soil_annual_mean,-0.5017301502245107,0.5017301502245107,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B08_B03N_center,climate_soil_annual_mean,-0.49693798017295165,0.49693798017295165,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B04_center,env_climate_ppt_annual_mm,-0.49585274464096607,0.49585274464096607,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B04_center,env_climate_ppt_annual_mm,-0.4946052874428115,0.4946052874428115,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B04_B03N_7x7,climate_water_balance_annual_mm,-0.4282115758920772,0.4282115758920772,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Fe_oxide_proxy_7x7,climate_water_balance_annual_mm,-0.4282115758920772,0.4282115758920772,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B04_B03N_7x7,climate_water_balance_annual_mm,-0.4282115758920772,0.4282115758920772,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B04_B03N_5x5,climate_water_balance_annual_mm,-0.4261327190395613,0.4261327190395613,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Fe_oxide_proxy_5x5,climate_water_balance_annual_mm,-0.4261327190395613,0.4261327190395613,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B04_B03N_5x5,climate_water_balance_annual_mm,-0.42613164677200127,0.42613164677200127,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B04_B03N_3x3,climate_water_balance_annual_mm,-0.42304880760173913,0.42304880760173913,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B04_B03N_3x3,climate_water_balance_annual_mm,-0.42304332357175733,0.42304332357175733,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Fe_oxide_proxy_3x3,climate_water_balance_annual_mm,-0.42304332357175733,0.42304332357175733,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Fe_oxide_proxy_center,climate_water_balance_annual_mm,-0.4195706560556056,0.4195706560556056,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B04_B03N_center,climate_water_balance_annual_mm,-0.4195706560556056,0.4195706560556056,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B04_B03N_center,climate_water_balance_annual_mm,-0.41934591467335075,0.41934591467335075,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B02_B01_7x7,climate_soil_annual_mean,-0.4062366026257792,0.4062366026257792,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B02_B01_7x7,climate_soil_annual_mean,-0.40605396047717396,0.40605396047717396,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B06_B04_7x7,climate_aet_annual_sum,-0.40462160330653774,0.40462160330653774,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B06_B04_7x7,climate_aet_annual_sum,-0.4046009355421681,0.4046009355421681,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B06_B04_5x5,climate_aet_annual_sum,-0.4027546774337271,0.4027546774337271,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B06_B04_5x5,climate_aet_annual_sum,-0.4027432242756302,0.4027432242756302,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B06_B04_3x3,env_climate_ppt_annual_mm,-0.40036483444405707,0.40036483444405707,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B02_B01_5x5,climate_soil_annual_mean,-0.40033097663652123,0.40033097663652123,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B06_B04_3x3,env_climate_ppt_annual_mm,-0.4003144419106618,0.4003144419106618,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B02_B01_5x5,climate_soil_annual_mean,-0.40021611412527397,0.40021611412527397,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B06_B04_center,env_climate_ppt_annual_mm,-0.3957554572781378,0.3957554572781378,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B02_B01_3x3,climate_soil_annual_mean,-0.3955024522378356,0.3955024522378356,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B02_B01_3x3,climate_soil_annual_mean,-0.3954715276295901,0.3954715276295901,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B06_B04_center,env_climate_ppt_annual_mm,-0.3948848147519612,0.3948848147519612,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B07_B04_7x7,env_climate_ppt_annual_mm,-0.3911512905759323,0.3911512905759323,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B07_B04_7x7,env_climate_ppt_annual_mm,-0.3911512905759323,0.3911512905759323,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B07_B04_5x5,env_climate_ppt_annual_mm,-0.39072557620862297,0.39072557620862297,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B07_B04_5x5,env_climate_ppt_annual_mm,-0.39071576736269975,0.39071576736269975,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B07_B04_3x3,env_climate_ppt_annual_mm,-0.3900718980125399,0.3900718980125399,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B07_B04_3x3,env_climate_ppt_annual_mm,-0.39006881832514345,0.39006881832514345,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B02_B01_center,climate_soil_annual_mean,-0.3894737707087089,0.3894737707087089,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B02_B01_center,climate_soil_annual_mean,-0.3868601524680017,0.3868601524680017,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B07_B04_center,env_climate_ppt_annual_mm,-0.3829714893810378,0.3829714893810378,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B07_B04_center,env_climate_ppt_annual_mm,-0.38244536408273044,0.38244536408273044,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,SWIR_brightness_center,climate_soil_annual_mean,-0.37658712859797,0.37658712859797,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,SWIR_brightness_3x3,climate_soil_annual_mean,-0.37614252274358073,0.37614252274358073,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,SWIR_brightness_7x7,climate_soil_annual_mean,-0.3760954936521222,0.3760954936521222,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,SWIR_brightness_5x5,climate_soil_annual_mean,-0.3757535916896146,0.3757535916896146,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B03N_B02_7x7,climate_aet_annual_sum,0.35278319770518335,0.35278319770518335,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B03N_B02_7x7,climate_aet_annual_sum,0.35278319770518335,0.35278319770518335,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B03N_B02_5x5,climate_aet_annual_sum,0.35105645935314256,0.35105645935314256,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B03N_B02_5x5,climate_aet_annual_sum,0.35105645935314256,0.35105645935314256,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B03N_B02_3x3,climate_aet_annual_sum,0.34977120668416145,0.34977120668416145,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B03N_B02_3x3,climate_aet_annual_sum,0.3497536258127317,0.3497536258127317,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B03N_B02_center,climate_aet_annual_sum,0.3434339753271013,0.3434339753271013,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B03N_B02_center,climate_aet_annual_sum,0.3433932049650806,0.3433932049650806,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B09_B08_7x7,climate_vap_annual_mean,-0.34174533089920495,0.34174533089920495,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B09_B08_7x7,climate_vap_annual_mean,-0.3417191459491261,0.3417191459491261,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B09_B08_5x5,climate_vap_annual_mean,-0.3405787387920831,0.3405787387920831,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B09_B08_5x5,climate_vap_annual_mean,-0.34056554008255424,0.34056554008255424,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B09_B08_3x3,climate_vap_annual_mean,-0.3398452314954797,0.3398452314954797,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B09_B08_3x3,climate_vap_annual_mean,-0.3398220999786297,0.3398220999786297,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B09_B07_7x7,climate_vap_annual_mean,-0.3380341762237593,0.3380341762237593,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B09_B07_5x5,climate_vap_annual_mean,-0.3359184827418188,0.3359184827418188,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B09_B07_3x3,climate_vap_annual_mean,-0.3348311392625388,0.3348311392625388,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B09_B08_center,climate_vap_annual_mean,-0.33439233448776384,0.33439233448776384,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B09_B07_center,climate_vap_annual_mean,-0.3328555174592628,0.3328555174592628,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B09_B08_center,climate_vap_annual_mean,-0.3328307059125544,0.3328307059125544,1551,True
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B02_5x5,climate_srad_annual_mean,0.28633635800600593,0.28633635800600593,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B02_5x5,climate_srad_annual_mean,0.28633635800600593,0.28633635800600593,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B02_3x3,climate_srad_annual_mean,0.2862347716639009,0.2862347716639009,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B02_3x3,climate_srad_annual_mean,0.2862339950567527,0.2862339950567527,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B02_center,climate_srad_annual_mean,0.28468911232663613,0.28468911232663613,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B02_center,climate_srad_annual_mean,0.2843057819375148,0.2843057819375148,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B02_7x7,climate_srad_annual_mean,0.28353100693273275,0.28353100693273275,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B02_7x7,climate_srad_annual_mean,0.28353100693273275,0.28353100693273275,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Mg_OH_carbonate_proxy_7x7,climate_soil_annual_mean,-0.26755626444849173,0.26755626444849173,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B07_B08_7x7,climate_dtr_annual_mean,-0.264541745240604,0.264541745240604,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,chlorite_epidote_proxy_7x7,climate_dtr_annual_mean,0.2645385012651107,0.2645385012651107,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B07_B08_7x7,climate_dtr_annual_mean,-0.2645385012651107,0.2645385012651107,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B08_B07_7x7,climate_dtr_annual_mean,0.26453271890763563,0.26453271890763563,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Mg_OH_carbonate_proxy_5x5,climate_soil_annual_mean,-0.2644040287287592,0.2644040287287592,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B08_B07_5x5,climate_dtr_annual_mean,0.26186693106863235,0.26186693106863235,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B07_B08_5x5,climate_dtr_annual_mean,-0.2618569503049625,0.2618569503049625,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,chlorite_epidote_proxy_5x5,climate_dtr_annual_mean,0.2618569503049625,0.2618569503049625,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B07_B08_5x5,climate_dtr_annual_mean,-0.26184620089608956,0.26184620089608956,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Mg_OH_carbonate_proxy_3x3,climate_soil_annual_mean,-0.2614059003312453,0.2614059003312453,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B06_7x7,env_climate_deficit_annual_mm,0.2605900363858919,0.2605900363858919,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,kaolinite_proxy_7x7,env_climate_deficit_annual_mm,-0.26058385872647305,0.26058385872647305,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B06_7x7,env_climate_deficit_annual_mm,0.26058385872647305,0.26058385872647305,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B06_B05_7x7,env_climate_deficit_annual_mm,-0.26058031856918557,0.26058031856918557,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B06_5x5,env_climate_deficit_annual_mm,0.257198937475181,0.257198937475181,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B06_5x5,env_climate_deficit_annual_mm,0.2571905668978144,0.2571905668978144,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,kaolinite_proxy_5x5,env_climate_deficit_annual_mm,-0.2571905668978144,0.2571905668978144,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B06_B05_5x5,env_climate_deficit_annual_mm,-0.2571818721978402,0.2571818721978402,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B07_B08_3x3,climate_dtr_annual_mean,-0.25704110543673153,0.25704110543673153,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,chlorite_epidote_proxy_3x3,climate_dtr_annual_mean,0.2570161989888138,0.2570161989888138,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B07_B08_3x3,climate_dtr_annual_mean,-0.2570161989888138,0.2570161989888138,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B08_B07_3x3,climate_dtr_annual_mean,0.2570005729719777,0.2570005729719777,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B06_B05_3x3,env_climate_deficit_annual_mm,-0.2515731176330288,0.2515731176330288,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B06_3x3,env_climate_deficit_annual_mm,0.2515477468293161,0.2515477468293161,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,kaolinite_proxy_3x3,env_climate_deficit_annual_mm,-0.2515477468293161,0.2515477468293161,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B06_3x3,env_climate_deficit_annual_mm,0.251535153340469,0.251535153340469,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Mg_OH_carbonate_proxy_center,climate_soil_annual_mean,-0.23383048397227774,0.23383048397227774,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B08_B07_center,climate_dtr_annual_mean,0.23209840740049378,0.23209840740049378,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B07_B08_center,climate_dtr_annual_mean,-0.22790984702918157,0.22790984702918157,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,chlorite_epidote_proxy_center,climate_dtr_annual_mean,0.22790984702918157,0.22790984702918157,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B07_B08_center,climate_dtr_annual_mean,-0.22348318895719016,0.22348318895719016,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B05_B06_center,env_climate_deficit_annual_mm,0.21412449782232829,0.21412449782232829,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,kaolinite_proxy_center,env_climate_deficit_annual_mm,-0.20963583583001683,0.20963583583001683,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B05_B06_center,env_climate_deficit_annual_mm,0.20963583583001683,0.20963583583001683,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B06_B05_center,env_climate_deficit_annual_mm,-0.20611544693591297,0.20611544693591297,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B04_B02_3x3,climate_srad_annual_mean,0.19840630045839489,0.19840630045839489,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B04_B02_3x3,climate_srad_annual_mean,0.19840577378908072,0.19840577378908072,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B04_B02_center,climate_srad_annual_mean,0.1978090969022459,0.1978090969022459,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B04_B02_center,climate_srad_annual_mean,0.19761923936928516,0.19761923936928516,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B04_B02_5x5,climate_srad_annual_mean,0.19518108424195849,0.19518108424195849,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B04_B02_5x5,climate_srad_annual_mean,0.19518108424195849,0.19518108424195849,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B04_B02_7x7,climate_srad_annual_mean,0.19142142758189243,0.19142142758189243,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,B04_B02_7x7,climate_srad_annual_mean,0.19142033333104477,0.19142033333104477,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B06_B07_7x7,climate_q_annual_sum,0.17042771244305616,0.17042771244305616,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B06_B07_5x5,climate_q_annual_sum,0.17031228157313683,0.17031228157313683,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B06_B07_3x3,climate_q_annual_sum,0.16490516819282616,0.16490516819282616,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,ND_B06_B07_center,climate_q_annual_sum,0.13093070687707653,0.13093070687707653,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Al_OH_proxy_7x7,climate_srad_annual_mean,-0.05999787870787029,0.05999787870787029,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Al_OH_proxy_5x5,climate_srad_annual_mean,-0.0511645175666453,0.0511645175666453,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Al_OH_proxy_center,climate_srad_annual_mean,-0.04687359501198906,0.04687359501198906,1551,False
+4,state_fold_4,Colorado;Montana;Oregon;Utah,Al_OH_proxy_3x3,climate_srad_annual_mean,-0.040194278154839475,0.040194278154839475,1551,False

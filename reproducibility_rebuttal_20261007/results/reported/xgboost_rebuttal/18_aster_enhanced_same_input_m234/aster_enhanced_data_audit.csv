@@ -1,0 +1,2 @@
+rows,positive,negative,states,aster_features,climate_adjusters,aster_missing_fraction,climate_missing_fraction,folds
+1738,158,1580,11,132,24,0.0,0.0,5

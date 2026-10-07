@@ -1,0 +1,8 @@
+﻿negative_scheme,negative_source_scheme,Y_label,rows
+background_only,background_proxy,0,1580
+background_only,,1,158
+hard_only,hard_mrds,0,1580
+hard_only,,1,158
+mixed_50_50,background_proxy,0,790
+mixed_50_50,hard_mrds,0,790
+mixed_50_50,,1,158

@@ -1,0 +1,10 @@
+{
+  "experiment": "cluster_bootstrap_on_oof_predictions",
+  "state_predictions": "PACKAGE_ROOT/outputs/rebuttal_experiments/xgboost/01_fold_local_graphunion/oof_predictions.csv",
+  "spatial_predictions": "PACKAGE_ROOT/outputs/rebuttal_experiments/xgboost/02_spatial_block_validation/spatial_oof_predictions.csv",
+  "iterations": 2000,
+  "seed": 20260622,
+  "baseline": "M2_NoClimate_XGB",
+  "candidate": "M4_Spearman_XGB",
+  "scope": "uncertainty of fixed OOF predictions; models are not retrained per bootstrap sample"
+}

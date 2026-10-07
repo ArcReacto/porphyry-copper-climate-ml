@@ -1,0 +1,12 @@
+﻿region_id,n_samples,n_positive,n_negative,n_neutral,split_id
+Arizona,1218,58,580,580,state_fold_0
+Washington,777,37,370,370,state_fold_1
+Nevada,588,28,280,280,state_fold_2
+California,42,2,20,20,state_fold_3
+Idaho,84,4,40,40,state_fold_3
+New Mexico,147,7,70,70,state_fold_3
+Wyoming,105,5,50,50,state_fold_3
+Colorado,84,4,40,40,state_fold_4
+Montana,63,3,30,30,state_fold_4
+Oregon,105,5,50,50,state_fold_4
+Utah,105,5,50,50,state_fold_4

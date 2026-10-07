@@ -1,0 +1,1739 @@
+global_sample_id,sample_id,state,Y_label,fold,split_id,test_group,row_index
+NEG_KMN_AR_00001_Arizona_00000,NEG_KMN_AR_00001,Arizona,0,0,state_fold_0,Arizona,0
+NEG_KMN_AR_00002_Arizona_00001,NEG_KMN_AR_00002,Arizona,0,0,state_fold_0,Arizona,1
+NEG_KMN_AR_00003_Arizona_00002,NEG_KMN_AR_00003,Arizona,0,0,state_fold_0,Arizona,2
+NEG_KMN_AR_00004_Arizona_00003,NEG_KMN_AR_00004,Arizona,0,0,state_fold_0,Arizona,3
+NEG_KMN_AR_00005_Arizona_00004,NEG_KMN_AR_00005,Arizona,0,0,state_fold_0,Arizona,4
+NEG_KMN_AR_00006_Arizona_00005,NEG_KMN_AR_00006,Arizona,0,0,state_fold_0,Arizona,5
+NEG_KMN_AR_00007_Arizona_00006,NEG_KMN_AR_00007,Arizona,0,0,state_fold_0,Arizona,6
+NEG_KMN_AR_00008_Arizona_00007,NEG_KMN_AR_00008,Arizona,0,0,state_fold_0,Arizona,7
+NEG_KMN_AR_00009_Arizona_00008,NEG_KMN_AR_00009,Arizona,0,0,state_fold_0,Arizona,8
+NEG_KMN_AR_00010_Arizona_00009,NEG_KMN_AR_00010,Arizona,0,0,state_fold_0,Arizona,9
+NEG_KMN_AR_00011_Arizona_00010,NEG_KMN_AR_00011,Arizona,0,0,state_fold_0,Arizona,10
+NEG_KMN_AR_00012_Arizona_00011,NEG_KMN_AR_00012,Arizona,0,0,state_fold_0,Arizona,11
+NEG_KMN_AR_00013_Arizona_00012,NEG_KMN_AR_00013,Arizona,0,0,state_fold_0,Arizona,12
+NEG_KMN_AR_00014_Arizona_00013,NEG_KMN_AR_00014,Arizona,0,0,state_fold_0,Arizona,13
+NEG_KMN_AR_00015_Arizona_00014,NEG_KMN_AR_00015,Arizona,0,0,state_fold_0,Arizona,14
+NEG_KMN_AR_00016_Arizona_00015,NEG_KMN_AR_00016,Arizona,0,0,state_fold_0,Arizona,15
+NEG_KMN_AR_00017_Arizona_00016,NEG_KMN_AR_00017,Arizona,0,0,state_fold_0,Arizona,16
+NEG_KMN_AR_00018_Arizona_00017,NEG_KMN_AR_00018,Arizona,0,0,state_fold_0,Arizona,17
+NEG_KMN_AR_00019_Arizona_00018,NEG_KMN_AR_00019,Arizona,0,0,state_fold_0,Arizona,18
+NEG_KMN_AR_00020_Arizona_00019,NEG_KMN_AR_00020,Arizona,0,0,state_fold_0,Arizona,19
+NEG_KMN_AR_00021_Arizona_00020,NEG_KMN_AR_00021,Arizona,0,0,state_fold_0,Arizona,20
+NEG_KMN_AR_00022_Arizona_00021,NEG_KMN_AR_00022,Arizona,0,0,state_fold_0,Arizona,21
+NEG_KMN_AR_00023_Arizona_00022,NEG_KMN_AR_00023,Arizona,0,0,state_fold_0,Arizona,22
+NEG_KMN_AR_00024_Arizona_00023,NEG_KMN_AR_00024,Arizona,0,0,state_fold_0,Arizona,23
+NEG_KMN_AR_00025_Arizona_00024,NEG_KMN_AR_00025,Arizona,0,0,state_fold_0,Arizona,24
+NEG_KMN_AR_00026_Arizona_00025,NEG_KMN_AR_00026,Arizona,0,0,state_fold_0,Arizona,25
+NEG_KMN_AR_00027_Arizona_00026,NEG_KMN_AR_00027,Arizona,0,0,state_fold_0,Arizona,26
+NEG_KMN_AR_00028_Arizona_00027,NEG_KMN_AR_00028,Arizona,0,0,state_fold_0,Arizona,27
+NEG_KMN_AR_00029_Arizona_00028,NEG_KMN_AR_00029,Arizona,0,0,state_fold_0,Arizona,28
+NEG_KMN_AR_00030_Arizona_00029,NEG_KMN_AR_00030,Arizona,0,0,state_fold_0,Arizona,29
+NEG_KMN_AR_00031_Arizona_00030,NEG_KMN_AR_00031,Arizona,0,0,state_fold_0,Arizona,30
+NEG_KMN_AR_00032_Arizona_00031,NEG_KMN_AR_00032,Arizona,0,0,state_fold_0,Arizona,31
+NEG_KMN_AR_00033_Arizona_00032,NEG_KMN_AR_00033,Arizona,0,0,state_fold_0,Arizona,32
+NEG_KMN_AR_00034_Arizona_00033,NEG_KMN_AR_00034,Arizona,0,0,state_fold_0,Arizona,33
+NEG_KMN_AR_00035_Arizona_00034,NEG_KMN_AR_00035,Arizona,0,0,state_fold_0,Arizona,34
+NEG_KMN_AR_00036_Arizona_00035,NEG_KMN_AR_00036,Arizona,0,0,state_fold_0,Arizona,35
+NEG_KMN_AR_00037_Arizona_00036,NEG_KMN_AR_00037,Arizona,0,0,state_fold_0,Arizona,36
+NEG_KMN_AR_00038_Arizona_00037,NEG_KMN_AR_00038,Arizona,0,0,state_fold_0,Arizona,37
+NEG_KMN_AR_00039_Arizona_00038,NEG_KMN_AR_00039,Arizona,0,0,state_fold_0,Arizona,38
+NEG_KMN_AR_00040_Arizona_00039,NEG_KMN_AR_00040,Arizona,0,0,state_fold_0,Arizona,39
+NEG_KMN_AR_00041_Arizona_00040,NEG_KMN_AR_00041,Arizona,0,0,state_fold_0,Arizona,40
+NEG_KMN_AR_00042_Arizona_00041,NEG_KMN_AR_00042,Arizona,0,0,state_fold_0,Arizona,41
+NEG_KMN_AR_00043_Arizona_00042,NEG_KMN_AR_00043,Arizona,0,0,state_fold_0,Arizona,42
+NEG_KMN_AR_00044_Arizona_00043,NEG_KMN_AR_00044,Arizona,0,0,state_fold_0,Arizona,43
+NEG_KMN_AR_00045_Arizona_00044,NEG_KMN_AR_00045,Arizona,0,0,state_fold_0,Arizona,44
+NEG_KMN_AR_00046_Arizona_00045,NEG_KMN_AR_00046,Arizona,0,0,state_fold_0,Arizona,45
+NEG_KMN_AR_00047_Arizona_00046,NEG_KMN_AR_00047,Arizona,0,0,state_fold_0,Arizona,46
+NEG_KMN_AR_00048_Arizona_00047,NEG_KMN_AR_00048,Arizona,0,0,state_fold_0,Arizona,47
+NEG_KMN_AR_00049_Arizona_00048,NEG_KMN_AR_00049,Arizona,0,0,state_fold_0,Arizona,48
+NEG_KMN_AR_00050_Arizona_00049,NEG_KMN_AR_00050,Arizona,0,0,state_fold_0,Arizona,49
+NEG_KMN_AR_00051_Arizona_00050,NEG_KMN_AR_00051,Arizona,0,0,state_fold_0,Arizona,50
+NEG_KMN_AR_00052_Arizona_00051,NEG_KMN_AR_00052,Arizona,0,0,state_fold_0,Arizona,51
+NEG_KMN_AR_00053_Arizona_00052,NEG_KMN_AR_00053,Arizona,0,0,state_fold_0,Arizona,52
+NEG_KMN_AR_00054_Arizona_00053,NEG_KMN_AR_00054,Arizona,0,0,state_fold_0,Arizona,53
+NEG_KMN_AR_00055_Arizona_00054,NEG_KMN_AR_00055,Arizona,0,0,state_fold_0,Arizona,54
+NEG_KMN_AR_00056_Arizona_00055,NEG_KMN_AR_00056,Arizona,0,0,state_fold_0,Arizona,55
+NEG_KMN_AR_00057_Arizona_00056,NEG_KMN_AR_00057,Arizona,0,0,state_fold_0,Arizona,56
+NEG_KMN_AR_00058_Arizona_00057,NEG_KMN_AR_00058,Arizona,0,0,state_fold_0,Arizona,57
+NEG_KMN_AR_00059_Arizona_00058,NEG_KMN_AR_00059,Arizona,0,0,state_fold_0,Arizona,58
+NEG_KMN_AR_00060_Arizona_00059,NEG_KMN_AR_00060,Arizona,0,0,state_fold_0,Arizona,59
+NEG_KMN_AR_00061_Arizona_00060,NEG_KMN_AR_00061,Arizona,0,0,state_fold_0,Arizona,60
+NEG_KMN_AR_00062_Arizona_00061,NEG_KMN_AR_00062,Arizona,0,0,state_fold_0,Arizona,61
+NEG_KMN_AR_00063_Arizona_00062,NEG_KMN_AR_00063,Arizona,0,0,state_fold_0,Arizona,62
+NEG_KMN_AR_00064_Arizona_00063,NEG_KMN_AR_00064,Arizona,0,0,state_fold_0,Arizona,63
+NEG_KMN_AR_00065_Arizona_00064,NEG_KMN_AR_00065,Arizona,0,0,state_fold_0,Arizona,64
+NEG_KMN_AR_00066_Arizona_00065,NEG_KMN_AR_00066,Arizona,0,0,state_fold_0,Arizona,65
+NEG_KMN_AR_00067_Arizona_00066,NEG_KMN_AR_00067,Arizona,0,0,state_fold_0,Arizona,66
+NEG_KMN_AR_00068_Arizona_00067,NEG_KMN_AR_00068,Arizona,0,0,state_fold_0,Arizona,67
+NEG_KMN_AR_00069_Arizona_00068,NEG_KMN_AR_00069,Arizona,0,0,state_fold_0,Arizona,68
+NEG_KMN_AR_00070_Arizona_00069,NEG_KMN_AR_00070,Arizona,0,0,state_fold_0,Arizona,69
+NEG_KMN_AR_00071_Arizona_00070,NEG_KMN_AR_00071,Arizona,0,0,state_fold_0,Arizona,70
+NEG_KMN_AR_00072_Arizona_00071,NEG_KMN_AR_00072,Arizona,0,0,state_fold_0,Arizona,71
+NEG_KMN_AR_00073_Arizona_00072,NEG_KMN_AR_00073,Arizona,0,0,state_fold_0,Arizona,72
+NEG_KMN_AR_00074_Arizona_00073,NEG_KMN_AR_00074,Arizona,0,0,state_fold_0,Arizona,73
+NEG_KMN_AR_00075_Arizona_00074,NEG_KMN_AR_00075,Arizona,0,0,state_fold_0,Arizona,74
+NEG_KMN_AR_00076_Arizona_00075,NEG_KMN_AR_00076,Arizona,0,0,state_fold_0,Arizona,75
+NEG_KMN_AR_00077_Arizona_00076,NEG_KMN_AR_00077,Arizona,0,0,state_fold_0,Arizona,76
+NEG_KMN_AR_00078_Arizona_00077,NEG_KMN_AR_00078,Arizona,0,0,state_fold_0,Arizona,77
+NEG_KMN_AR_00079_Arizona_00078,NEG_KMN_AR_00079,Arizona,0,0,state_fold_0,Arizona,78
+NEG_KMN_AR_00080_Arizona_00079,NEG_KMN_AR_00080,Arizona,0,0,state_fold_0,Arizona,79
+NEG_KMN_AR_00081_Arizona_00080,NEG_KMN_AR_00081,Arizona,0,0,state_fold_0,Arizona,80
+NEG_KMN_AR_00082_Arizona_00081,NEG_KMN_AR_00082,Arizona,0,0,state_fold_0,Arizona,81
+NEG_KMN_AR_00083_Arizona_00082,NEG_KMN_AR_00083,Arizona,0,0,state_fold_0,Arizona,82
+NEG_KMN_AR_00084_Arizona_00083,NEG_KMN_AR_00084,Arizona,0,0,state_fold_0,Arizona,83
+NEG_KMN_AR_00085_Arizona_00084,NEG_KMN_AR_00085,Arizona,0,0,state_fold_0,Arizona,84
+NEG_KMN_AR_00086_Arizona_00085,NEG_KMN_AR_00086,Arizona,0,0,state_fold_0,Arizona,85
+NEG_KMN_AR_00087_Arizona_00086,NEG_KMN_AR_00087,Arizona,0,0,state_fold_0,Arizona,86
+NEG_KMN_AR_00088_Arizona_00087,NEG_KMN_AR_00088,Arizona,0,0,state_fold_0,Arizona,87
+NEG_KMN_AR_00089_Arizona_00088,NEG_KMN_AR_00089,Arizona,0,0,state_fold_0,Arizona,88
+NEG_KMN_AR_00090_Arizona_00089,NEG_KMN_AR_00090,Arizona,0,0,state_fold_0,Arizona,89
+NEG_KMN_AR_00091_Arizona_00090,NEG_KMN_AR_00091,Arizona,0,0,state_fold_0,Arizona,90
+NEG_KMN_AR_00092_Arizona_00091,NEG_KMN_AR_00092,Arizona,0,0,state_fold_0,Arizona,91
+NEG_KMN_AR_00093_Arizona_00092,NEG_KMN_AR_00093,Arizona,0,0,state_fold_0,Arizona,92
+NEG_KMN_AR_00094_Arizona_00093,NEG_KMN_AR_00094,Arizona,0,0,state_fold_0,Arizona,93
+NEG_KMN_AR_00095_Arizona_00094,NEG_KMN_AR_00095,Arizona,0,0,state_fold_0,Arizona,94
+NEG_KMN_AR_00096_Arizona_00095,NEG_KMN_AR_00096,Arizona,0,0,state_fold_0,Arizona,95
+NEG_KMN_AR_00097_Arizona_00096,NEG_KMN_AR_00097,Arizona,0,0,state_fold_0,Arizona,96
+NEG_KMN_AR_00098_Arizona_00097,NEG_KMN_AR_00098,Arizona,0,0,state_fold_0,Arizona,97
+NEG_KMN_AR_00099_Arizona_00098,NEG_KMN_AR_00099,Arizona,0,0,state_fold_0,Arizona,98
+NEG_KMN_AR_00100_Arizona_00099,NEG_KMN_AR_00100,Arizona,0,0,state_fold_0,Arizona,99
+NEG_KMN_AR_00101_Arizona_00100,NEG_KMN_AR_00101,Arizona,0,0,state_fold_0,Arizona,100
+NEG_KMN_AR_00102_Arizona_00101,NEG_KMN_AR_00102,Arizona,0,0,state_fold_0,Arizona,101
+NEG_KMN_AR_00103_Arizona_00102,NEG_KMN_AR_00103,Arizona,0,0,state_fold_0,Arizona,102
+NEG_KMN_AR_00104_Arizona_00103,NEG_KMN_AR_00104,Arizona,0,0,state_fold_0,Arizona,103
+NEG_KMN_AR_00105_Arizona_00104,NEG_KMN_AR_00105,Arizona,0,0,state_fold_0,Arizona,104
+NEG_KMN_AR_00106_Arizona_00105,NEG_KMN_AR_00106,Arizona,0,0,state_fold_0,Arizona,105
+NEG_KMN_AR_00107_Arizona_00106,NEG_KMN_AR_00107,Arizona,0,0,state_fold_0,Arizona,106
+NEG_KMN_AR_00108_Arizona_00107,NEG_KMN_AR_00108,Arizona,0,0,state_fold_0,Arizona,107
+NEG_KMN_AR_00109_Arizona_00108,NEG_KMN_AR_00109,Arizona,0,0,state_fold_0,Arizona,108
+NEG_KMN_AR_00110_Arizona_00109,NEG_KMN_AR_00110,Arizona,0,0,state_fold_0,Arizona,109
+NEG_KMN_AR_00111_Arizona_00110,NEG_KMN_AR_00111,Arizona,0,0,state_fold_0,Arizona,110
+NEG_KMN_AR_00112_Arizona_00111,NEG_KMN_AR_00112,Arizona,0,0,state_fold_0,Arizona,111
+NEG_KMN_AR_00113_Arizona_00112,NEG_KMN_AR_00113,Arizona,0,0,state_fold_0,Arizona,112
+NEG_KMN_AR_00114_Arizona_00113,NEG_KMN_AR_00114,Arizona,0,0,state_fold_0,Arizona,113
+NEG_KMN_AR_00115_Arizona_00114,NEG_KMN_AR_00115,Arizona,0,0,state_fold_0,Arizona,114
+NEG_KMN_AR_00116_Arizona_00115,NEG_KMN_AR_00116,Arizona,0,0,state_fold_0,Arizona,115
+NEG_KMN_AR_00117_Arizona_00116,NEG_KMN_AR_00117,Arizona,0,0,state_fold_0,Arizona,116
+NEG_KMN_AR_00118_Arizona_00117,NEG_KMN_AR_00118,Arizona,0,0,state_fold_0,Arizona,117
+NEG_KMN_AR_00119_Arizona_00118,NEG_KMN_AR_00119,Arizona,0,0,state_fold_0,Arizona,118
+NEG_KMN_AR_00120_Arizona_00119,NEG_KMN_AR_00120,Arizona,0,0,state_fold_0,Arizona,119
+NEG_KMN_AR_00121_Arizona_00120,NEG_KMN_AR_00121,Arizona,0,0,state_fold_0,Arizona,120
+NEG_KMN_AR_00122_Arizona_00121,NEG_KMN_AR_00122,Arizona,0,0,state_fold_0,Arizona,121
+NEG_KMN_AR_00123_Arizona_00122,NEG_KMN_AR_00123,Arizona,0,0,state_fold_0,Arizona,122
+NEG_KMN_AR_00124_Arizona_00123,NEG_KMN_AR_00124,Arizona,0,0,state_fold_0,Arizona,123
+NEG_KMN_AR_00125_Arizona_00124,NEG_KMN_AR_00125,Arizona,0,0,state_fold_0,Arizona,124
+NEG_KMN_AR_00126_Arizona_00125,NEG_KMN_AR_00126,Arizona,0,0,state_fold_0,Arizona,125
+NEG_KMN_AR_00127_Arizona_00126,NEG_KMN_AR_00127,Arizona,0,0,state_fold_0,Arizona,126
+NEG_KMN_AR_00128_Arizona_00127,NEG_KMN_AR_00128,Arizona,0,0,state_fold_0,Arizona,127
+NEG_KMN_AR_00129_Arizona_00128,NEG_KMN_AR_00129,Arizona,0,0,state_fold_0,Arizona,128
+NEG_KMN_AR_00130_Arizona_00129,NEG_KMN_AR_00130,Arizona,0,0,state_fold_0,Arizona,129
+NEG_KMN_AR_00131_Arizona_00130,NEG_KMN_AR_00131,Arizona,0,0,state_fold_0,Arizona,130
+NEG_KMN_AR_00132_Arizona_00131,NEG_KMN_AR_00132,Arizona,0,0,state_fold_0,Arizona,131
+NEG_KMN_AR_00133_Arizona_00132,NEG_KMN_AR_00133,Arizona,0,0,state_fold_0,Arizona,132
+NEG_KMN_AR_00134_Arizona_00133,NEG_KMN_AR_00134,Arizona,0,0,state_fold_0,Arizona,133
+NEG_KMN_AR_00135_Arizona_00134,NEG_KMN_AR_00135,Arizona,0,0,state_fold_0,Arizona,134
+NEG_KMN_AR_00136_Arizona_00135,NEG_KMN_AR_00136,Arizona,0,0,state_fold_0,Arizona,135
+NEG_KMN_AR_00137_Arizona_00136,NEG_KMN_AR_00137,Arizona,0,0,state_fold_0,Arizona,136
+NEG_KMN_AR_00138_Arizona_00137,NEG_KMN_AR_00138,Arizona,0,0,state_fold_0,Arizona,137
+NEG_KMN_AR_00139_Arizona_00138,NEG_KMN_AR_00139,Arizona,0,0,state_fold_0,Arizona,138
+NEG_KMN_AR_00140_Arizona_00139,NEG_KMN_AR_00140,Arizona,0,0,state_fold_0,Arizona,139
+NEG_KMN_AR_00141_Arizona_00140,NEG_KMN_AR_00141,Arizona,0,0,state_fold_0,Arizona,140
+NEG_KMN_AR_00142_Arizona_00141,NEG_KMN_AR_00142,Arizona,0,0,state_fold_0,Arizona,141
+NEG_KMN_AR_00143_Arizona_00142,NEG_KMN_AR_00143,Arizona,0,0,state_fold_0,Arizona,142
+NEG_KMN_AR_00144_Arizona_00143,NEG_KMN_AR_00144,Arizona,0,0,state_fold_0,Arizona,143
+NEG_KMN_AR_00145_Arizona_00144,NEG_KMN_AR_00145,Arizona,0,0,state_fold_0,Arizona,144
+NEG_KMN_AR_00146_Arizona_00145,NEG_KMN_AR_00146,Arizona,0,0,state_fold_0,Arizona,145
+NEG_KMN_AR_00147_Arizona_00146,NEG_KMN_AR_00147,Arizona,0,0,state_fold_0,Arizona,146
+NEG_KMN_AR_00148_Arizona_00147,NEG_KMN_AR_00148,Arizona,0,0,state_fold_0,Arizona,147
+NEG_KMN_AR_00149_Arizona_00148,NEG_KMN_AR_00149,Arizona,0,0,state_fold_0,Arizona,148
+NEG_KMN_AR_00150_Arizona_00149,NEG_KMN_AR_00150,Arizona,0,0,state_fold_0,Arizona,149
+NEG_KMN_AR_00151_Arizona_00150,NEG_KMN_AR_00151,Arizona,0,0,state_fold_0,Arizona,150
+NEG_KMN_AR_00152_Arizona_00151,NEG_KMN_AR_00152,Arizona,0,0,state_fold_0,Arizona,151
+NEG_KMN_AR_00153_Arizona_00152,NEG_KMN_AR_00153,Arizona,0,0,state_fold_0,Arizona,152
+NEG_KMN_AR_00154_Arizona_00153,NEG_KMN_AR_00154,Arizona,0,0,state_fold_0,Arizona,153
+NEG_KMN_AR_00155_Arizona_00154,NEG_KMN_AR_00155,Arizona,0,0,state_fold_0,Arizona,154
+NEG_KMN_AR_00156_Arizona_00155,NEG_KMN_AR_00156,Arizona,0,0,state_fold_0,Arizona,155
+NEG_KMN_AR_00157_Arizona_00156,NEG_KMN_AR_00157,Arizona,0,0,state_fold_0,Arizona,156
+NEG_KMN_AR_00158_Arizona_00157,NEG_KMN_AR_00158,Arizona,0,0,state_fold_0,Arizona,157
+NEG_KMN_AR_00159_Arizona_00158,NEG_KMN_AR_00159,Arizona,0,0,state_fold_0,Arizona,158
+NEG_KMN_AR_00160_Arizona_00159,NEG_KMN_AR_00160,Arizona,0,0,state_fold_0,Arizona,159
+NEG_KMN_AR_00161_Arizona_00160,NEG_KMN_AR_00161,Arizona,0,0,state_fold_0,Arizona,160
+NEG_KMN_AR_00162_Arizona_00161,NEG_KMN_AR_00162,Arizona,0,0,state_fold_0,Arizona,161
+NEG_KMN_AR_00163_Arizona_00162,NEG_KMN_AR_00163,Arizona,0,0,state_fold_0,Arizona,162
+NEG_KMN_AR_00164_Arizona_00163,NEG_KMN_AR_00164,Arizona,0,0,state_fold_0,Arizona,163
+NEG_KMN_AR_00165_Arizona_00164,NEG_KMN_AR_00165,Arizona,0,0,state_fold_0,Arizona,164
+NEG_KMN_AR_00166_Arizona_00165,NEG_KMN_AR_00166,Arizona,0,0,state_fold_0,Arizona,165
+NEG_KMN_AR_00167_Arizona_00166,NEG_KMN_AR_00167,Arizona,0,0,state_fold_0,Arizona,166
+NEG_KMN_AR_00168_Arizona_00167,NEG_KMN_AR_00168,Arizona,0,0,state_fold_0,Arizona,167
+NEG_KMN_AR_00169_Arizona_00168,NEG_KMN_AR_00169,Arizona,0,0,state_fold_0,Arizona,168
+NEG_KMN_AR_00170_Arizona_00169,NEG_KMN_AR_00170,Arizona,0,0,state_fold_0,Arizona,169
+NEG_KMN_AR_00171_Arizona_00170,NEG_KMN_AR_00171,Arizona,0,0,state_fold_0,Arizona,170
+NEG_KMN_AR_00172_Arizona_00171,NEG_KMN_AR_00172,Arizona,0,0,state_fold_0,Arizona,171
+NEG_KMN_AR_00173_Arizona_00172,NEG_KMN_AR_00173,Arizona,0,0,state_fold_0,Arizona,172
+NEG_KMN_AR_00174_Arizona_00173,NEG_KMN_AR_00174,Arizona,0,0,state_fold_0,Arizona,173
+NEG_KMN_AR_00175_Arizona_00174,NEG_KMN_AR_00175,Arizona,0,0,state_fold_0,Arizona,174
+NEG_KMN_AR_00176_Arizona_00175,NEG_KMN_AR_00176,Arizona,0,0,state_fold_0,Arizona,175
+NEG_KMN_AR_00177_Arizona_00176,NEG_KMN_AR_00177,Arizona,0,0,state_fold_0,Arizona,176
+NEG_KMN_AR_00178_Arizona_00177,NEG_KMN_AR_00178,Arizona,0,0,state_fold_0,Arizona,177
+NEG_KMN_AR_00179_Arizona_00178,NEG_KMN_AR_00179,Arizona,0,0,state_fold_0,Arizona,178
+NEG_KMN_AR_00180_Arizona_00179,NEG_KMN_AR_00180,Arizona,0,0,state_fold_0,Arizona,179
+NEG_KMN_AR_00181_Arizona_00180,NEG_KMN_AR_00181,Arizona,0,0,state_fold_0,Arizona,180
+NEG_KMN_AR_00182_Arizona_00181,NEG_KMN_AR_00182,Arizona,0,0,state_fold_0,Arizona,181
+NEG_KMN_AR_00183_Arizona_00182,NEG_KMN_AR_00183,Arizona,0,0,state_fold_0,Arizona,182
+NEG_KMN_AR_00184_Arizona_00183,NEG_KMN_AR_00184,Arizona,0,0,state_fold_0,Arizona,183
+NEG_KMN_AR_00185_Arizona_00184,NEG_KMN_AR_00185,Arizona,0,0,state_fold_0,Arizona,184
+NEG_KMN_AR_00186_Arizona_00185,NEG_KMN_AR_00186,Arizona,0,0,state_fold_0,Arizona,185
+NEG_KMN_AR_00187_Arizona_00186,NEG_KMN_AR_00187,Arizona,0,0,state_fold_0,Arizona,186
+NEG_KMN_AR_00188_Arizona_00187,NEG_KMN_AR_00188,Arizona,0,0,state_fold_0,Arizona,187
+NEG_KMN_AR_00189_Arizona_00188,NEG_KMN_AR_00189,Arizona,0,0,state_fold_0,Arizona,188
+NEG_KMN_AR_00190_Arizona_00189,NEG_KMN_AR_00190,Arizona,0,0,state_fold_0,Arizona,189
+NEG_KMN_AR_00191_Arizona_00190,NEG_KMN_AR_00191,Arizona,0,0,state_fold_0,Arizona,190
+NEG_KMN_AR_00192_Arizona_00191,NEG_KMN_AR_00192,Arizona,0,0,state_fold_0,Arizona,191
+NEG_KMN_AR_00193_Arizona_00192,NEG_KMN_AR_00193,Arizona,0,0,state_fold_0,Arizona,192
+NEG_KMN_AR_00194_Arizona_00193,NEG_KMN_AR_00194,Arizona,0,0,state_fold_0,Arizona,193
+NEG_KMN_AR_00195_Arizona_00194,NEG_KMN_AR_00195,Arizona,0,0,state_fold_0,Arizona,194
+NEG_KMN_AR_00196_Arizona_00195,NEG_KMN_AR_00196,Arizona,0,0,state_fold_0,Arizona,195
+NEG_KMN_AR_00197_Arizona_00196,NEG_KMN_AR_00197,Arizona,0,0,state_fold_0,Arizona,196
+NEG_KMN_AR_00198_Arizona_00197,NEG_KMN_AR_00198,Arizona,0,0,state_fold_0,Arizona,197
+NEG_KMN_AR_00199_Arizona_00198,NEG_KMN_AR_00199,Arizona,0,0,state_fold_0,Arizona,198
+NEG_KMN_AR_00200_Arizona_00199,NEG_KMN_AR_00200,Arizona,0,0,state_fold_0,Arizona,199
+NEG_KMN_AR_00201_Arizona_00200,NEG_KMN_AR_00201,Arizona,0,0,state_fold_0,Arizona,200
+NEG_KMN_AR_00202_Arizona_00201,NEG_KMN_AR_00202,Arizona,0,0,state_fold_0,Arizona,201
+NEG_KMN_AR_00203_Arizona_00202,NEG_KMN_AR_00203,Arizona,0,0,state_fold_0,Arizona,202
+NEG_KMN_AR_00204_Arizona_00203,NEG_KMN_AR_00204,Arizona,0,0,state_fold_0,Arizona,203
+NEG_KMN_AR_00205_Arizona_00204,NEG_KMN_AR_00205,Arizona,0,0,state_fold_0,Arizona,204
+NEG_KMN_AR_00206_Arizona_00205,NEG_KMN_AR_00206,Arizona,0,0,state_fold_0,Arizona,205
+NEG_KMN_AR_00207_Arizona_00206,NEG_KMN_AR_00207,Arizona,0,0,state_fold_0,Arizona,206
+NEG_KMN_AR_00208_Arizona_00207,NEG_KMN_AR_00208,Arizona,0,0,state_fold_0,Arizona,207
+NEG_KMN_AR_00209_Arizona_00208,NEG_KMN_AR_00209,Arizona,0,0,state_fold_0,Arizona,208
+NEG_KMN_AR_00210_Arizona_00209,NEG_KMN_AR_00210,Arizona,0,0,state_fold_0,Arizona,209
+NEG_KMN_AR_00211_Arizona_00210,NEG_KMN_AR_00211,Arizona,0,0,state_fold_0,Arizona,210
+NEG_KMN_AR_00212_Arizona_00211,NEG_KMN_AR_00212,Arizona,0,0,state_fold_0,Arizona,211
+NEG_KMN_AR_00213_Arizona_00212,NEG_KMN_AR_00213,Arizona,0,0,state_fold_0,Arizona,212
+NEG_KMN_AR_00214_Arizona_00213,NEG_KMN_AR_00214,Arizona,0,0,state_fold_0,Arizona,213
+NEG_KMN_AR_00215_Arizona_00214,NEG_KMN_AR_00215,Arizona,0,0,state_fold_0,Arizona,214
+NEG_KMN_AR_00216_Arizona_00215,NEG_KMN_AR_00216,Arizona,0,0,state_fold_0,Arizona,215
+NEG_KMN_AR_00217_Arizona_00216,NEG_KMN_AR_00217,Arizona,0,0,state_fold_0,Arizona,216
+NEG_KMN_AR_00218_Arizona_00217,NEG_KMN_AR_00218,Arizona,0,0,state_fold_0,Arizona,217
+NEG_KMN_AR_00219_Arizona_00218,NEG_KMN_AR_00219,Arizona,0,0,state_fold_0,Arizona,218
+NEG_KMN_AR_00220_Arizona_00219,NEG_KMN_AR_00220,Arizona,0,0,state_fold_0,Arizona,219
+NEG_KMN_AR_00221_Arizona_00220,NEG_KMN_AR_00221,Arizona,0,0,state_fold_0,Arizona,220
+NEG_KMN_AR_00222_Arizona_00221,NEG_KMN_AR_00222,Arizona,0,0,state_fold_0,Arizona,221
+NEG_KMN_AR_00223_Arizona_00222,NEG_KMN_AR_00223,Arizona,0,0,state_fold_0,Arizona,222
+NEG_KMN_AR_00224_Arizona_00223,NEG_KMN_AR_00224,Arizona,0,0,state_fold_0,Arizona,223
+NEG_KMN_AR_00225_Arizona_00224,NEG_KMN_AR_00225,Arizona,0,0,state_fold_0,Arizona,224
+NEG_KMN_AR_00226_Arizona_00225,NEG_KMN_AR_00226,Arizona,0,0,state_fold_0,Arizona,225
+NEG_KMN_AR_00227_Arizona_00226,NEG_KMN_AR_00227,Arizona,0,0,state_fold_0,Arizona,226
+NEG_KMN_AR_00228_Arizona_00227,NEG_KMN_AR_00228,Arizona,0,0,state_fold_0,Arizona,227
+NEG_KMN_AR_00229_Arizona_00228,NEG_KMN_AR_00229,Arizona,0,0,state_fold_0,Arizona,228
+NEG_KMN_AR_00230_Arizona_00229,NEG_KMN_AR_00230,Arizona,0,0,state_fold_0,Arizona,229
+NEG_KMN_AR_00231_Arizona_00230,NEG_KMN_AR_00231,Arizona,0,0,state_fold_0,Arizona,230
+NEG_KMN_AR_00232_Arizona_00231,NEG_KMN_AR_00232,Arizona,0,0,state_fold_0,Arizona,231
+NEG_KMN_AR_00233_Arizona_00232,NEG_KMN_AR_00233,Arizona,0,0,state_fold_0,Arizona,232
+NEG_KMN_AR_00234_Arizona_00233,NEG_KMN_AR_00234,Arizona,0,0,state_fold_0,Arizona,233
+NEG_KMN_AR_00235_Arizona_00234,NEG_KMN_AR_00235,Arizona,0,0,state_fold_0,Arizona,234
+NEG_KMN_AR_00236_Arizona_00235,NEG_KMN_AR_00236,Arizona,0,0,state_fold_0,Arizona,235
+NEG_KMN_AR_00237_Arizona_00236,NEG_KMN_AR_00237,Arizona,0,0,state_fold_0,Arizona,236
+NEG_KMN_AR_00238_Arizona_00237,NEG_KMN_AR_00238,Arizona,0,0,state_fold_0,Arizona,237
+NEG_KMN_AR_00239_Arizona_00238,NEG_KMN_AR_00239,Arizona,0,0,state_fold_0,Arizona,238
+NEG_KMN_AR_00240_Arizona_00239,NEG_KMN_AR_00240,Arizona,0,0,state_fold_0,Arizona,239
+NEG_KMN_AR_00241_Arizona_00240,NEG_KMN_AR_00241,Arizona,0,0,state_fold_0,Arizona,240
+NEG_KMN_AR_00242_Arizona_00241,NEG_KMN_AR_00242,Arizona,0,0,state_fold_0,Arizona,241
+NEG_KMN_AR_00243_Arizona_00242,NEG_KMN_AR_00243,Arizona,0,0,state_fold_0,Arizona,242
+NEG_KMN_AR_00244_Arizona_00243,NEG_KMN_AR_00244,Arizona,0,0,state_fold_0,Arizona,243
+NEG_KMN_AR_00245_Arizona_00244,NEG_KMN_AR_00245,Arizona,0,0,state_fold_0,Arizona,244
+NEG_KMN_AR_00246_Arizona_00245,NEG_KMN_AR_00246,Arizona,0,0,state_fold_0,Arizona,245
+NEG_KMN_AR_00247_Arizona_00246,NEG_KMN_AR_00247,Arizona,0,0,state_fold_0,Arizona,246
+NEG_KMN_AR_00248_Arizona_00247,NEG_KMN_AR_00248,Arizona,0,0,state_fold_0,Arizona,247
+NEG_KMN_AR_00249_Arizona_00248,NEG_KMN_AR_00249,Arizona,0,0,state_fold_0,Arizona,248
+NEG_KMN_AR_00250_Arizona_00249,NEG_KMN_AR_00250,Arizona,0,0,state_fold_0,Arizona,249
+NEG_KMN_AR_00251_Arizona_00250,NEG_KMN_AR_00251,Arizona,0,0,state_fold_0,Arizona,250
+NEG_KMN_AR_00252_Arizona_00251,NEG_KMN_AR_00252,Arizona,0,0,state_fold_0,Arizona,251
+NEG_KMN_AR_00253_Arizona_00252,NEG_KMN_AR_00253,Arizona,0,0,state_fold_0,Arizona,252
+NEG_KMN_AR_00254_Arizona_00253,NEG_KMN_AR_00254,Arizona,0,0,state_fold_0,Arizona,253
+NEG_KMN_AR_00255_Arizona_00254,NEG_KMN_AR_00255,Arizona,0,0,state_fold_0,Arizona,254
+NEG_KMN_AR_00256_Arizona_00255,NEG_KMN_AR_00256,Arizona,0,0,state_fold_0,Arizona,255
+NEG_KMN_AR_00257_Arizona_00256,NEG_KMN_AR_00257,Arizona,0,0,state_fold_0,Arizona,256
+NEG_KMN_AR_00258_Arizona_00257,NEG_KMN_AR_00258,Arizona,0,0,state_fold_0,Arizona,257
+NEG_KMN_AR_00259_Arizona_00258,NEG_KMN_AR_00259,Arizona,0,0,state_fold_0,Arizona,258
+NEG_KMN_AR_00260_Arizona_00259,NEG_KMN_AR_00260,Arizona,0,0,state_fold_0,Arizona,259
+NEG_KMN_AR_00261_Arizona_00260,NEG_KMN_AR_00261,Arizona,0,0,state_fold_0,Arizona,260
+NEG_KMN_AR_00262_Arizona_00261,NEG_KMN_AR_00262,Arizona,0,0,state_fold_0,Arizona,261
+NEG_KMN_AR_00263_Arizona_00262,NEG_KMN_AR_00263,Arizona,0,0,state_fold_0,Arizona,262
+NEG_KMN_AR_00264_Arizona_00263,NEG_KMN_AR_00264,Arizona,0,0,state_fold_0,Arizona,263
+NEG_KMN_AR_00265_Arizona_00264,NEG_KMN_AR_00265,Arizona,0,0,state_fold_0,Arizona,264
+NEG_KMN_AR_00266_Arizona_00265,NEG_KMN_AR_00266,Arizona,0,0,state_fold_0,Arizona,265
+NEG_KMN_AR_00267_Arizona_00266,NEG_KMN_AR_00267,Arizona,0,0,state_fold_0,Arizona,266
+NEG_KMN_AR_00268_Arizona_00267,NEG_KMN_AR_00268,Arizona,0,0,state_fold_0,Arizona,267
+NEG_KMN_AR_00269_Arizona_00268,NEG_KMN_AR_00269,Arizona,0,0,state_fold_0,Arizona,268
+NEG_KMN_AR_00270_Arizona_00269,NEG_KMN_AR_00270,Arizona,0,0,state_fold_0,Arizona,269
+NEG_KMN_AR_00271_Arizona_00270,NEG_KMN_AR_00271,Arizona,0,0,state_fold_0,Arizona,270
+NEG_KMN_AR_00272_Arizona_00271,NEG_KMN_AR_00272,Arizona,0,0,state_fold_0,Arizona,271
+NEG_KMN_AR_00273_Arizona_00272,NEG_KMN_AR_00273,Arizona,0,0,state_fold_0,Arizona,272
+NEG_KMN_AR_00274_Arizona_00273,NEG_KMN_AR_00274,Arizona,0,0,state_fold_0,Arizona,273
+NEG_KMN_AR_00275_Arizona_00274,NEG_KMN_AR_00275,Arizona,0,0,state_fold_0,Arizona,274
+NEG_KMN_AR_00276_Arizona_00275,NEG_KMN_AR_00276,Arizona,0,0,state_fold_0,Arizona,275
+NEG_KMN_AR_00277_Arizona_00276,NEG_KMN_AR_00277,Arizona,0,0,state_fold_0,Arizona,276
+NEG_KMN_AR_00278_Arizona_00277,NEG_KMN_AR_00278,Arizona,0,0,state_fold_0,Arizona,277
+NEG_KMN_AR_00279_Arizona_00278,NEG_KMN_AR_00279,Arizona,0,0,state_fold_0,Arizona,278
+NEG_KMN_AR_00280_Arizona_00279,NEG_KMN_AR_00280,Arizona,0,0,state_fold_0,Arizona,279
+NEG_KMN_AR_00281_Arizona_00280,NEG_KMN_AR_00281,Arizona,0,0,state_fold_0,Arizona,280
+NEG_KMN_AR_00282_Arizona_00281,NEG_KMN_AR_00282,Arizona,0,0,state_fold_0,Arizona,281
+NEG_KMN_AR_00283_Arizona_00282,NEG_KMN_AR_00283,Arizona,0,0,state_fold_0,Arizona,282
+NEG_KMN_AR_00284_Arizona_00283,NEG_KMN_AR_00284,Arizona,0,0,state_fold_0,Arizona,283
+NEG_KMN_AR_00285_Arizona_00284,NEG_KMN_AR_00285,Arizona,0,0,state_fold_0,Arizona,284
+NEG_KMN_AR_00286_Arizona_00285,NEG_KMN_AR_00286,Arizona,0,0,state_fold_0,Arizona,285
+NEG_KMN_AR_00287_Arizona_00286,NEG_KMN_AR_00287,Arizona,0,0,state_fold_0,Arizona,286
+NEG_KMN_AR_00288_Arizona_00287,NEG_KMN_AR_00288,Arizona,0,0,state_fold_0,Arizona,287
+NEG_KMN_AR_00289_Arizona_00288,NEG_KMN_AR_00289,Arizona,0,0,state_fold_0,Arizona,288
+NEG_KMN_AR_00290_Arizona_00289,NEG_KMN_AR_00290,Arizona,0,0,state_fold_0,Arizona,289
+NEG_KMN_AR_00291_Arizona_00290,NEG_KMN_AR_00291,Arizona,0,0,state_fold_0,Arizona,290
+NEG_KMN_AR_00292_Arizona_00291,NEG_KMN_AR_00292,Arizona,0,0,state_fold_0,Arizona,291
+NEG_KMN_AR_00293_Arizona_00292,NEG_KMN_AR_00293,Arizona,0,0,state_fold_0,Arizona,292
+NEG_KMN_AR_00294_Arizona_00293,NEG_KMN_AR_00294,Arizona,0,0,state_fold_0,Arizona,293
+NEG_KMN_AR_00295_Arizona_00294,NEG_KMN_AR_00295,Arizona,0,0,state_fold_0,Arizona,294
+NEG_KMN_AR_00296_Arizona_00295,NEG_KMN_AR_00296,Arizona,0,0,state_fold_0,Arizona,295
+NEG_KMN_AR_00297_Arizona_00296,NEG_KMN_AR_00297,Arizona,0,0,state_fold_0,Arizona,296
+NEG_KMN_AR_00298_Arizona_00297,NEG_KMN_AR_00298,Arizona,0,0,state_fold_0,Arizona,297
+NEG_KMN_AR_00299_Arizona_00298,NEG_KMN_AR_00299,Arizona,0,0,state_fold_0,Arizona,298
+NEG_KMN_AR_00300_Arizona_00299,NEG_KMN_AR_00300,Arizona,0,0,state_fold_0,Arizona,299
+NEG_KMN_AR_00301_Arizona_00300,NEG_KMN_AR_00301,Arizona,0,0,state_fold_0,Arizona,300
+NEG_KMN_AR_00302_Arizona_00301,NEG_KMN_AR_00302,Arizona,0,0,state_fold_0,Arizona,301
+NEG_KMN_AR_00303_Arizona_00302,NEG_KMN_AR_00303,Arizona,0,0,state_fold_0,Arizona,302
+NEG_KMN_AR_00304_Arizona_00303,NEG_KMN_AR_00304,Arizona,0,0,state_fold_0,Arizona,303
+NEG_KMN_AR_00305_Arizona_00304,NEG_KMN_AR_00305,Arizona,0,0,state_fold_0,Arizona,304
+NEG_KMN_AR_00306_Arizona_00305,NEG_KMN_AR_00306,Arizona,0,0,state_fold_0,Arizona,305
+NEG_KMN_AR_00307_Arizona_00306,NEG_KMN_AR_00307,Arizona,0,0,state_fold_0,Arizona,306
+NEG_KMN_AR_00308_Arizona_00307,NEG_KMN_AR_00308,Arizona,0,0,state_fold_0,Arizona,307
+NEG_KMN_AR_00309_Arizona_00308,NEG_KMN_AR_00309,Arizona,0,0,state_fold_0,Arizona,308
+NEG_KMN_AR_00310_Arizona_00309,NEG_KMN_AR_00310,Arizona,0,0,state_fold_0,Arizona,309
+NEG_KMN_AR_00311_Arizona_00310,NEG_KMN_AR_00311,Arizona,0,0,state_fold_0,Arizona,310
+NEG_KMN_AR_00312_Arizona_00311,NEG_KMN_AR_00312,Arizona,0,0,state_fold_0,Arizona,311
+NEG_KMN_AR_00313_Arizona_00312,NEG_KMN_AR_00313,Arizona,0,0,state_fold_0,Arizona,312
+NEG_KMN_AR_00314_Arizona_00313,NEG_KMN_AR_00314,Arizona,0,0,state_fold_0,Arizona,313
+NEG_KMN_AR_00315_Arizona_00314,NEG_KMN_AR_00315,Arizona,0,0,state_fold_0,Arizona,314
+NEG_KMN_AR_00316_Arizona_00315,NEG_KMN_AR_00316,Arizona,0,0,state_fold_0,Arizona,315
+NEG_KMN_AR_00317_Arizona_00316,NEG_KMN_AR_00317,Arizona,0,0,state_fold_0,Arizona,316
+NEG_KMN_AR_00318_Arizona_00317,NEG_KMN_AR_00318,Arizona,0,0,state_fold_0,Arizona,317
+NEG_KMN_AR_00319_Arizona_00318,NEG_KMN_AR_00319,Arizona,0,0,state_fold_0,Arizona,318
+NEG_KMN_AR_00320_Arizona_00319,NEG_KMN_AR_00320,Arizona,0,0,state_fold_0,Arizona,319
+NEG_KMN_AR_00321_Arizona_00320,NEG_KMN_AR_00321,Arizona,0,0,state_fold_0,Arizona,320
+NEG_KMN_AR_00322_Arizona_00321,NEG_KMN_AR_00322,Arizona,0,0,state_fold_0,Arizona,321
+NEG_KMN_AR_00323_Arizona_00322,NEG_KMN_AR_00323,Arizona,0,0,state_fold_0,Arizona,322
+NEG_KMN_AR_00324_Arizona_00323,NEG_KMN_AR_00324,Arizona,0,0,state_fold_0,Arizona,323
+NEG_KMN_AR_00325_Arizona_00324,NEG_KMN_AR_00325,Arizona,0,0,state_fold_0,Arizona,324
+NEG_KMN_AR_00326_Arizona_00325,NEG_KMN_AR_00326,Arizona,0,0,state_fold_0,Arizona,325
+NEG_KMN_AR_00327_Arizona_00326,NEG_KMN_AR_00327,Arizona,0,0,state_fold_0,Arizona,326
+NEG_KMN_AR_00328_Arizona_00327,NEG_KMN_AR_00328,Arizona,0,0,state_fold_0,Arizona,327
+NEG_KMN_AR_00329_Arizona_00328,NEG_KMN_AR_00329,Arizona,0,0,state_fold_0,Arizona,328
+NEG_KMN_AR_00330_Arizona_00329,NEG_KMN_AR_00330,Arizona,0,0,state_fold_0,Arizona,329
+NEG_KMN_AR_00331_Arizona_00330,NEG_KMN_AR_00331,Arizona,0,0,state_fold_0,Arizona,330
+NEG_KMN_AR_00332_Arizona_00331,NEG_KMN_AR_00332,Arizona,0,0,state_fold_0,Arizona,331
+NEG_KMN_AR_00333_Arizona_00332,NEG_KMN_AR_00333,Arizona,0,0,state_fold_0,Arizona,332
+NEG_KMN_AR_00334_Arizona_00333,NEG_KMN_AR_00334,Arizona,0,0,state_fold_0,Arizona,333
+NEG_KMN_AR_00335_Arizona_00334,NEG_KMN_AR_00335,Arizona,0,0,state_fold_0,Arizona,334
+NEG_KMN_AR_00336_Arizona_00335,NEG_KMN_AR_00336,Arizona,0,0,state_fold_0,Arizona,335
+NEG_KMN_AR_00337_Arizona_00336,NEG_KMN_AR_00337,Arizona,0,0,state_fold_0,Arizona,336
+NEG_KMN_AR_00338_Arizona_00337,NEG_KMN_AR_00338,Arizona,0,0,state_fold_0,Arizona,337
+NEG_KMN_AR_00339_Arizona_00338,NEG_KMN_AR_00339,Arizona,0,0,state_fold_0,Arizona,338
+NEG_KMN_AR_00340_Arizona_00339,NEG_KMN_AR_00340,Arizona,0,0,state_fold_0,Arizona,339
+NEG_KMN_AR_00341_Arizona_00340,NEG_KMN_AR_00341,Arizona,0,0,state_fold_0,Arizona,340
+NEG_KMN_AR_00342_Arizona_00341,NEG_KMN_AR_00342,Arizona,0,0,state_fold_0,Arizona,341
+NEG_KMN_AR_00343_Arizona_00342,NEG_KMN_AR_00343,Arizona,0,0,state_fold_0,Arizona,342
+NEG_KMN_AR_00344_Arizona_00343,NEG_KMN_AR_00344,Arizona,0,0,state_fold_0,Arizona,343
+NEG_KMN_AR_00345_Arizona_00344,NEG_KMN_AR_00345,Arizona,0,0,state_fold_0,Arizona,344
+NEG_KMN_AR_00346_Arizona_00345,NEG_KMN_AR_00346,Arizona,0,0,state_fold_0,Arizona,345
+NEG_KMN_AR_00347_Arizona_00346,NEG_KMN_AR_00347,Arizona,0,0,state_fold_0,Arizona,346
+NEG_KMN_AR_00348_Arizona_00347,NEG_KMN_AR_00348,Arizona,0,0,state_fold_0,Arizona,347
+NEG_KMN_AR_00349_Arizona_00348,NEG_KMN_AR_00349,Arizona,0,0,state_fold_0,Arizona,348
+NEG_KMN_AR_00350_Arizona_00349,NEG_KMN_AR_00350,Arizona,0,0,state_fold_0,Arizona,349
+NEG_KMN_AR_00351_Arizona_00350,NEG_KMN_AR_00351,Arizona,0,0,state_fold_0,Arizona,350
+NEG_KMN_AR_00352_Arizona_00351,NEG_KMN_AR_00352,Arizona,0,0,state_fold_0,Arizona,351
+NEG_KMN_AR_00353_Arizona_00352,NEG_KMN_AR_00353,Arizona,0,0,state_fold_0,Arizona,352
+NEG_KMN_AR_00354_Arizona_00353,NEG_KMN_AR_00354,Arizona,0,0,state_fold_0,Arizona,353
+NEG_KMN_AR_00355_Arizona_00354,NEG_KMN_AR_00355,Arizona,0,0,state_fold_0,Arizona,354
+NEG_KMN_AR_00356_Arizona_00355,NEG_KMN_AR_00356,Arizona,0,0,state_fold_0,Arizona,355
+NEG_KMN_AR_00357_Arizona_00356,NEG_KMN_AR_00357,Arizona,0,0,state_fold_0,Arizona,356
+NEG_KMN_AR_00358_Arizona_00357,NEG_KMN_AR_00358,Arizona,0,0,state_fold_0,Arizona,357
+NEG_KMN_AR_00359_Arizona_00358,NEG_KMN_AR_00359,Arizona,0,0,state_fold_0,Arizona,358
+NEG_KMN_AR_00360_Arizona_00359,NEG_KMN_AR_00360,Arizona,0,0,state_fold_0,Arizona,359
+NEG_KMN_AR_00361_Arizona_00360,NEG_KMN_AR_00361,Arizona,0,0,state_fold_0,Arizona,360
+NEG_KMN_AR_00362_Arizona_00361,NEG_KMN_AR_00362,Arizona,0,0,state_fold_0,Arizona,361
+NEG_KMN_AR_00363_Arizona_00362,NEG_KMN_AR_00363,Arizona,0,0,state_fold_0,Arizona,362
+NEG_KMN_AR_00364_Arizona_00363,NEG_KMN_AR_00364,Arizona,0,0,state_fold_0,Arizona,363
+NEG_KMN_AR_00365_Arizona_00364,NEG_KMN_AR_00365,Arizona,0,0,state_fold_0,Arizona,364
+NEG_KMN_AR_00366_Arizona_00365,NEG_KMN_AR_00366,Arizona,0,0,state_fold_0,Arizona,365
+NEG_KMN_AR_00367_Arizona_00366,NEG_KMN_AR_00367,Arizona,0,0,state_fold_0,Arizona,366
+NEG_KMN_AR_00368_Arizona_00367,NEG_KMN_AR_00368,Arizona,0,0,state_fold_0,Arizona,367
+NEG_KMN_AR_00369_Arizona_00368,NEG_KMN_AR_00369,Arizona,0,0,state_fold_0,Arizona,368
+NEG_KMN_AR_00370_Arizona_00369,NEG_KMN_AR_00370,Arizona,0,0,state_fold_0,Arizona,369
+NEG_KMN_AR_00371_Arizona_00370,NEG_KMN_AR_00371,Arizona,0,0,state_fold_0,Arizona,370
+NEG_KMN_AR_00372_Arizona_00371,NEG_KMN_AR_00372,Arizona,0,0,state_fold_0,Arizona,371
+NEG_KMN_AR_00373_Arizona_00372,NEG_KMN_AR_00373,Arizona,0,0,state_fold_0,Arizona,372
+NEG_KMN_AR_00374_Arizona_00373,NEG_KMN_AR_00374,Arizona,0,0,state_fold_0,Arizona,373
+NEG_KMN_AR_00375_Arizona_00374,NEG_KMN_AR_00375,Arizona,0,0,state_fold_0,Arizona,374
+NEG_KMN_AR_00376_Arizona_00375,NEG_KMN_AR_00376,Arizona,0,0,state_fold_0,Arizona,375
+NEG_KMN_AR_00377_Arizona_00376,NEG_KMN_AR_00377,Arizona,0,0,state_fold_0,Arizona,376
+NEG_KMN_AR_00378_Arizona_00377,NEG_KMN_AR_00378,Arizona,0,0,state_fold_0,Arizona,377
+NEG_KMN_AR_00379_Arizona_00378,NEG_KMN_AR_00379,Arizona,0,0,state_fold_0,Arizona,378
+NEG_KMN_AR_00380_Arizona_00379,NEG_KMN_AR_00380,Arizona,0,0,state_fold_0,Arizona,379
+NEG_KMN_AR_00381_Arizona_00380,NEG_KMN_AR_00381,Arizona,0,0,state_fold_0,Arizona,380
+NEG_KMN_AR_00382_Arizona_00381,NEG_KMN_AR_00382,Arizona,0,0,state_fold_0,Arizona,381
+NEG_KMN_AR_00383_Arizona_00382,NEG_KMN_AR_00383,Arizona,0,0,state_fold_0,Arizona,382
+NEG_KMN_AR_00384_Arizona_00383,NEG_KMN_AR_00384,Arizona,0,0,state_fold_0,Arizona,383
+NEG_KMN_AR_00385_Arizona_00384,NEG_KMN_AR_00385,Arizona,0,0,state_fold_0,Arizona,384
+NEG_KMN_AR_00386_Arizona_00385,NEG_KMN_AR_00386,Arizona,0,0,state_fold_0,Arizona,385
+NEG_KMN_AR_00387_Arizona_00386,NEG_KMN_AR_00387,Arizona,0,0,state_fold_0,Arizona,386
+NEG_KMN_AR_00388_Arizona_00387,NEG_KMN_AR_00388,Arizona,0,0,state_fold_0,Arizona,387
+NEG_KMN_AR_00389_Arizona_00388,NEG_KMN_AR_00389,Arizona,0,0,state_fold_0,Arizona,388
+NEG_KMN_AR_00390_Arizona_00389,NEG_KMN_AR_00390,Arizona,0,0,state_fold_0,Arizona,389
+NEG_KMN_AR_00391_Arizona_00390,NEG_KMN_AR_00391,Arizona,0,0,state_fold_0,Arizona,390
+NEG_KMN_AR_00392_Arizona_00391,NEG_KMN_AR_00392,Arizona,0,0,state_fold_0,Arizona,391
+NEG_KMN_AR_00393_Arizona_00392,NEG_KMN_AR_00393,Arizona,0,0,state_fold_0,Arizona,392
+NEG_KMN_AR_00394_Arizona_00393,NEG_KMN_AR_00394,Arizona,0,0,state_fold_0,Arizona,393
+NEG_KMN_AR_00395_Arizona_00394,NEG_KMN_AR_00395,Arizona,0,0,state_fold_0,Arizona,394
+NEG_KMN_AR_00396_Arizona_00395,NEG_KMN_AR_00396,Arizona,0,0,state_fold_0,Arizona,395
+NEG_KMN_AR_00397_Arizona_00396,NEG_KMN_AR_00397,Arizona,0,0,state_fold_0,Arizona,396
+NEG_KMN_AR_00398_Arizona_00397,NEG_KMN_AR_00398,Arizona,0,0,state_fold_0,Arizona,397
+NEG_KMN_AR_00399_Arizona_00398,NEG_KMN_AR_00399,Arizona,0,0,state_fold_0,Arizona,398
+NEG_KMN_AR_00400_Arizona_00399,NEG_KMN_AR_00400,Arizona,0,0,state_fold_0,Arizona,399
+NEG_KMN_AR_00401_Arizona_00400,NEG_KMN_AR_00401,Arizona,0,0,state_fold_0,Arizona,400
+NEG_KMN_AR_00402_Arizona_00401,NEG_KMN_AR_00402,Arizona,0,0,state_fold_0,Arizona,401
+NEG_KMN_AR_00403_Arizona_00402,NEG_KMN_AR_00403,Arizona,0,0,state_fold_0,Arizona,402
+NEG_KMN_AR_00404_Arizona_00403,NEG_KMN_AR_00404,Arizona,0,0,state_fold_0,Arizona,403
+NEG_KMN_AR_00405_Arizona_00404,NEG_KMN_AR_00405,Arizona,0,0,state_fold_0,Arizona,404
+NEG_KMN_AR_00406_Arizona_00405,NEG_KMN_AR_00406,Arizona,0,0,state_fold_0,Arizona,405
+NEG_KMN_AR_00407_Arizona_00406,NEG_KMN_AR_00407,Arizona,0,0,state_fold_0,Arizona,406
+NEG_KMN_AR_00408_Arizona_00407,NEG_KMN_AR_00408,Arizona,0,0,state_fold_0,Arizona,407
+NEG_KMN_AR_00409_Arizona_00408,NEG_KMN_AR_00409,Arizona,0,0,state_fold_0,Arizona,408
+NEG_KMN_AR_00410_Arizona_00409,NEG_KMN_AR_00410,Arizona,0,0,state_fold_0,Arizona,409
+NEG_KMN_AR_00411_Arizona_00410,NEG_KMN_AR_00411,Arizona,0,0,state_fold_0,Arizona,410
+NEG_KMN_AR_00412_Arizona_00411,NEG_KMN_AR_00412,Arizona,0,0,state_fold_0,Arizona,411
+NEG_KMN_AR_00413_Arizona_00412,NEG_KMN_AR_00413,Arizona,0,0,state_fold_0,Arizona,412
+NEG_KMN_AR_00414_Arizona_00413,NEG_KMN_AR_00414,Arizona,0,0,state_fold_0,Arizona,413
+NEG_KMN_AR_00415_Arizona_00414,NEG_KMN_AR_00415,Arizona,0,0,state_fold_0,Arizona,414
+NEG_KMN_AR_00416_Arizona_00415,NEG_KMN_AR_00416,Arizona,0,0,state_fold_0,Arizona,415
+NEG_KMN_AR_00417_Arizona_00416,NEG_KMN_AR_00417,Arizona,0,0,state_fold_0,Arizona,416
+NEG_KMN_AR_00418_Arizona_00417,NEG_KMN_AR_00418,Arizona,0,0,state_fold_0,Arizona,417
+NEG_KMN_AR_00419_Arizona_00418,NEG_KMN_AR_00419,Arizona,0,0,state_fold_0,Arizona,418
+NEG_KMN_AR_00420_Arizona_00419,NEG_KMN_AR_00420,Arizona,0,0,state_fold_0,Arizona,419
+NEG_KMN_AR_00421_Arizona_00420,NEG_KMN_AR_00421,Arizona,0,0,state_fold_0,Arizona,420
+NEG_KMN_AR_00422_Arizona_00421,NEG_KMN_AR_00422,Arizona,0,0,state_fold_0,Arizona,421
+NEG_KMN_AR_00423_Arizona_00422,NEG_KMN_AR_00423,Arizona,0,0,state_fold_0,Arizona,422
+NEG_KMN_AR_00424_Arizona_00423,NEG_KMN_AR_00424,Arizona,0,0,state_fold_0,Arizona,423
+NEG_KMN_AR_00425_Arizona_00424,NEG_KMN_AR_00425,Arizona,0,0,state_fold_0,Arizona,424
+NEG_KMN_AR_00426_Arizona_00425,NEG_KMN_AR_00426,Arizona,0,0,state_fold_0,Arizona,425
+NEG_KMN_AR_00427_Arizona_00426,NEG_KMN_AR_00427,Arizona,0,0,state_fold_0,Arizona,426
+NEG_KMN_AR_00428_Arizona_00427,NEG_KMN_AR_00428,Arizona,0,0,state_fold_0,Arizona,427
+NEG_KMN_AR_00429_Arizona_00428,NEG_KMN_AR_00429,Arizona,0,0,state_fold_0,Arizona,428
+NEG_KMN_AR_00430_Arizona_00429,NEG_KMN_AR_00430,Arizona,0,0,state_fold_0,Arizona,429
+NEG_KMN_AR_00431_Arizona_00430,NEG_KMN_AR_00431,Arizona,0,0,state_fold_0,Arizona,430
+NEG_KMN_AR_00432_Arizona_00431,NEG_KMN_AR_00432,Arizona,0,0,state_fold_0,Arizona,431
+NEG_KMN_AR_00433_Arizona_00432,NEG_KMN_AR_00433,Arizona,0,0,state_fold_0,Arizona,432
+NEG_KMN_AR_00434_Arizona_00433,NEG_KMN_AR_00434,Arizona,0,0,state_fold_0,Arizona,433
+NEG_KMN_AR_00435_Arizona_00434,NEG_KMN_AR_00435,Arizona,0,0,state_fold_0,Arizona,434
+NEG_KMN_AR_00436_Arizona_00435,NEG_KMN_AR_00436,Arizona,0,0,state_fold_0,Arizona,435
+NEG_KMN_AR_00437_Arizona_00436,NEG_KMN_AR_00437,Arizona,0,0,state_fold_0,Arizona,436
+NEG_KMN_AR_00438_Arizona_00437,NEG_KMN_AR_00438,Arizona,0,0,state_fold_0,Arizona,437
+NEG_KMN_AR_00439_Arizona_00438,NEG_KMN_AR_00439,Arizona,0,0,state_fold_0,Arizona,438
+NEG_KMN_AR_00440_Arizona_00439,NEG_KMN_AR_00440,Arizona,0,0,state_fold_0,Arizona,439
+NEG_KMN_AR_00441_Arizona_00440,NEG_KMN_AR_00441,Arizona,0,0,state_fold_0,Arizona,440
+NEG_KMN_AR_00442_Arizona_00441,NEG_KMN_AR_00442,Arizona,0,0,state_fold_0,Arizona,441
+NEG_KMN_AR_00443_Arizona_00442,NEG_KMN_AR_00443,Arizona,0,0,state_fold_0,Arizona,442
+NEG_KMN_AR_00444_Arizona_00443,NEG_KMN_AR_00444,Arizona,0,0,state_fold_0,Arizona,443
+NEG_KMN_AR_00445_Arizona_00444,NEG_KMN_AR_00445,Arizona,0,0,state_fold_0,Arizona,444
+NEG_KMN_AR_00446_Arizona_00445,NEG_KMN_AR_00446,Arizona,0,0,state_fold_0,Arizona,445
+NEG_KMN_AR_00447_Arizona_00446,NEG_KMN_AR_00447,Arizona,0,0,state_fold_0,Arizona,446
+NEG_KMN_AR_00448_Arizona_00447,NEG_KMN_AR_00448,Arizona,0,0,state_fold_0,Arizona,447
+NEG_KMN_AR_00449_Arizona_00448,NEG_KMN_AR_00449,Arizona,0,0,state_fold_0,Arizona,448
+NEG_KMN_AR_00450_Arizona_00449,NEG_KMN_AR_00450,Arizona,0,0,state_fold_0,Arizona,449
+NEG_KMN_AR_00451_Arizona_00450,NEG_KMN_AR_00451,Arizona,0,0,state_fold_0,Arizona,450
+NEG_KMN_AR_00452_Arizona_00451,NEG_KMN_AR_00452,Arizona,0,0,state_fold_0,Arizona,451
+NEG_KMN_AR_00453_Arizona_00452,NEG_KMN_AR_00453,Arizona,0,0,state_fold_0,Arizona,452
+NEG_KMN_AR_00454_Arizona_00453,NEG_KMN_AR_00454,Arizona,0,0,state_fold_0,Arizona,453
+NEG_KMN_AR_00455_Arizona_00454,NEG_KMN_AR_00455,Arizona,0,0,state_fold_0,Arizona,454
+NEG_KMN_AR_00456_Arizona_00455,NEG_KMN_AR_00456,Arizona,0,0,state_fold_0,Arizona,455
+NEG_KMN_AR_00457_Arizona_00456,NEG_KMN_AR_00457,Arizona,0,0,state_fold_0,Arizona,456
+NEG_KMN_AR_00458_Arizona_00457,NEG_KMN_AR_00458,Arizona,0,0,state_fold_0,Arizona,457
+NEG_KMN_AR_00459_Arizona_00458,NEG_KMN_AR_00459,Arizona,0,0,state_fold_0,Arizona,458
+NEG_KMN_AR_00460_Arizona_00459,NEG_KMN_AR_00460,Arizona,0,0,state_fold_0,Arizona,459
+NEG_KMN_AR_00461_Arizona_00460,NEG_KMN_AR_00461,Arizona,0,0,state_fold_0,Arizona,460
+NEG_KMN_AR_00462_Arizona_00461,NEG_KMN_AR_00462,Arizona,0,0,state_fold_0,Arizona,461
+NEG_KMN_AR_00463_Arizona_00462,NEG_KMN_AR_00463,Arizona,0,0,state_fold_0,Arizona,462
+NEG_KMN_AR_00464_Arizona_00463,NEG_KMN_AR_00464,Arizona,0,0,state_fold_0,Arizona,463
+NEG_KMN_AR_00465_Arizona_00464,NEG_KMN_AR_00465,Arizona,0,0,state_fold_0,Arizona,464
+NEG_KMN_AR_00466_Arizona_00465,NEG_KMN_AR_00466,Arizona,0,0,state_fold_0,Arizona,465
+NEG_KMN_AR_00467_Arizona_00466,NEG_KMN_AR_00467,Arizona,0,0,state_fold_0,Arizona,466
+NEG_KMN_AR_00468_Arizona_00467,NEG_KMN_AR_00468,Arizona,0,0,state_fold_0,Arizona,467
+NEG_KMN_AR_00469_Arizona_00468,NEG_KMN_AR_00469,Arizona,0,0,state_fold_0,Arizona,468
+NEG_KMN_AR_00470_Arizona_00469,NEG_KMN_AR_00470,Arizona,0,0,state_fold_0,Arizona,469
+NEG_KMN_AR_00471_Arizona_00470,NEG_KMN_AR_00471,Arizona,0,0,state_fold_0,Arizona,470
+NEG_KMN_AR_00472_Arizona_00471,NEG_KMN_AR_00472,Arizona,0,0,state_fold_0,Arizona,471
+NEG_KMN_AR_00473_Arizona_00472,NEG_KMN_AR_00473,Arizona,0,0,state_fold_0,Arizona,472
+NEG_KMN_AR_00474_Arizona_00473,NEG_KMN_AR_00474,Arizona,0,0,state_fold_0,Arizona,473
+NEG_KMN_AR_00475_Arizona_00474,NEG_KMN_AR_00475,Arizona,0,0,state_fold_0,Arizona,474
+NEG_KMN_AR_00476_Arizona_00475,NEG_KMN_AR_00476,Arizona,0,0,state_fold_0,Arizona,475
+NEG_KMN_AR_00477_Arizona_00476,NEG_KMN_AR_00477,Arizona,0,0,state_fold_0,Arizona,476
+NEG_KMN_AR_00478_Arizona_00477,NEG_KMN_AR_00478,Arizona,0,0,state_fold_0,Arizona,477
+NEG_KMN_AR_00479_Arizona_00478,NEG_KMN_AR_00479,Arizona,0,0,state_fold_0,Arizona,478
+NEG_KMN_AR_00480_Arizona_00479,NEG_KMN_AR_00480,Arizona,0,0,state_fold_0,Arizona,479
+NEG_KMN_AR_00481_Arizona_00480,NEG_KMN_AR_00481,Arizona,0,0,state_fold_0,Arizona,480
+NEG_KMN_AR_00482_Arizona_00481,NEG_KMN_AR_00482,Arizona,0,0,state_fold_0,Arizona,481
+NEG_KMN_AR_00483_Arizona_00482,NEG_KMN_AR_00483,Arizona,0,0,state_fold_0,Arizona,482
+NEG_KMN_AR_00484_Arizona_00483,NEG_KMN_AR_00484,Arizona,0,0,state_fold_0,Arizona,483
+NEG_KMN_AR_00485_Arizona_00484,NEG_KMN_AR_00485,Arizona,0,0,state_fold_0,Arizona,484
+NEG_KMN_AR_00486_Arizona_00485,NEG_KMN_AR_00486,Arizona,0,0,state_fold_0,Arizona,485
+NEG_KMN_AR_00487_Arizona_00486,NEG_KMN_AR_00487,Arizona,0,0,state_fold_0,Arizona,486
+NEG_KMN_AR_00488_Arizona_00487,NEG_KMN_AR_00488,Arizona,0,0,state_fold_0,Arizona,487
+NEG_KMN_AR_00489_Arizona_00488,NEG_KMN_AR_00489,Arizona,0,0,state_fold_0,Arizona,488
+NEG_KMN_AR_00490_Arizona_00489,NEG_KMN_AR_00490,Arizona,0,0,state_fold_0,Arizona,489
+NEG_KMN_AR_00491_Arizona_00490,NEG_KMN_AR_00491,Arizona,0,0,state_fold_0,Arizona,490
+NEG_KMN_AR_00492_Arizona_00491,NEG_KMN_AR_00492,Arizona,0,0,state_fold_0,Arizona,491
+NEG_KMN_AR_00493_Arizona_00492,NEG_KMN_AR_00493,Arizona,0,0,state_fold_0,Arizona,492
+NEG_KMN_AR_00494_Arizona_00493,NEG_KMN_AR_00494,Arizona,0,0,state_fold_0,Arizona,493
+NEG_KMN_AR_00495_Arizona_00494,NEG_KMN_AR_00495,Arizona,0,0,state_fold_0,Arizona,494
+NEG_KMN_AR_00496_Arizona_00495,NEG_KMN_AR_00496,Arizona,0,0,state_fold_0,Arizona,495
+NEG_KMN_AR_00497_Arizona_00496,NEG_KMN_AR_00497,Arizona,0,0,state_fold_0,Arizona,496
+NEG_KMN_AR_00498_Arizona_00497,NEG_KMN_AR_00498,Arizona,0,0,state_fold_0,Arizona,497
+NEG_KMN_AR_00499_Arizona_00498,NEG_KMN_AR_00499,Arizona,0,0,state_fold_0,Arizona,498
+NEG_KMN_AR_00500_Arizona_00499,NEG_KMN_AR_00500,Arizona,0,0,state_fold_0,Arizona,499
+NEG_KMN_AR_00501_Arizona_00500,NEG_KMN_AR_00501,Arizona,0,0,state_fold_0,Arizona,500
+NEG_KMN_AR_00502_Arizona_00501,NEG_KMN_AR_00502,Arizona,0,0,state_fold_0,Arizona,501
+NEG_KMN_AR_00503_Arizona_00502,NEG_KMN_AR_00503,Arizona,0,0,state_fold_0,Arizona,502
+NEG_KMN_AR_00504_Arizona_00503,NEG_KMN_AR_00504,Arizona,0,0,state_fold_0,Arizona,503
+NEG_KMN_AR_00505_Arizona_00504,NEG_KMN_AR_00505,Arizona,0,0,state_fold_0,Arizona,504
+NEG_KMN_AR_00506_Arizona_00505,NEG_KMN_AR_00506,Arizona,0,0,state_fold_0,Arizona,505
+NEG_KMN_AR_00507_Arizona_00506,NEG_KMN_AR_00507,Arizona,0,0,state_fold_0,Arizona,506
+NEG_KMN_AR_00508_Arizona_00507,NEG_KMN_AR_00508,Arizona,0,0,state_fold_0,Arizona,507
+NEG_KMN_AR_00509_Arizona_00508,NEG_KMN_AR_00509,Arizona,0,0,state_fold_0,Arizona,508
+NEG_KMN_AR_00510_Arizona_00509,NEG_KMN_AR_00510,Arizona,0,0,state_fold_0,Arizona,509
+NEG_KMN_AR_00511_Arizona_00510,NEG_KMN_AR_00511,Arizona,0,0,state_fold_0,Arizona,510
+NEG_KMN_AR_00512_Arizona_00511,NEG_KMN_AR_00512,Arizona,0,0,state_fold_0,Arizona,511
+NEG_KMN_AR_00513_Arizona_00512,NEG_KMN_AR_00513,Arizona,0,0,state_fold_0,Arizona,512
+NEG_KMN_AR_00514_Arizona_00513,NEG_KMN_AR_00514,Arizona,0,0,state_fold_0,Arizona,513
+NEG_KMN_AR_00515_Arizona_00514,NEG_KMN_AR_00515,Arizona,0,0,state_fold_0,Arizona,514
+NEG_KMN_AR_00516_Arizona_00515,NEG_KMN_AR_00516,Arizona,0,0,state_fold_0,Arizona,515
+NEG_KMN_AR_00517_Arizona_00516,NEG_KMN_AR_00517,Arizona,0,0,state_fold_0,Arizona,516
+NEG_KMN_AR_00518_Arizona_00517,NEG_KMN_AR_00518,Arizona,0,0,state_fold_0,Arizona,517
+NEG_KMN_AR_00519_Arizona_00518,NEG_KMN_AR_00519,Arizona,0,0,state_fold_0,Arizona,518
+NEG_KMN_AR_00520_Arizona_00519,NEG_KMN_AR_00520,Arizona,0,0,state_fold_0,Arizona,519
+NEG_KMN_AR_00521_Arizona_00520,NEG_KMN_AR_00521,Arizona,0,0,state_fold_0,Arizona,520
+NEG_KMN_AR_00522_Arizona_00521,NEG_KMN_AR_00522,Arizona,0,0,state_fold_0,Arizona,521
+NEG_KMN_AR_00523_Arizona_00522,NEG_KMN_AR_00523,Arizona,0,0,state_fold_0,Arizona,522
+NEG_KMN_AR_00524_Arizona_00523,NEG_KMN_AR_00524,Arizona,0,0,state_fold_0,Arizona,523
+NEG_KMN_AR_00525_Arizona_00524,NEG_KMN_AR_00525,Arizona,0,0,state_fold_0,Arizona,524
+NEG_KMN_AR_00526_Arizona_00525,NEG_KMN_AR_00526,Arizona,0,0,state_fold_0,Arizona,525
+NEG_KMN_AR_00527_Arizona_00526,NEG_KMN_AR_00527,Arizona,0,0,state_fold_0,Arizona,526
+NEG_KMN_AR_00528_Arizona_00527,NEG_KMN_AR_00528,Arizona,0,0,state_fold_0,Arizona,527
+NEG_KMN_AR_00529_Arizona_00528,NEG_KMN_AR_00529,Arizona,0,0,state_fold_0,Arizona,528
+NEG_KMN_AR_00530_Arizona_00529,NEG_KMN_AR_00530,Arizona,0,0,state_fold_0,Arizona,529
+NEG_KMN_AR_00531_Arizona_00530,NEG_KMN_AR_00531,Arizona,0,0,state_fold_0,Arizona,530
+NEG_KMN_AR_00532_Arizona_00531,NEG_KMN_AR_00532,Arizona,0,0,state_fold_0,Arizona,531
+NEG_KMN_AR_00533_Arizona_00532,NEG_KMN_AR_00533,Arizona,0,0,state_fold_0,Arizona,532
+NEG_KMN_AR_00534_Arizona_00533,NEG_KMN_AR_00534,Arizona,0,0,state_fold_0,Arizona,533
+NEG_KMN_AR_00535_Arizona_00534,NEG_KMN_AR_00535,Arizona,0,0,state_fold_0,Arizona,534
+NEG_KMN_AR_00536_Arizona_00535,NEG_KMN_AR_00536,Arizona,0,0,state_fold_0,Arizona,535
+NEG_KMN_AR_00537_Arizona_00536,NEG_KMN_AR_00537,Arizona,0,0,state_fold_0,Arizona,536
+NEG_KMN_AR_00538_Arizona_00537,NEG_KMN_AR_00538,Arizona,0,0,state_fold_0,Arizona,537
+NEG_KMN_AR_00539_Arizona_00538,NEG_KMN_AR_00539,Arizona,0,0,state_fold_0,Arizona,538
+NEG_KMN_AR_00540_Arizona_00539,NEG_KMN_AR_00540,Arizona,0,0,state_fold_0,Arizona,539
+NEG_KMN_AR_00541_Arizona_00540,NEG_KMN_AR_00541,Arizona,0,0,state_fold_0,Arizona,540
+NEG_KMN_AR_00542_Arizona_00541,NEG_KMN_AR_00542,Arizona,0,0,state_fold_0,Arizona,541
+NEG_KMN_AR_00543_Arizona_00542,NEG_KMN_AR_00543,Arizona,0,0,state_fold_0,Arizona,542
+NEG_KMN_AR_00544_Arizona_00543,NEG_KMN_AR_00544,Arizona,0,0,state_fold_0,Arizona,543
+NEG_KMN_AR_00545_Arizona_00544,NEG_KMN_AR_00545,Arizona,0,0,state_fold_0,Arizona,544
+NEG_KMN_AR_00546_Arizona_00545,NEG_KMN_AR_00546,Arizona,0,0,state_fold_0,Arizona,545
+NEG_KMN_AR_00547_Arizona_00546,NEG_KMN_AR_00547,Arizona,0,0,state_fold_0,Arizona,546
+NEG_KMN_AR_00548_Arizona_00547,NEG_KMN_AR_00548,Arizona,0,0,state_fold_0,Arizona,547
+NEG_KMN_AR_00549_Arizona_00548,NEG_KMN_AR_00549,Arizona,0,0,state_fold_0,Arizona,548
+NEG_KMN_AR_00550_Arizona_00549,NEG_KMN_AR_00550,Arizona,0,0,state_fold_0,Arizona,549
+NEG_KMN_AR_00551_Arizona_00550,NEG_KMN_AR_00551,Arizona,0,0,state_fold_0,Arizona,550
+NEG_KMN_AR_00552_Arizona_00551,NEG_KMN_AR_00552,Arizona,0,0,state_fold_0,Arizona,551
+NEG_KMN_AR_00553_Arizona_00552,NEG_KMN_AR_00553,Arizona,0,0,state_fold_0,Arizona,552
+NEG_KMN_AR_00554_Arizona_00553,NEG_KMN_AR_00554,Arizona,0,0,state_fold_0,Arizona,553
+NEG_KMN_AR_00555_Arizona_00554,NEG_KMN_AR_00555,Arizona,0,0,state_fold_0,Arizona,554
+NEG_KMN_AR_00556_Arizona_00555,NEG_KMN_AR_00556,Arizona,0,0,state_fold_0,Arizona,555
+NEG_KMN_AR_00557_Arizona_00556,NEG_KMN_AR_00557,Arizona,0,0,state_fold_0,Arizona,556
+NEG_KMN_AR_00558_Arizona_00557,NEG_KMN_AR_00558,Arizona,0,0,state_fold_0,Arizona,557
+NEG_KMN_AR_00559_Arizona_00558,NEG_KMN_AR_00559,Arizona,0,0,state_fold_0,Arizona,558
+NEG_KMN_AR_00560_Arizona_00559,NEG_KMN_AR_00560,Arizona,0,0,state_fold_0,Arizona,559
+NEG_KMN_AR_00561_Arizona_00560,NEG_KMN_AR_00561,Arizona,0,0,state_fold_0,Arizona,560
+NEG_KMN_AR_00562_Arizona_00561,NEG_KMN_AR_00562,Arizona,0,0,state_fold_0,Arizona,561
+NEG_KMN_AR_00563_Arizona_00562,NEG_KMN_AR_00563,Arizona,0,0,state_fold_0,Arizona,562
+NEG_KMN_AR_00564_Arizona_00563,NEG_KMN_AR_00564,Arizona,0,0,state_fold_0,Arizona,563
+NEG_KMN_AR_00565_Arizona_00564,NEG_KMN_AR_00565,Arizona,0,0,state_fold_0,Arizona,564
+NEG_KMN_AR_00566_Arizona_00565,NEG_KMN_AR_00566,Arizona,0,0,state_fold_0,Arizona,565
+NEG_KMN_AR_00567_Arizona_00566,NEG_KMN_AR_00567,Arizona,0,0,state_fold_0,Arizona,566
+NEG_KMN_AR_00568_Arizona_00567,NEG_KMN_AR_00568,Arizona,0,0,state_fold_0,Arizona,567
+NEG_KMN_AR_00569_Arizona_00568,NEG_KMN_AR_00569,Arizona,0,0,state_fold_0,Arizona,568
+NEG_KMN_AR_00570_Arizona_00569,NEG_KMN_AR_00570,Arizona,0,0,state_fold_0,Arizona,569
+NEG_KMN_AR_00571_Arizona_00570,NEG_KMN_AR_00571,Arizona,0,0,state_fold_0,Arizona,570
+NEG_KMN_AR_00572_Arizona_00571,NEG_KMN_AR_00572,Arizona,0,0,state_fold_0,Arizona,571
+NEG_KMN_AR_00573_Arizona_00572,NEG_KMN_AR_00573,Arizona,0,0,state_fold_0,Arizona,572
+NEG_KMN_AR_00574_Arizona_00573,NEG_KMN_AR_00574,Arizona,0,0,state_fold_0,Arizona,573
+NEG_KMN_AR_00575_Arizona_00574,NEG_KMN_AR_00575,Arizona,0,0,state_fold_0,Arizona,574
+NEG_KMN_AR_00576_Arizona_00575,NEG_KMN_AR_00576,Arizona,0,0,state_fold_0,Arizona,575
+NEG_KMN_AR_00577_Arizona_00576,NEG_KMN_AR_00577,Arizona,0,0,state_fold_0,Arizona,576
+NEG_KMN_AR_00578_Arizona_00577,NEG_KMN_AR_00578,Arizona,0,0,state_fold_0,Arizona,577
+NEG_KMN_AR_00579_Arizona_00578,NEG_KMN_AR_00579,Arizona,0,0,state_fold_0,Arizona,578
+NEG_KMN_AR_00580_Arizona_00579,NEG_KMN_AR_00580,Arizona,0,0,state_fold_0,Arizona,579
+POS_10026848_Arizona_03165,POS_10026848,Arizona,1,0,state_fold_0,Arizona,1586
+POS_10026888_Arizona_03166,POS_10026888,Arizona,1,0,state_fold_0,Arizona,1587
+POS_10026923_Arizona_03167,POS_10026923,Arizona,1,0,state_fold_0,Arizona,1588
+POS_10027008_Arizona_03168,POS_10027008,Arizona,1,0,state_fold_0,Arizona,1589
+POS_10027031_Arizona_03169,POS_10027031,Arizona,1,0,state_fold_0,Arizona,1590
+POS_10037125_Arizona_03173,POS_10037125,Arizona,1,0,state_fold_0,Arizona,1594
+POS_10039593_Arizona_03178,POS_10039593,Arizona,1,0,state_fold_0,Arizona,1599
+POS_10039668_Arizona_03179,POS_10039668,Arizona,1,0,state_fold_0,Arizona,1600
+POS_10039675_Arizona_03180,POS_10039675,Arizona,1,0,state_fold_0,Arizona,1601
+POS_10039684_Arizona_03181,POS_10039684,Arizona,1,0,state_fold_0,Arizona,1602
+POS_10039685_Arizona_03182,POS_10039685,Arizona,1,0,state_fold_0,Arizona,1603
+POS_10039895_Arizona_03183,POS_10039895,Arizona,1,0,state_fold_0,Arizona,1604
+POS_10046235_Arizona_03190,POS_10046235,Arizona,1,0,state_fold_0,Arizona,1611
+POS_10046238_Arizona_03191,POS_10046238,Arizona,1,0,state_fold_0,Arizona,1612
+POS_10046248_Arizona_03192,POS_10046248,Arizona,1,0,state_fold_0,Arizona,1613
+POS_10046282_Arizona_03193,POS_10046282,Arizona,1,0,state_fold_0,Arizona,1614
+POS_10048292_Arizona_03199,POS_10048292,Arizona,1,0,state_fold_0,Arizona,1620
+POS_10048337_Arizona_03200,POS_10048337,Arizona,1,0,state_fold_0,Arizona,1621
+POS_10048777_Arizona_03218,POS_10048777,Arizona,1,0,state_fold_0,Arizona,1639
+POS_10067172_Arizona_03225,POS_10067172,Arizona,1,0,state_fold_0,Arizona,1646
+POS_10072137_Arizona_03227,POS_10072137,Arizona,1,0,state_fold_0,Arizona,1648
+POS_10095027_Arizona_03232,POS_10095027,Arizona,1,0,state_fold_0,Arizona,1653
+POS_10096999_Arizona_03237,POS_10096999,Arizona,1,0,state_fold_0,Arizona,1658
+POS_10104070_Arizona_03243,POS_10104070,Arizona,1,0,state_fold_0,Arizona,1664
+POS_10104088_Arizona_03244,POS_10104088,Arizona,1,0,state_fold_0,Arizona,1665
+POS_10111429_Arizona_03249,POS_10111429,Arizona,1,0,state_fold_0,Arizona,1670
+POS_10113259_Arizona_03250,POS_10113259,Arizona,1,0,state_fold_0,Arizona,1671
+POS_10113316_Arizona_03251,POS_10113316,Arizona,1,0,state_fold_0,Arizona,1672
+POS_10113726_Arizona_03252,POS_10113726,Arizona,1,0,state_fold_0,Arizona,1673
+POS_10113911_Arizona_03253,POS_10113911,Arizona,1,0,state_fold_0,Arizona,1674
+POS_10137553_Arizona_03257,POS_10137553,Arizona,1,0,state_fold_0,Arizona,1678
+POS_10137918_Arizona_03258,POS_10137918,Arizona,1,0,state_fold_0,Arizona,1679
+POS_10161929_Arizona_03261,POS_10161929,Arizona,1,0,state_fold_0,Arizona,1682
+POS_10162257_Arizona_03262,POS_10162257,Arizona,1,0,state_fold_0,Arizona,1683
+POS_10162326_Arizona_03263,POS_10162326,Arizona,1,0,state_fold_0,Arizona,1684
+POS_10184420_Arizona_03266,POS_10184420,Arizona,1,0,state_fold_0,Arizona,1687
+POS_10185792_Arizona_03267,POS_10185792,Arizona,1,0,state_fold_0,Arizona,1688
+POS_10186051_Arizona_03268,POS_10186051,Arizona,1,0,state_fold_0,Arizona,1689
+POS_10186598_Arizona_03269,POS_10186598,Arizona,1,0,state_fold_0,Arizona,1690
+POS_10209543_Arizona_03271,POS_10209543,Arizona,1,0,state_fold_0,Arizona,1692
+POS_10209824_Arizona_03272,POS_10209824,Arizona,1,0,state_fold_0,Arizona,1693
+POS_10210616_Arizona_03273,POS_10210616,Arizona,1,0,state_fold_0,Arizona,1694
+POS_10210685_Arizona_03274,POS_10210685,Arizona,1,0,state_fold_0,Arizona,1695
+POS_10234135_Arizona_03276,POS_10234135,Arizona,1,0,state_fold_0,Arizona,1697
+POS_10234825_Arizona_03277,POS_10234825,Arizona,1,0,state_fold_0,Arizona,1698
+POS_10257231_Arizona_03278,POS_10257231,Arizona,1,0,state_fold_0,Arizona,1699
+POS_10258292_Arizona_03279,POS_10258292,Arizona,1,0,state_fold_0,Arizona,1700
+POS_10282444_Arizona_03283,POS_10282444,Arizona,1,0,state_fold_0,Arizona,1704
+POS_10282707_Arizona_03284,POS_10282707,Arizona,1,0,state_fold_0,Arizona,1705
+POS_10282908_Arizona_03285,POS_10282908,Arizona,1,0,state_fold_0,Arizona,1706
+POS_10283179_Arizona_03286,POS_10283179,Arizona,1,0,state_fold_0,Arizona,1707
+POS_10283204_Arizona_03287,POS_10283204,Arizona,1,0,state_fold_0,Arizona,1708
+POS_10400304_Arizona_03303,POS_10400304,Arizona,1,0,state_fold_0,Arizona,1724
+POS_10400314_Arizona_03304,POS_10400314,Arizona,1,0,state_fold_0,Arizona,1725
+POS_10400395_Arizona_03306,POS_10400395,Arizona,1,0,state_fold_0,Arizona,1727
+POS_60000203_Arizona_03307,POS_60000203,Arizona,1,0,state_fold_0,Arizona,1728
+POS_60000298_Arizona_03308,POS_60000298,Arizona,1,0,state_fold_0,Arizona,1729
+POS_60000891_Arizona_03310,POS_60000891,Arizona,1,0,state_fold_0,Arizona,1731
+NEG_KMN_WA_00001_Washington_01160,NEG_KMN_WA_00001,Washington,0,1,state_fold_1,Washington,1160
+NEG_KMN_WA_00002_Washington_01161,NEG_KMN_WA_00002,Washington,0,1,state_fold_1,Washington,1161
+NEG_KMN_WA_00003_Washington_01162,NEG_KMN_WA_00003,Washington,0,1,state_fold_1,Washington,1162
+NEG_KMN_WA_00004_Washington_01163,NEG_KMN_WA_00004,Washington,0,1,state_fold_1,Washington,1163
+NEG_KMN_WA_00005_Washington_01164,NEG_KMN_WA_00005,Washington,0,1,state_fold_1,Washington,1164
+NEG_KMN_WA_00006_Washington_01165,NEG_KMN_WA_00006,Washington,0,1,state_fold_1,Washington,1165
+NEG_KMN_WA_00007_Washington_01166,NEG_KMN_WA_00007,Washington,0,1,state_fold_1,Washington,1166
+NEG_KMN_WA_00008_Washington_01167,NEG_KMN_WA_00008,Washington,0,1,state_fold_1,Washington,1167
+NEG_KMN_WA_00009_Washington_01168,NEG_KMN_WA_00009,Washington,0,1,state_fold_1,Washington,1168
+NEG_KMN_WA_00010_Washington_01169,NEG_KMN_WA_00010,Washington,0,1,state_fold_1,Washington,1169
+NEG_KMN_WA_00011_Washington_01170,NEG_KMN_WA_00011,Washington,0,1,state_fold_1,Washington,1170
+NEG_KMN_WA_00012_Washington_01171,NEG_KMN_WA_00012,Washington,0,1,state_fold_1,Washington,1171
+NEG_KMN_WA_00013_Washington_01172,NEG_KMN_WA_00013,Washington,0,1,state_fold_1,Washington,1172
+NEG_KMN_WA_00014_Washington_01173,NEG_KMN_WA_00014,Washington,0,1,state_fold_1,Washington,1173
+NEG_KMN_WA_00015_Washington_01174,NEG_KMN_WA_00015,Washington,0,1,state_fold_1,Washington,1174
+NEG_KMN_WA_00016_Washington_01175,NEG_KMN_WA_00016,Washington,0,1,state_fold_1,Washington,1175
+NEG_KMN_WA_00017_Washington_01176,NEG_KMN_WA_00017,Washington,0,1,state_fold_1,Washington,1176
+NEG_KMN_WA_00018_Washington_01177,NEG_KMN_WA_00018,Washington,0,1,state_fold_1,Washington,1177
+NEG_KMN_WA_00019_Washington_01178,NEG_KMN_WA_00019,Washington,0,1,state_fold_1,Washington,1178
+NEG_KMN_WA_00020_Washington_01179,NEG_KMN_WA_00020,Washington,0,1,state_fold_1,Washington,1179
+NEG_KMN_WA_00021_Washington_01180,NEG_KMN_WA_00021,Washington,0,1,state_fold_1,Washington,1180
+NEG_KMN_WA_00022_Washington_01181,NEG_KMN_WA_00022,Washington,0,1,state_fold_1,Washington,1181
+NEG_KMN_WA_00023_Washington_01182,NEG_KMN_WA_00023,Washington,0,1,state_fold_1,Washington,1182
+NEG_KMN_WA_00024_Washington_01183,NEG_KMN_WA_00024,Washington,0,1,state_fold_1,Washington,1183
+NEG_KMN_WA_00025_Washington_01184,NEG_KMN_WA_00025,Washington,0,1,state_fold_1,Washington,1184
+NEG_KMN_WA_00026_Washington_01185,NEG_KMN_WA_00026,Washington,0,1,state_fold_1,Washington,1185
+NEG_KMN_WA_00027_Washington_01186,NEG_KMN_WA_00027,Washington,0,1,state_fold_1,Washington,1186
+NEG_KMN_WA_00028_Washington_01187,NEG_KMN_WA_00028,Washington,0,1,state_fold_1,Washington,1187
+NEG_KMN_WA_00029_Washington_01188,NEG_KMN_WA_00029,Washington,0,1,state_fold_1,Washington,1188
+NEG_KMN_WA_00030_Washington_01189,NEG_KMN_WA_00030,Washington,0,1,state_fold_1,Washington,1189
+NEG_KMN_WA_00031_Washington_01190,NEG_KMN_WA_00031,Washington,0,1,state_fold_1,Washington,1190
+NEG_KMN_WA_00032_Washington_01191,NEG_KMN_WA_00032,Washington,0,1,state_fold_1,Washington,1191
+NEG_KMN_WA_00033_Washington_01192,NEG_KMN_WA_00033,Washington,0,1,state_fold_1,Washington,1192
+NEG_KMN_WA_00034_Washington_01193,NEG_KMN_WA_00034,Washington,0,1,state_fold_1,Washington,1193
+NEG_KMN_WA_00035_Washington_01194,NEG_KMN_WA_00035,Washington,0,1,state_fold_1,Washington,1194
+NEG_KMN_WA_00036_Washington_01195,NEG_KMN_WA_00036,Washington,0,1,state_fold_1,Washington,1195
+NEG_KMN_WA_00037_Washington_01196,NEG_KMN_WA_00037,Washington,0,1,state_fold_1,Washington,1196
+NEG_KMN_WA_00038_Washington_01197,NEG_KMN_WA_00038,Washington,0,1,state_fold_1,Washington,1197
+NEG_KMN_WA_00039_Washington_01198,NEG_KMN_WA_00039,Washington,0,1,state_fold_1,Washington,1198
+NEG_KMN_WA_00040_Washington_01199,NEG_KMN_WA_00040,Washington,0,1,state_fold_1,Washington,1199
+NEG_KMN_WA_00041_Washington_01200,NEG_KMN_WA_00041,Washington,0,1,state_fold_1,Washington,1200
+NEG_KMN_WA_00042_Washington_01201,NEG_KMN_WA_00042,Washington,0,1,state_fold_1,Washington,1201
+NEG_KMN_WA_00043_Washington_01202,NEG_KMN_WA_00043,Washington,0,1,state_fold_1,Washington,1202
+NEG_KMN_WA_00044_Washington_01203,NEG_KMN_WA_00044,Washington,0,1,state_fold_1,Washington,1203
+NEG_KMN_WA_00045_Washington_01204,NEG_KMN_WA_00045,Washington,0,1,state_fold_1,Washington,1204
+NEG_KMN_WA_00046_Washington_01205,NEG_KMN_WA_00046,Washington,0,1,state_fold_1,Washington,1205
+NEG_KMN_WA_00047_Washington_01206,NEG_KMN_WA_00047,Washington,0,1,state_fold_1,Washington,1206
+NEG_KMN_WA_00048_Washington_01207,NEG_KMN_WA_00048,Washington,0,1,state_fold_1,Washington,1207
+NEG_KMN_WA_00049_Washington_01208,NEG_KMN_WA_00049,Washington,0,1,state_fold_1,Washington,1208
+NEG_KMN_WA_00050_Washington_01209,NEG_KMN_WA_00050,Washington,0,1,state_fold_1,Washington,1209
+NEG_KMN_WA_00051_Washington_01210,NEG_KMN_WA_00051,Washington,0,1,state_fold_1,Washington,1210
+NEG_KMN_WA_00052_Washington_01211,NEG_KMN_WA_00052,Washington,0,1,state_fold_1,Washington,1211
+NEG_KMN_WA_00053_Washington_01212,NEG_KMN_WA_00053,Washington,0,1,state_fold_1,Washington,1212
+NEG_KMN_WA_00054_Washington_01213,NEG_KMN_WA_00054,Washington,0,1,state_fold_1,Washington,1213
+NEG_KMN_WA_00055_Washington_01214,NEG_KMN_WA_00055,Washington,0,1,state_fold_1,Washington,1214
+NEG_KMN_WA_00056_Washington_01215,NEG_KMN_WA_00056,Washington,0,1,state_fold_1,Washington,1215
+NEG_KMN_WA_00057_Washington_01216,NEG_KMN_WA_00057,Washington,0,1,state_fold_1,Washington,1216
+NEG_KMN_WA_00058_Washington_01217,NEG_KMN_WA_00058,Washington,0,1,state_fold_1,Washington,1217
+NEG_KMN_WA_00059_Washington_01218,NEG_KMN_WA_00059,Washington,0,1,state_fold_1,Washington,1218
+NEG_KMN_WA_00060_Washington_01219,NEG_KMN_WA_00060,Washington,0,1,state_fold_1,Washington,1219
+NEG_KMN_WA_00061_Washington_01220,NEG_KMN_WA_00061,Washington,0,1,state_fold_1,Washington,1220
+NEG_KMN_WA_00062_Washington_01221,NEG_KMN_WA_00062,Washington,0,1,state_fold_1,Washington,1221
+NEG_KMN_WA_00063_Washington_01222,NEG_KMN_WA_00063,Washington,0,1,state_fold_1,Washington,1222
+NEG_KMN_WA_00064_Washington_01223,NEG_KMN_WA_00064,Washington,0,1,state_fold_1,Washington,1223
+NEG_KMN_WA_00065_Washington_01224,NEG_KMN_WA_00065,Washington,0,1,state_fold_1,Washington,1224
+NEG_KMN_WA_00066_Washington_01225,NEG_KMN_WA_00066,Washington,0,1,state_fold_1,Washington,1225
+NEG_KMN_WA_00067_Washington_01226,NEG_KMN_WA_00067,Washington,0,1,state_fold_1,Washington,1226
+NEG_KMN_WA_00068_Washington_01227,NEG_KMN_WA_00068,Washington,0,1,state_fold_1,Washington,1227
+NEG_KMN_WA_00069_Washington_01228,NEG_KMN_WA_00069,Washington,0,1,state_fold_1,Washington,1228
+NEG_KMN_WA_00070_Washington_01229,NEG_KMN_WA_00070,Washington,0,1,state_fold_1,Washington,1229
+NEG_KMN_WA_00071_Washington_01230,NEG_KMN_WA_00071,Washington,0,1,state_fold_1,Washington,1230
+NEG_KMN_WA_00072_Washington_01231,NEG_KMN_WA_00072,Washington,0,1,state_fold_1,Washington,1231
+NEG_KMN_WA_00073_Washington_01232,NEG_KMN_WA_00073,Washington,0,1,state_fold_1,Washington,1232
+NEG_KMN_WA_00074_Washington_01233,NEG_KMN_WA_00074,Washington,0,1,state_fold_1,Washington,1233
+NEG_KMN_WA_00075_Washington_01234,NEG_KMN_WA_00075,Washington,0,1,state_fold_1,Washington,1234
+NEG_KMN_WA_00076_Washington_01235,NEG_KMN_WA_00076,Washington,0,1,state_fold_1,Washington,1235
+NEG_KMN_WA_00077_Washington_01236,NEG_KMN_WA_00077,Washington,0,1,state_fold_1,Washington,1236
+NEG_KMN_WA_00078_Washington_01237,NEG_KMN_WA_00078,Washington,0,1,state_fold_1,Washington,1237
+NEG_KMN_WA_00079_Washington_01238,NEG_KMN_WA_00079,Washington,0,1,state_fold_1,Washington,1238
+NEG_KMN_WA_00080_Washington_01239,NEG_KMN_WA_00080,Washington,0,1,state_fold_1,Washington,1239
+NEG_KMN_WA_00081_Washington_01240,NEG_KMN_WA_00081,Washington,0,1,state_fold_1,Washington,1240
+NEG_KMN_WA_00082_Washington_01241,NEG_KMN_WA_00082,Washington,0,1,state_fold_1,Washington,1241
+NEG_KMN_WA_00083_Washington_01242,NEG_KMN_WA_00083,Washington,0,1,state_fold_1,Washington,1242
+NEG_KMN_WA_00084_Washington_01243,NEG_KMN_WA_00084,Washington,0,1,state_fold_1,Washington,1243
+NEG_KMN_WA_00085_Washington_01244,NEG_KMN_WA_00085,Washington,0,1,state_fold_1,Washington,1244
+NEG_KMN_WA_00086_Washington_01245,NEG_KMN_WA_00086,Washington,0,1,state_fold_1,Washington,1245
+NEG_KMN_WA_00087_Washington_01246,NEG_KMN_WA_00087,Washington,0,1,state_fold_1,Washington,1246
+NEG_KMN_WA_00088_Washington_01247,NEG_KMN_WA_00088,Washington,0,1,state_fold_1,Washington,1247
+NEG_KMN_WA_00089_Washington_01248,NEG_KMN_WA_00089,Washington,0,1,state_fold_1,Washington,1248
+NEG_KMN_WA_00090_Washington_01249,NEG_KMN_WA_00090,Washington,0,1,state_fold_1,Washington,1249
+NEG_KMN_WA_00091_Washington_01250,NEG_KMN_WA_00091,Washington,0,1,state_fold_1,Washington,1250
+NEG_KMN_WA_00092_Washington_01251,NEG_KMN_WA_00092,Washington,0,1,state_fold_1,Washington,1251
+NEG_KMN_WA_00093_Washington_01252,NEG_KMN_WA_00093,Washington,0,1,state_fold_1,Washington,1252
+NEG_KMN_WA_00094_Washington_01253,NEG_KMN_WA_00094,Washington,0,1,state_fold_1,Washington,1253
+NEG_KMN_WA_00095_Washington_01254,NEG_KMN_WA_00095,Washington,0,1,state_fold_1,Washington,1254
+NEG_KMN_WA_00096_Washington_01255,NEG_KMN_WA_00096,Washington,0,1,state_fold_1,Washington,1255
+NEG_KMN_WA_00097_Washington_01256,NEG_KMN_WA_00097,Washington,0,1,state_fold_1,Washington,1256
+NEG_KMN_WA_00098_Washington_01257,NEG_KMN_WA_00098,Washington,0,1,state_fold_1,Washington,1257
+NEG_KMN_WA_00099_Washington_01258,NEG_KMN_WA_00099,Washington,0,1,state_fold_1,Washington,1258
+NEG_KMN_WA_00100_Washington_01259,NEG_KMN_WA_00100,Washington,0,1,state_fold_1,Washington,1259
+NEG_KMN_WA_00101_Washington_01260,NEG_KMN_WA_00101,Washington,0,1,state_fold_1,Washington,1260
+NEG_KMN_WA_00102_Washington_01261,NEG_KMN_WA_00102,Washington,0,1,state_fold_1,Washington,1261
+NEG_KMN_WA_00103_Washington_01262,NEG_KMN_WA_00103,Washington,0,1,state_fold_1,Washington,1262
+NEG_KMN_WA_00104_Washington_01263,NEG_KMN_WA_00104,Washington,0,1,state_fold_1,Washington,1263
+NEG_KMN_WA_00105_Washington_01264,NEG_KMN_WA_00105,Washington,0,1,state_fold_1,Washington,1264
+NEG_KMN_WA_00106_Washington_01265,NEG_KMN_WA_00106,Washington,0,1,state_fold_1,Washington,1265
+NEG_KMN_WA_00107_Washington_01266,NEG_KMN_WA_00107,Washington,0,1,state_fold_1,Washington,1266
+NEG_KMN_WA_00108_Washington_01267,NEG_KMN_WA_00108,Washington,0,1,state_fold_1,Washington,1267
+NEG_KMN_WA_00109_Washington_01268,NEG_KMN_WA_00109,Washington,0,1,state_fold_1,Washington,1268
+NEG_KMN_WA_00110_Washington_01269,NEG_KMN_WA_00110,Washington,0,1,state_fold_1,Washington,1269
+NEG_KMN_WA_00111_Washington_01270,NEG_KMN_WA_00111,Washington,0,1,state_fold_1,Washington,1270
+NEG_KMN_WA_00112_Washington_01271,NEG_KMN_WA_00112,Washington,0,1,state_fold_1,Washington,1271
+NEG_KMN_WA_00113_Washington_01272,NEG_KMN_WA_00113,Washington,0,1,state_fold_1,Washington,1272
+NEG_KMN_WA_00114_Washington_01273,NEG_KMN_WA_00114,Washington,0,1,state_fold_1,Washington,1273
+NEG_KMN_WA_00115_Washington_01274,NEG_KMN_WA_00115,Washington,0,1,state_fold_1,Washington,1274
+NEG_KMN_WA_00116_Washington_01275,NEG_KMN_WA_00116,Washington,0,1,state_fold_1,Washington,1275
+NEG_KMN_WA_00117_Washington_01276,NEG_KMN_WA_00117,Washington,0,1,state_fold_1,Washington,1276
+NEG_KMN_WA_00118_Washington_01277,NEG_KMN_WA_00118,Washington,0,1,state_fold_1,Washington,1277
+NEG_KMN_WA_00119_Washington_01278,NEG_KMN_WA_00119,Washington,0,1,state_fold_1,Washington,1278
+NEG_KMN_WA_00120_Washington_01279,NEG_KMN_WA_00120,Washington,0,1,state_fold_1,Washington,1279
+NEG_KMN_WA_00121_Washington_01280,NEG_KMN_WA_00121,Washington,0,1,state_fold_1,Washington,1280
+NEG_KMN_WA_00122_Washington_01281,NEG_KMN_WA_00122,Washington,0,1,state_fold_1,Washington,1281
+NEG_KMN_WA_00123_Washington_01282,NEG_KMN_WA_00123,Washington,0,1,state_fold_1,Washington,1282
+NEG_KMN_WA_00124_Washington_01283,NEG_KMN_WA_00124,Washington,0,1,state_fold_1,Washington,1283
+NEG_KMN_WA_00125_Washington_01284,NEG_KMN_WA_00125,Washington,0,1,state_fold_1,Washington,1284
+NEG_KMN_WA_00126_Washington_01285,NEG_KMN_WA_00126,Washington,0,1,state_fold_1,Washington,1285
+NEG_KMN_WA_00127_Washington_01286,NEG_KMN_WA_00127,Washington,0,1,state_fold_1,Washington,1286
+NEG_KMN_WA_00128_Washington_01287,NEG_KMN_WA_00128,Washington,0,1,state_fold_1,Washington,1287
+NEG_KMN_WA_00129_Washington_01288,NEG_KMN_WA_00129,Washington,0,1,state_fold_1,Washington,1288
+NEG_KMN_WA_00130_Washington_01289,NEG_KMN_WA_00130,Washington,0,1,state_fold_1,Washington,1289
+NEG_KMN_WA_00131_Washington_01290,NEG_KMN_WA_00131,Washington,0,1,state_fold_1,Washington,1290
+NEG_KMN_WA_00132_Washington_01291,NEG_KMN_WA_00132,Washington,0,1,state_fold_1,Washington,1291
+NEG_KMN_WA_00133_Washington_01292,NEG_KMN_WA_00133,Washington,0,1,state_fold_1,Washington,1292
+NEG_KMN_WA_00134_Washington_01293,NEG_KMN_WA_00134,Washington,0,1,state_fold_1,Washington,1293
+NEG_KMN_WA_00135_Washington_01294,NEG_KMN_WA_00135,Washington,0,1,state_fold_1,Washington,1294
+NEG_KMN_WA_00136_Washington_01295,NEG_KMN_WA_00136,Washington,0,1,state_fold_1,Washington,1295
+NEG_KMN_WA_00137_Washington_01296,NEG_KMN_WA_00137,Washington,0,1,state_fold_1,Washington,1296
+NEG_KMN_WA_00138_Washington_01297,NEG_KMN_WA_00138,Washington,0,1,state_fold_1,Washington,1297
+NEG_KMN_WA_00139_Washington_01298,NEG_KMN_WA_00139,Washington,0,1,state_fold_1,Washington,1298
+NEG_KMN_WA_00140_Washington_01299,NEG_KMN_WA_00140,Washington,0,1,state_fold_1,Washington,1299
+NEG_KMN_WA_00141_Washington_01300,NEG_KMN_WA_00141,Washington,0,1,state_fold_1,Washington,1300
+NEG_KMN_WA_00142_Washington_01301,NEG_KMN_WA_00142,Washington,0,1,state_fold_1,Washington,1301
+NEG_KMN_WA_00143_Washington_01302,NEG_KMN_WA_00143,Washington,0,1,state_fold_1,Washington,1302
+NEG_KMN_WA_00144_Washington_01303,NEG_KMN_WA_00144,Washington,0,1,state_fold_1,Washington,1303
+NEG_KMN_WA_00145_Washington_01304,NEG_KMN_WA_00145,Washington,0,1,state_fold_1,Washington,1304
+NEG_KMN_WA_00146_Washington_01305,NEG_KMN_WA_00146,Washington,0,1,state_fold_1,Washington,1305
+NEG_KMN_WA_00147_Washington_01306,NEG_KMN_WA_00147,Washington,0,1,state_fold_1,Washington,1306
+NEG_KMN_WA_00148_Washington_01307,NEG_KMN_WA_00148,Washington,0,1,state_fold_1,Washington,1307
+NEG_KMN_WA_00149_Washington_01308,NEG_KMN_WA_00149,Washington,0,1,state_fold_1,Washington,1308
+NEG_KMN_WA_00150_Washington_01309,NEG_KMN_WA_00150,Washington,0,1,state_fold_1,Washington,1309
+NEG_KMN_WA_00151_Washington_01310,NEG_KMN_WA_00151,Washington,0,1,state_fold_1,Washington,1310
+NEG_KMN_WA_00152_Washington_01311,NEG_KMN_WA_00152,Washington,0,1,state_fold_1,Washington,1311
+NEG_KMN_WA_00153_Washington_01312,NEG_KMN_WA_00153,Washington,0,1,state_fold_1,Washington,1312
+NEG_KMN_WA_00154_Washington_01313,NEG_KMN_WA_00154,Washington,0,1,state_fold_1,Washington,1313
+NEG_KMN_WA_00155_Washington_01314,NEG_KMN_WA_00155,Washington,0,1,state_fold_1,Washington,1314
+NEG_KMN_WA_00156_Washington_01315,NEG_KMN_WA_00156,Washington,0,1,state_fold_1,Washington,1315
+NEG_KMN_WA_00157_Washington_01316,NEG_KMN_WA_00157,Washington,0,1,state_fold_1,Washington,1316
+NEG_KMN_WA_00158_Washington_01317,NEG_KMN_WA_00158,Washington,0,1,state_fold_1,Washington,1317
+NEG_KMN_WA_00159_Washington_01318,NEG_KMN_WA_00159,Washington,0,1,state_fold_1,Washington,1318
+NEG_KMN_WA_00160_Washington_01319,NEG_KMN_WA_00160,Washington,0,1,state_fold_1,Washington,1319
+NEG_KMN_WA_00161_Washington_01320,NEG_KMN_WA_00161,Washington,0,1,state_fold_1,Washington,1320
+NEG_KMN_WA_00162_Washington_01321,NEG_KMN_WA_00162,Washington,0,1,state_fold_1,Washington,1321
+NEG_KMN_WA_00163_Washington_01322,NEG_KMN_WA_00163,Washington,0,1,state_fold_1,Washington,1322
+NEG_KMN_WA_00164_Washington_01323,NEG_KMN_WA_00164,Washington,0,1,state_fold_1,Washington,1323
+NEG_KMN_WA_00165_Washington_01324,NEG_KMN_WA_00165,Washington,0,1,state_fold_1,Washington,1324
+NEG_KMN_WA_00166_Washington_01325,NEG_KMN_WA_00166,Washington,0,1,state_fold_1,Washington,1325
+NEG_KMN_WA_00167_Washington_01326,NEG_KMN_WA_00167,Washington,0,1,state_fold_1,Washington,1326
+NEG_KMN_WA_00168_Washington_01327,NEG_KMN_WA_00168,Washington,0,1,state_fold_1,Washington,1327
+NEG_KMN_WA_00169_Washington_01328,NEG_KMN_WA_00169,Washington,0,1,state_fold_1,Washington,1328
+NEG_KMN_WA_00170_Washington_01329,NEG_KMN_WA_00170,Washington,0,1,state_fold_1,Washington,1329
+NEG_KMN_WA_00171_Washington_01330,NEG_KMN_WA_00171,Washington,0,1,state_fold_1,Washington,1330
+NEG_KMN_WA_00172_Washington_01331,NEG_KMN_WA_00172,Washington,0,1,state_fold_1,Washington,1331
+NEG_KMN_WA_00173_Washington_01332,NEG_KMN_WA_00173,Washington,0,1,state_fold_1,Washington,1332
+NEG_KMN_WA_00174_Washington_01333,NEG_KMN_WA_00174,Washington,0,1,state_fold_1,Washington,1333
+NEG_KMN_WA_00175_Washington_01334,NEG_KMN_WA_00175,Washington,0,1,state_fold_1,Washington,1334
+NEG_KMN_WA_00176_Washington_01335,NEG_KMN_WA_00176,Washington,0,1,state_fold_1,Washington,1335
+NEG_KMN_WA_00177_Washington_01336,NEG_KMN_WA_00177,Washington,0,1,state_fold_1,Washington,1336
+NEG_KMN_WA_00178_Washington_01337,NEG_KMN_WA_00178,Washington,0,1,state_fold_1,Washington,1337
+NEG_KMN_WA_00179_Washington_01338,NEG_KMN_WA_00179,Washington,0,1,state_fold_1,Washington,1338
+NEG_KMN_WA_00180_Washington_01339,NEG_KMN_WA_00180,Washington,0,1,state_fold_1,Washington,1339
+NEG_KMN_WA_00181_Washington_01340,NEG_KMN_WA_00181,Washington,0,1,state_fold_1,Washington,1340
+NEG_KMN_WA_00182_Washington_01341,NEG_KMN_WA_00182,Washington,0,1,state_fold_1,Washington,1341
+NEG_KMN_WA_00183_Washington_01342,NEG_KMN_WA_00183,Washington,0,1,state_fold_1,Washington,1342
+NEG_KMN_WA_00184_Washington_01343,NEG_KMN_WA_00184,Washington,0,1,state_fold_1,Washington,1343
+NEG_KMN_WA_00185_Washington_01344,NEG_KMN_WA_00185,Washington,0,1,state_fold_1,Washington,1344
+NEG_KMN_WA_00186_Washington_01345,NEG_KMN_WA_00186,Washington,0,1,state_fold_1,Washington,1345
+NEG_KMN_WA_00187_Washington_01346,NEG_KMN_WA_00187,Washington,0,1,state_fold_1,Washington,1346
+NEG_KMN_WA_00188_Washington_01347,NEG_KMN_WA_00188,Washington,0,1,state_fold_1,Washington,1347
+NEG_KMN_WA_00189_Washington_01348,NEG_KMN_WA_00189,Washington,0,1,state_fold_1,Washington,1348
+NEG_KMN_WA_00190_Washington_01349,NEG_KMN_WA_00190,Washington,0,1,state_fold_1,Washington,1349
+NEG_KMN_WA_00191_Washington_01350,NEG_KMN_WA_00191,Washington,0,1,state_fold_1,Washington,1350
+NEG_KMN_WA_00192_Washington_01351,NEG_KMN_WA_00192,Washington,0,1,state_fold_1,Washington,1351
+NEG_KMN_WA_00193_Washington_01352,NEG_KMN_WA_00193,Washington,0,1,state_fold_1,Washington,1352
+NEG_KMN_WA_00194_Washington_01353,NEG_KMN_WA_00194,Washington,0,1,state_fold_1,Washington,1353
+NEG_KMN_WA_00195_Washington_01354,NEG_KMN_WA_00195,Washington,0,1,state_fold_1,Washington,1354
+NEG_KMN_WA_00196_Washington_01355,NEG_KMN_WA_00196,Washington,0,1,state_fold_1,Washington,1355
+NEG_KMN_WA_00197_Washington_01356,NEG_KMN_WA_00197,Washington,0,1,state_fold_1,Washington,1356
+NEG_KMN_WA_00198_Washington_01357,NEG_KMN_WA_00198,Washington,0,1,state_fold_1,Washington,1357
+NEG_KMN_WA_00199_Washington_01358,NEG_KMN_WA_00199,Washington,0,1,state_fold_1,Washington,1358
+NEG_KMN_WA_00200_Washington_01359,NEG_KMN_WA_00200,Washington,0,1,state_fold_1,Washington,1359
+NEG_KMN_WA_00201_Washington_01360,NEG_KMN_WA_00201,Washington,0,1,state_fold_1,Washington,1360
+NEG_KMN_WA_00202_Washington_01361,NEG_KMN_WA_00202,Washington,0,1,state_fold_1,Washington,1361
+NEG_KMN_WA_00203_Washington_01362,NEG_KMN_WA_00203,Washington,0,1,state_fold_1,Washington,1362
+NEG_KMN_WA_00204_Washington_01363,NEG_KMN_WA_00204,Washington,0,1,state_fold_1,Washington,1363
+NEG_KMN_WA_00205_Washington_01364,NEG_KMN_WA_00205,Washington,0,1,state_fold_1,Washington,1364
+NEG_KMN_WA_00206_Washington_01365,NEG_KMN_WA_00206,Washington,0,1,state_fold_1,Washington,1365
+NEG_KMN_WA_00207_Washington_01366,NEG_KMN_WA_00207,Washington,0,1,state_fold_1,Washington,1366
+NEG_KMN_WA_00208_Washington_01367,NEG_KMN_WA_00208,Washington,0,1,state_fold_1,Washington,1367
+NEG_KMN_WA_00209_Washington_01368,NEG_KMN_WA_00209,Washington,0,1,state_fold_1,Washington,1368
+NEG_KMN_WA_00210_Washington_01369,NEG_KMN_WA_00210,Washington,0,1,state_fold_1,Washington,1369
+NEG_KMN_WA_00211_Washington_01370,NEG_KMN_WA_00211,Washington,0,1,state_fold_1,Washington,1370
+NEG_KMN_WA_00212_Washington_01371,NEG_KMN_WA_00212,Washington,0,1,state_fold_1,Washington,1371
+NEG_KMN_WA_00213_Washington_01372,NEG_KMN_WA_00213,Washington,0,1,state_fold_1,Washington,1372
+NEG_KMN_WA_00214_Washington_01373,NEG_KMN_WA_00214,Washington,0,1,state_fold_1,Washington,1373
+NEG_KMN_WA_00215_Washington_01374,NEG_KMN_WA_00215,Washington,0,1,state_fold_1,Washington,1374
+NEG_KMN_WA_00216_Washington_01375,NEG_KMN_WA_00216,Washington,0,1,state_fold_1,Washington,1375
+NEG_KMN_WA_00217_Washington_01376,NEG_KMN_WA_00217,Washington,0,1,state_fold_1,Washington,1376
+NEG_KMN_WA_00218_Washington_01377,NEG_KMN_WA_00218,Washington,0,1,state_fold_1,Washington,1377
+NEG_KMN_WA_00219_Washington_01378,NEG_KMN_WA_00219,Washington,0,1,state_fold_1,Washington,1378
+NEG_KMN_WA_00220_Washington_01379,NEG_KMN_WA_00220,Washington,0,1,state_fold_1,Washington,1379
+NEG_KMN_WA_00221_Washington_01380,NEG_KMN_WA_00221,Washington,0,1,state_fold_1,Washington,1380
+NEG_KMN_WA_00222_Washington_01381,NEG_KMN_WA_00222,Washington,0,1,state_fold_1,Washington,1381
+NEG_KMN_WA_00223_Washington_01382,NEG_KMN_WA_00223,Washington,0,1,state_fold_1,Washington,1382
+NEG_KMN_WA_00224_Washington_01383,NEG_KMN_WA_00224,Washington,0,1,state_fold_1,Washington,1383
+NEG_KMN_WA_00225_Washington_01384,NEG_KMN_WA_00225,Washington,0,1,state_fold_1,Washington,1384
+NEG_KMN_WA_00226_Washington_01385,NEG_KMN_WA_00226,Washington,0,1,state_fold_1,Washington,1385
+NEG_KMN_WA_00227_Washington_01386,NEG_KMN_WA_00227,Washington,0,1,state_fold_1,Washington,1386
+NEG_KMN_WA_00228_Washington_01387,NEG_KMN_WA_00228,Washington,0,1,state_fold_1,Washington,1387
+NEG_KMN_WA_00229_Washington_01388,NEG_KMN_WA_00229,Washington,0,1,state_fold_1,Washington,1388
+NEG_KMN_WA_00230_Washington_01389,NEG_KMN_WA_00230,Washington,0,1,state_fold_1,Washington,1389
+NEG_KMN_WA_00231_Washington_01390,NEG_KMN_WA_00231,Washington,0,1,state_fold_1,Washington,1390
+NEG_KMN_WA_00232_Washington_01391,NEG_KMN_WA_00232,Washington,0,1,state_fold_1,Washington,1391
+NEG_KMN_WA_00233_Washington_01392,NEG_KMN_WA_00233,Washington,0,1,state_fold_1,Washington,1392
+NEG_KMN_WA_00234_Washington_01393,NEG_KMN_WA_00234,Washington,0,1,state_fold_1,Washington,1393
+NEG_KMN_WA_00235_Washington_01394,NEG_KMN_WA_00235,Washington,0,1,state_fold_1,Washington,1394
+NEG_KMN_WA_00236_Washington_01395,NEG_KMN_WA_00236,Washington,0,1,state_fold_1,Washington,1395
+NEG_KMN_WA_00237_Washington_01396,NEG_KMN_WA_00237,Washington,0,1,state_fold_1,Washington,1396
+NEG_KMN_WA_00238_Washington_01397,NEG_KMN_WA_00238,Washington,0,1,state_fold_1,Washington,1397
+NEG_KMN_WA_00239_Washington_01398,NEG_KMN_WA_00239,Washington,0,1,state_fold_1,Washington,1398
+NEG_KMN_WA_00240_Washington_01399,NEG_KMN_WA_00240,Washington,0,1,state_fold_1,Washington,1399
+NEG_KMN_WA_00241_Washington_01400,NEG_KMN_WA_00241,Washington,0,1,state_fold_1,Washington,1400
+NEG_KMN_WA_00242_Washington_01401,NEG_KMN_WA_00242,Washington,0,1,state_fold_1,Washington,1401
+NEG_KMN_WA_00243_Washington_01402,NEG_KMN_WA_00243,Washington,0,1,state_fold_1,Washington,1402
+NEG_KMN_WA_00244_Washington_01403,NEG_KMN_WA_00244,Washington,0,1,state_fold_1,Washington,1403
+NEG_KMN_WA_00245_Washington_01404,NEG_KMN_WA_00245,Washington,0,1,state_fold_1,Washington,1404
+NEG_KMN_WA_00246_Washington_01405,NEG_KMN_WA_00246,Washington,0,1,state_fold_1,Washington,1405
+NEG_KMN_WA_00247_Washington_01406,NEG_KMN_WA_00247,Washington,0,1,state_fold_1,Washington,1406
+NEG_KMN_WA_00248_Washington_01407,NEG_KMN_WA_00248,Washington,0,1,state_fold_1,Washington,1407
+NEG_KMN_WA_00249_Washington_01408,NEG_KMN_WA_00249,Washington,0,1,state_fold_1,Washington,1408
+NEG_KMN_WA_00250_Washington_01409,NEG_KMN_WA_00250,Washington,0,1,state_fold_1,Washington,1409
+NEG_KMN_WA_00251_Washington_01410,NEG_KMN_WA_00251,Washington,0,1,state_fold_1,Washington,1410
+NEG_KMN_WA_00252_Washington_01411,NEG_KMN_WA_00252,Washington,0,1,state_fold_1,Washington,1411
+NEG_KMN_WA_00253_Washington_01412,NEG_KMN_WA_00253,Washington,0,1,state_fold_1,Washington,1412
+NEG_KMN_WA_00254_Washington_01413,NEG_KMN_WA_00254,Washington,0,1,state_fold_1,Washington,1413
+NEG_KMN_WA_00255_Washington_01414,NEG_KMN_WA_00255,Washington,0,1,state_fold_1,Washington,1414
+NEG_KMN_WA_00256_Washington_01415,NEG_KMN_WA_00256,Washington,0,1,state_fold_1,Washington,1415
+NEG_KMN_WA_00257_Washington_01416,NEG_KMN_WA_00257,Washington,0,1,state_fold_1,Washington,1416
+NEG_KMN_WA_00258_Washington_01417,NEG_KMN_WA_00258,Washington,0,1,state_fold_1,Washington,1417
+NEG_KMN_WA_00259_Washington_01418,NEG_KMN_WA_00259,Washington,0,1,state_fold_1,Washington,1418
+NEG_KMN_WA_00260_Washington_01419,NEG_KMN_WA_00260,Washington,0,1,state_fold_1,Washington,1419
+NEG_KMN_WA_00261_Washington_01420,NEG_KMN_WA_00261,Washington,0,1,state_fold_1,Washington,1420
+NEG_KMN_WA_00262_Washington_01421,NEG_KMN_WA_00262,Washington,0,1,state_fold_1,Washington,1421
+NEG_KMN_WA_00263_Washington_01422,NEG_KMN_WA_00263,Washington,0,1,state_fold_1,Washington,1422
+NEG_KMN_WA_00264_Washington_01423,NEG_KMN_WA_00264,Washington,0,1,state_fold_1,Washington,1423
+NEG_KMN_WA_00265_Washington_01424,NEG_KMN_WA_00265,Washington,0,1,state_fold_1,Washington,1424
+NEG_KMN_WA_00266_Washington_01425,NEG_KMN_WA_00266,Washington,0,1,state_fold_1,Washington,1425
+NEG_KMN_WA_00267_Washington_01426,NEG_KMN_WA_00267,Washington,0,1,state_fold_1,Washington,1426
+NEG_KMN_WA_00268_Washington_01427,NEG_KMN_WA_00268,Washington,0,1,state_fold_1,Washington,1427
+NEG_KMN_WA_00269_Washington_01428,NEG_KMN_WA_00269,Washington,0,1,state_fold_1,Washington,1428
+NEG_KMN_WA_00270_Washington_01429,NEG_KMN_WA_00270,Washington,0,1,state_fold_1,Washington,1429
+NEG_KMN_WA_00271_Washington_01430,NEG_KMN_WA_00271,Washington,0,1,state_fold_1,Washington,1430
+NEG_KMN_WA_00272_Washington_01431,NEG_KMN_WA_00272,Washington,0,1,state_fold_1,Washington,1431
+NEG_KMN_WA_00273_Washington_01432,NEG_KMN_WA_00273,Washington,0,1,state_fold_1,Washington,1432
+NEG_KMN_WA_00274_Washington_01433,NEG_KMN_WA_00274,Washington,0,1,state_fold_1,Washington,1433
+NEG_KMN_WA_00275_Washington_01434,NEG_KMN_WA_00275,Washington,0,1,state_fold_1,Washington,1434
+NEG_KMN_WA_00276_Washington_01435,NEG_KMN_WA_00276,Washington,0,1,state_fold_1,Washington,1435
+NEG_KMN_WA_00277_Washington_01436,NEG_KMN_WA_00277,Washington,0,1,state_fold_1,Washington,1436
+NEG_KMN_WA_00278_Washington_01437,NEG_KMN_WA_00278,Washington,0,1,state_fold_1,Washington,1437
+NEG_KMN_WA_00279_Washington_01438,NEG_KMN_WA_00279,Washington,0,1,state_fold_1,Washington,1438
+NEG_KMN_WA_00280_Washington_01439,NEG_KMN_WA_00280,Washington,0,1,state_fold_1,Washington,1439
+NEG_KMN_WA_00281_Washington_01440,NEG_KMN_WA_00281,Washington,0,1,state_fold_1,Washington,1440
+NEG_KMN_WA_00282_Washington_01441,NEG_KMN_WA_00282,Washington,0,1,state_fold_1,Washington,1441
+NEG_KMN_WA_00283_Washington_01442,NEG_KMN_WA_00283,Washington,0,1,state_fold_1,Washington,1442
+NEG_KMN_WA_00284_Washington_01443,NEG_KMN_WA_00284,Washington,0,1,state_fold_1,Washington,1443
+NEG_KMN_WA_00285_Washington_01444,NEG_KMN_WA_00285,Washington,0,1,state_fold_1,Washington,1444
+NEG_KMN_WA_00286_Washington_01445,NEG_KMN_WA_00286,Washington,0,1,state_fold_1,Washington,1445
+NEG_KMN_WA_00287_Washington_01446,NEG_KMN_WA_00287,Washington,0,1,state_fold_1,Washington,1446
+NEG_KMN_WA_00288_Washington_01447,NEG_KMN_WA_00288,Washington,0,1,state_fold_1,Washington,1447
+NEG_KMN_WA_00289_Washington_01448,NEG_KMN_WA_00289,Washington,0,1,state_fold_1,Washington,1448
+NEG_KMN_WA_00290_Washington_01449,NEG_KMN_WA_00290,Washington,0,1,state_fold_1,Washington,1449
+NEG_KMN_WA_00291_Washington_01450,NEG_KMN_WA_00291,Washington,0,1,state_fold_1,Washington,1450
+NEG_KMN_WA_00292_Washington_01451,NEG_KMN_WA_00292,Washington,0,1,state_fold_1,Washington,1451
+NEG_KMN_WA_00293_Washington_01452,NEG_KMN_WA_00293,Washington,0,1,state_fold_1,Washington,1452
+NEG_KMN_WA_00294_Washington_01453,NEG_KMN_WA_00294,Washington,0,1,state_fold_1,Washington,1453
+NEG_KMN_WA_00295_Washington_01454,NEG_KMN_WA_00295,Washington,0,1,state_fold_1,Washington,1454
+NEG_KMN_WA_00296_Washington_01455,NEG_KMN_WA_00296,Washington,0,1,state_fold_1,Washington,1455
+NEG_KMN_WA_00297_Washington_01456,NEG_KMN_WA_00297,Washington,0,1,state_fold_1,Washington,1456
+NEG_KMN_WA_00298_Washington_01457,NEG_KMN_WA_00298,Washington,0,1,state_fold_1,Washington,1457
+NEG_KMN_WA_00299_Washington_01458,NEG_KMN_WA_00299,Washington,0,1,state_fold_1,Washington,1458
+NEG_KMN_WA_00300_Washington_01459,NEG_KMN_WA_00300,Washington,0,1,state_fold_1,Washington,1459
+NEG_KMN_WA_00301_Washington_01460,NEG_KMN_WA_00301,Washington,0,1,state_fold_1,Washington,1460
+NEG_KMN_WA_00302_Washington_01461,NEG_KMN_WA_00302,Washington,0,1,state_fold_1,Washington,1461
+NEG_KMN_WA_00303_Washington_01462,NEG_KMN_WA_00303,Washington,0,1,state_fold_1,Washington,1462
+NEG_KMN_WA_00304_Washington_01463,NEG_KMN_WA_00304,Washington,0,1,state_fold_1,Washington,1463
+NEG_KMN_WA_00305_Washington_01464,NEG_KMN_WA_00305,Washington,0,1,state_fold_1,Washington,1464
+NEG_KMN_WA_00306_Washington_01465,NEG_KMN_WA_00306,Washington,0,1,state_fold_1,Washington,1465
+NEG_KMN_WA_00307_Washington_01466,NEG_KMN_WA_00307,Washington,0,1,state_fold_1,Washington,1466
+NEG_KMN_WA_00308_Washington_01467,NEG_KMN_WA_00308,Washington,0,1,state_fold_1,Washington,1467
+NEG_KMN_WA_00309_Washington_01468,NEG_KMN_WA_00309,Washington,0,1,state_fold_1,Washington,1468
+NEG_KMN_WA_00310_Washington_01469,NEG_KMN_WA_00310,Washington,0,1,state_fold_1,Washington,1469
+NEG_KMN_WA_00311_Washington_01470,NEG_KMN_WA_00311,Washington,0,1,state_fold_1,Washington,1470
+NEG_KMN_WA_00312_Washington_01471,NEG_KMN_WA_00312,Washington,0,1,state_fold_1,Washington,1471
+NEG_KMN_WA_00313_Washington_01472,NEG_KMN_WA_00313,Washington,0,1,state_fold_1,Washington,1472
+NEG_KMN_WA_00314_Washington_01473,NEG_KMN_WA_00314,Washington,0,1,state_fold_1,Washington,1473
+NEG_KMN_WA_00315_Washington_01474,NEG_KMN_WA_00315,Washington,0,1,state_fold_1,Washington,1474
+NEG_KMN_WA_00316_Washington_01475,NEG_KMN_WA_00316,Washington,0,1,state_fold_1,Washington,1475
+NEG_KMN_WA_00317_Washington_01476,NEG_KMN_WA_00317,Washington,0,1,state_fold_1,Washington,1476
+NEG_KMN_WA_00318_Washington_01477,NEG_KMN_WA_00318,Washington,0,1,state_fold_1,Washington,1477
+NEG_KMN_WA_00319_Washington_01478,NEG_KMN_WA_00319,Washington,0,1,state_fold_1,Washington,1478
+NEG_KMN_WA_00320_Washington_01479,NEG_KMN_WA_00320,Washington,0,1,state_fold_1,Washington,1479
+NEG_KMN_WA_00321_Washington_01480,NEG_KMN_WA_00321,Washington,0,1,state_fold_1,Washington,1480
+NEG_KMN_WA_00322_Washington_01481,NEG_KMN_WA_00322,Washington,0,1,state_fold_1,Washington,1481
+NEG_KMN_WA_00323_Washington_01482,NEG_KMN_WA_00323,Washington,0,1,state_fold_1,Washington,1482
+NEG_KMN_WA_00324_Washington_01483,NEG_KMN_WA_00324,Washington,0,1,state_fold_1,Washington,1483
+NEG_KMN_WA_00325_Washington_01484,NEG_KMN_WA_00325,Washington,0,1,state_fold_1,Washington,1484
+NEG_KMN_WA_00326_Washington_01485,NEG_KMN_WA_00326,Washington,0,1,state_fold_1,Washington,1485
+NEG_KMN_WA_00327_Washington_01486,NEG_KMN_WA_00327,Washington,0,1,state_fold_1,Washington,1486
+NEG_KMN_WA_00328_Washington_01487,NEG_KMN_WA_00328,Washington,0,1,state_fold_1,Washington,1487
+NEG_KMN_WA_00329_Washington_01488,NEG_KMN_WA_00329,Washington,0,1,state_fold_1,Washington,1488
+NEG_KMN_WA_00330_Washington_01489,NEG_KMN_WA_00330,Washington,0,1,state_fold_1,Washington,1489
+NEG_KMN_WA_00331_Washington_01490,NEG_KMN_WA_00331,Washington,0,1,state_fold_1,Washington,1490
+NEG_KMN_WA_00332_Washington_01491,NEG_KMN_WA_00332,Washington,0,1,state_fold_1,Washington,1491
+NEG_KMN_WA_00333_Washington_01492,NEG_KMN_WA_00333,Washington,0,1,state_fold_1,Washington,1492
+NEG_KMN_WA_00334_Washington_01493,NEG_KMN_WA_00334,Washington,0,1,state_fold_1,Washington,1493
+NEG_KMN_WA_00335_Washington_01494,NEG_KMN_WA_00335,Washington,0,1,state_fold_1,Washington,1494
+NEG_KMN_WA_00336_Washington_01495,NEG_KMN_WA_00336,Washington,0,1,state_fold_1,Washington,1495
+NEG_KMN_WA_00337_Washington_01496,NEG_KMN_WA_00337,Washington,0,1,state_fold_1,Washington,1496
+NEG_KMN_WA_00338_Washington_01497,NEG_KMN_WA_00338,Washington,0,1,state_fold_1,Washington,1497
+NEG_KMN_WA_00339_Washington_01498,NEG_KMN_WA_00339,Washington,0,1,state_fold_1,Washington,1498
+NEG_KMN_WA_00340_Washington_01499,NEG_KMN_WA_00340,Washington,0,1,state_fold_1,Washington,1499
+NEG_KMN_WA_00341_Washington_01500,NEG_KMN_WA_00341,Washington,0,1,state_fold_1,Washington,1500
+NEG_KMN_WA_00342_Washington_01501,NEG_KMN_WA_00342,Washington,0,1,state_fold_1,Washington,1501
+NEG_KMN_WA_00343_Washington_01502,NEG_KMN_WA_00343,Washington,0,1,state_fold_1,Washington,1502
+NEG_KMN_WA_00344_Washington_01503,NEG_KMN_WA_00344,Washington,0,1,state_fold_1,Washington,1503
+NEG_KMN_WA_00345_Washington_01504,NEG_KMN_WA_00345,Washington,0,1,state_fold_1,Washington,1504
+NEG_KMN_WA_00346_Washington_01505,NEG_KMN_WA_00346,Washington,0,1,state_fold_1,Washington,1505
+NEG_KMN_WA_00347_Washington_01506,NEG_KMN_WA_00347,Washington,0,1,state_fold_1,Washington,1506
+NEG_KMN_WA_00348_Washington_01507,NEG_KMN_WA_00348,Washington,0,1,state_fold_1,Washington,1507
+NEG_KMN_WA_00349_Washington_01508,NEG_KMN_WA_00349,Washington,0,1,state_fold_1,Washington,1508
+NEG_KMN_WA_00350_Washington_01509,NEG_KMN_WA_00350,Washington,0,1,state_fold_1,Washington,1509
+NEG_KMN_WA_00351_Washington_01510,NEG_KMN_WA_00351,Washington,0,1,state_fold_1,Washington,1510
+NEG_KMN_WA_00352_Washington_01511,NEG_KMN_WA_00352,Washington,0,1,state_fold_1,Washington,1511
+NEG_KMN_WA_00353_Washington_01512,NEG_KMN_WA_00353,Washington,0,1,state_fold_1,Washington,1512
+NEG_KMN_WA_00354_Washington_01513,NEG_KMN_WA_00354,Washington,0,1,state_fold_1,Washington,1513
+NEG_KMN_WA_00355_Washington_01514,NEG_KMN_WA_00355,Washington,0,1,state_fold_1,Washington,1514
+NEG_KMN_WA_00356_Washington_01515,NEG_KMN_WA_00356,Washington,0,1,state_fold_1,Washington,1515
+NEG_KMN_WA_00357_Washington_01516,NEG_KMN_WA_00357,Washington,0,1,state_fold_1,Washington,1516
+NEG_KMN_WA_00358_Washington_01517,NEG_KMN_WA_00358,Washington,0,1,state_fold_1,Washington,1517
+NEG_KMN_WA_00359_Washington_01518,NEG_KMN_WA_00359,Washington,0,1,state_fold_1,Washington,1518
+NEG_KMN_WA_00360_Washington_01519,NEG_KMN_WA_00360,Washington,0,1,state_fold_1,Washington,1519
+NEG_KMN_WA_00361_Washington_01520,NEG_KMN_WA_00361,Washington,0,1,state_fold_1,Washington,1520
+NEG_KMN_WA_00362_Washington_01521,NEG_KMN_WA_00362,Washington,0,1,state_fold_1,Washington,1521
+NEG_KMN_WA_00363_Washington_01522,NEG_KMN_WA_00363,Washington,0,1,state_fold_1,Washington,1522
+NEG_KMN_WA_00364_Washington_01523,NEG_KMN_WA_00364,Washington,0,1,state_fold_1,Washington,1523
+NEG_KMN_WA_00365_Washington_01524,NEG_KMN_WA_00365,Washington,0,1,state_fold_1,Washington,1524
+NEG_KMN_WA_00366_Washington_01525,NEG_KMN_WA_00366,Washington,0,1,state_fold_1,Washington,1525
+NEG_KMN_WA_00367_Washington_01526,NEG_KMN_WA_00367,Washington,0,1,state_fold_1,Washington,1526
+NEG_KMN_WA_00368_Washington_01527,NEG_KMN_WA_00368,Washington,0,1,state_fold_1,Washington,1527
+NEG_KMN_WA_00369_Washington_01528,NEG_KMN_WA_00369,Washington,0,1,state_fold_1,Washington,1528
+NEG_KMN_WA_00370_Washington_01529,NEG_KMN_WA_00370,Washington,0,1,state_fold_1,Washington,1529
+POS_10008482_Washington_03160,POS_10008482,Washington,1,1,state_fold_1,Washington,1581
+POS_10008495_Washington_03161,POS_10008495,Washington,1,1,state_fold_1,Washington,1582
+POS_10009065_Washington_03162,POS_10009065,Washington,1,1,state_fold_1,Washington,1583
+POS_10036827_Washington_03172,POS_10036827,Washington,1,1,state_fold_1,Washington,1593
+POS_10041702_Washington_03185,POS_10041702,Washington,1,1,state_fold_1,Washington,1606
+POS_10042397_Washington_03187,POS_10042397,Washington,1,1,state_fold_1,Washington,1608
+POS_10047804_Washington_03197,POS_10047804,Washington,1,1,state_fold_1,Washington,1618
+POS_10047836_Washington_03198,POS_10047836,Washington,1,1,state_fold_1,Washington,1619
+POS_10048437_Washington_03201,POS_10048437,Washington,1,1,state_fold_1,Washington,1622
+POS_10048438_Washington_03202,POS_10048438,Washington,1,1,state_fold_1,Washington,1623
+POS_10048439_Washington_03203,POS_10048439,Washington,1,1,state_fold_1,Washington,1624
+POS_10048440_Washington_03204,POS_10048440,Washington,1,1,state_fold_1,Washington,1625
+POS_10048441_Washington_03205,POS_10048441,Washington,1,1,state_fold_1,Washington,1626
+POS_10048444_Washington_03206,POS_10048444,Washington,1,1,state_fold_1,Washington,1627
+POS_10048445_Washington_03207,POS_10048445,Washington,1,1,state_fold_1,Washington,1628
+POS_10048446_Washington_03208,POS_10048446,Washington,1,1,state_fold_1,Washington,1629
+POS_10048447_Washington_03209,POS_10048447,Washington,1,1,state_fold_1,Washington,1630
+POS_10048448_Washington_03210,POS_10048448,Washington,1,1,state_fold_1,Washington,1631
+POS_10048449_Washington_03211,POS_10048449,Washington,1,1,state_fold_1,Washington,1632
+POS_10048588_Washington_03212,POS_10048588,Washington,1,1,state_fold_1,Washington,1633
+POS_10048594_Washington_03213,POS_10048594,Washington,1,1,state_fold_1,Washington,1634
+POS_10048596_Washington_03214,POS_10048596,Washington,1,1,state_fold_1,Washington,1635
+POS_10048601_Washington_03215,POS_10048601,Washington,1,1,state_fold_1,Washington,1636
+POS_10048648_Washington_03216,POS_10048648,Washington,1,1,state_fold_1,Washington,1637
+POS_10048655_Washington_03217,POS_10048655,Washington,1,1,state_fold_1,Washington,1638
+POS_10055922_Washington_03221,POS_10055922,Washington,1,1,state_fold_1,Washington,1642
+POS_10055923_Washington_03222,POS_10055923,Washington,1,1,state_fold_1,Washington,1643
+POS_10056009_Washington_03223,POS_10056009,Washington,1,1,state_fold_1,Washington,1644
+POS_10095364_Washington_03234,POS_10095364,Washington,1,1,state_fold_1,Washington,1655
+POS_10095811_Washington_03235,POS_10095811,Washington,1,1,state_fold_1,Washington,1656
+POS_10097315_Washington_03238,POS_10097315,Washington,1,1,state_fold_1,Washington,1659
+POS_10101419_Washington_03242,POS_10101419,Washington,1,1,state_fold_1,Washington,1663
+POS_10107717_Washington_03246,POS_10107717,Washington,1,1,state_fold_1,Washington,1667
+POS_10107742_Washington_03247,POS_10107742,Washington,1,1,state_fold_1,Washington,1668
+POS_10131061_Washington_03255,POS_10131061,Washington,1,1,state_fold_1,Washington,1676
+POS_10277595_Washington_03282,POS_10277595,Washington,1,1,state_fold_1,Washington,1703
+POS_10301870_Washington_03288,POS_10301870,Washington,1,1,state_fold_1,Washington,1709
+NEG_KMN_NE_00001_Nevada_00710,NEG_KMN_NE_00001,Nevada,0,2,state_fold_2,Nevada,710
+NEG_KMN_NE_00002_Nevada_00712,NEG_KMN_NE_00002,Nevada,0,2,state_fold_2,Nevada,712
+NEG_KMN_NE_00003_Nevada_00714,NEG_KMN_NE_00003,Nevada,0,2,state_fold_2,Nevada,714
+NEG_KMN_NE_00004_Nevada_00716,NEG_KMN_NE_00004,Nevada,0,2,state_fold_2,Nevada,716
+NEG_KMN_NE_00005_Nevada_00718,NEG_KMN_NE_00005,Nevada,0,2,state_fold_2,Nevada,718
+NEG_KMN_NE_00006_Nevada_00720,NEG_KMN_NE_00006,Nevada,0,2,state_fold_2,Nevada,720
+NEG_KMN_NE_00007_Nevada_00722,NEG_KMN_NE_00007,Nevada,0,2,state_fold_2,Nevada,722
+NEG_KMN_NE_00008_Nevada_00724,NEG_KMN_NE_00008,Nevada,0,2,state_fold_2,Nevada,724
+NEG_KMN_NE_00009_Nevada_00726,NEG_KMN_NE_00009,Nevada,0,2,state_fold_2,Nevada,726
+NEG_KMN_NE_00010_Nevada_00728,NEG_KMN_NE_00010,Nevada,0,2,state_fold_2,Nevada,728
+NEG_KMN_NE_00011_Nevada_00730,NEG_KMN_NE_00011,Nevada,0,2,state_fold_2,Nevada,730
+NEG_KMN_NE_00012_Nevada_00732,NEG_KMN_NE_00012,Nevada,0,2,state_fold_2,Nevada,732
+NEG_KMN_NE_00013_Nevada_00734,NEG_KMN_NE_00013,Nevada,0,2,state_fold_2,Nevada,734
+NEG_KMN_NE_00014_Nevada_00736,NEG_KMN_NE_00014,Nevada,0,2,state_fold_2,Nevada,736
+NEG_KMN_NE_00015_Nevada_00738,NEG_KMN_NE_00015,Nevada,0,2,state_fold_2,Nevada,738
+NEG_KMN_NE_00016_Nevada_00740,NEG_KMN_NE_00016,Nevada,0,2,state_fold_2,Nevada,740
+NEG_KMN_NE_00017_Nevada_00742,NEG_KMN_NE_00017,Nevada,0,2,state_fold_2,Nevada,742
+NEG_KMN_NE_00018_Nevada_00744,NEG_KMN_NE_00018,Nevada,0,2,state_fold_2,Nevada,744
+NEG_KMN_NE_00019_Nevada_00746,NEG_KMN_NE_00019,Nevada,0,2,state_fold_2,Nevada,746
+NEG_KMN_NE_00020_Nevada_00748,NEG_KMN_NE_00020,Nevada,0,2,state_fold_2,Nevada,748
+NEG_KMN_NE_00021_Nevada_00750,NEG_KMN_NE_00021,Nevada,0,2,state_fold_2,Nevada,750
+NEG_KMN_NE_00022_Nevada_00752,NEG_KMN_NE_00022,Nevada,0,2,state_fold_2,Nevada,752
+NEG_KMN_NE_00023_Nevada_00754,NEG_KMN_NE_00023,Nevada,0,2,state_fold_2,Nevada,754
+NEG_KMN_NE_00024_Nevada_00756,NEG_KMN_NE_00024,Nevada,0,2,state_fold_2,Nevada,756
+NEG_KMN_NE_00025_Nevada_00758,NEG_KMN_NE_00025,Nevada,0,2,state_fold_2,Nevada,758
+NEG_KMN_NE_00026_Nevada_00760,NEG_KMN_NE_00026,Nevada,0,2,state_fold_2,Nevada,760
+NEG_KMN_NE_00027_Nevada_00762,NEG_KMN_NE_00027,Nevada,0,2,state_fold_2,Nevada,762
+NEG_KMN_NE_00028_Nevada_00764,NEG_KMN_NE_00028,Nevada,0,2,state_fold_2,Nevada,764
+NEG_KMN_NE_00029_Nevada_00766,NEG_KMN_NE_00029,Nevada,0,2,state_fold_2,Nevada,766
+NEG_KMN_NE_00030_Nevada_00768,NEG_KMN_NE_00030,Nevada,0,2,state_fold_2,Nevada,768
+NEG_KMN_NE_00031_Nevada_00770,NEG_KMN_NE_00031,Nevada,0,2,state_fold_2,Nevada,770
+NEG_KMN_NE_00032_Nevada_00772,NEG_KMN_NE_00032,Nevada,0,2,state_fold_2,Nevada,772
+NEG_KMN_NE_00033_Nevada_00774,NEG_KMN_NE_00033,Nevada,0,2,state_fold_2,Nevada,774
+NEG_KMN_NE_00034_Nevada_00776,NEG_KMN_NE_00034,Nevada,0,2,state_fold_2,Nevada,776
+NEG_KMN_NE_00035_Nevada_00778,NEG_KMN_NE_00035,Nevada,0,2,state_fold_2,Nevada,778
+NEG_KMN_NE_00036_Nevada_00780,NEG_KMN_NE_00036,Nevada,0,2,state_fold_2,Nevada,780
+NEG_KMN_NE_00037_Nevada_00782,NEG_KMN_NE_00037,Nevada,0,2,state_fold_2,Nevada,782
+NEG_KMN_NE_00038_Nevada_00784,NEG_KMN_NE_00038,Nevada,0,2,state_fold_2,Nevada,784
+NEG_KMN_NE_00039_Nevada_00786,NEG_KMN_NE_00039,Nevada,0,2,state_fold_2,Nevada,786
+NEG_KMN_NE_00040_Nevada_00788,NEG_KMN_NE_00040,Nevada,0,2,state_fold_2,Nevada,788
+NEG_KMN_NE_00041_Nevada_00790,NEG_KMN_NE_00041,Nevada,0,2,state_fold_2,Nevada,790
+NEG_KMN_NE_00042_Nevada_00792,NEG_KMN_NE_00042,Nevada,0,2,state_fold_2,Nevada,792
+NEG_KMN_NE_00043_Nevada_00794,NEG_KMN_NE_00043,Nevada,0,2,state_fold_2,Nevada,794
+NEG_KMN_NE_00044_Nevada_00796,NEG_KMN_NE_00044,Nevada,0,2,state_fold_2,Nevada,796
+NEG_KMN_NE_00045_Nevada_00798,NEG_KMN_NE_00045,Nevada,0,2,state_fold_2,Nevada,798
+NEG_KMN_NE_00046_Nevada_00800,NEG_KMN_NE_00046,Nevada,0,2,state_fold_2,Nevada,800
+NEG_KMN_NE_00047_Nevada_00802,NEG_KMN_NE_00047,Nevada,0,2,state_fold_2,Nevada,802
+NEG_KMN_NE_00048_Nevada_00804,NEG_KMN_NE_00048,Nevada,0,2,state_fold_2,Nevada,804
+NEG_KMN_NE_00049_Nevada_00806,NEG_KMN_NE_00049,Nevada,0,2,state_fold_2,Nevada,806
+NEG_KMN_NE_00050_Nevada_00808,NEG_KMN_NE_00050,Nevada,0,2,state_fold_2,Nevada,808
+NEG_KMN_NE_00051_Nevada_00810,NEG_KMN_NE_00051,Nevada,0,2,state_fold_2,Nevada,810
+NEG_KMN_NE_00052_Nevada_00812,NEG_KMN_NE_00052,Nevada,0,2,state_fold_2,Nevada,812
+NEG_KMN_NE_00053_Nevada_00814,NEG_KMN_NE_00053,Nevada,0,2,state_fold_2,Nevada,814
+NEG_KMN_NE_00054_Nevada_00816,NEG_KMN_NE_00054,Nevada,0,2,state_fold_2,Nevada,816
+NEG_KMN_NE_00055_Nevada_00818,NEG_KMN_NE_00055,Nevada,0,2,state_fold_2,Nevada,818
+NEG_KMN_NE_00056_Nevada_00820,NEG_KMN_NE_00056,Nevada,0,2,state_fold_2,Nevada,820
+NEG_KMN_NE_00057_Nevada_00822,NEG_KMN_NE_00057,Nevada,0,2,state_fold_2,Nevada,822
+NEG_KMN_NE_00058_Nevada_00824,NEG_KMN_NE_00058,Nevada,0,2,state_fold_2,Nevada,824
+NEG_KMN_NE_00059_Nevada_00826,NEG_KMN_NE_00059,Nevada,0,2,state_fold_2,Nevada,826
+NEG_KMN_NE_00060_Nevada_00828,NEG_KMN_NE_00060,Nevada,0,2,state_fold_2,Nevada,828
+NEG_KMN_NE_00061_Nevada_00830,NEG_KMN_NE_00061,Nevada,0,2,state_fold_2,Nevada,830
+NEG_KMN_NE_00062_Nevada_00832,NEG_KMN_NE_00062,Nevada,0,2,state_fold_2,Nevada,832
+NEG_KMN_NE_00063_Nevada_00834,NEG_KMN_NE_00063,Nevada,0,2,state_fold_2,Nevada,834
+NEG_KMN_NE_00064_Nevada_00836,NEG_KMN_NE_00064,Nevada,0,2,state_fold_2,Nevada,836
+NEG_KMN_NE_00065_Nevada_00838,NEG_KMN_NE_00065,Nevada,0,2,state_fold_2,Nevada,838
+NEG_KMN_NE_00066_Nevada_00840,NEG_KMN_NE_00066,Nevada,0,2,state_fold_2,Nevada,840
+NEG_KMN_NE_00067_Nevada_00842,NEG_KMN_NE_00067,Nevada,0,2,state_fold_2,Nevada,842
+NEG_KMN_NE_00068_Nevada_00844,NEG_KMN_NE_00068,Nevada,0,2,state_fold_2,Nevada,844
+NEG_KMN_NE_00069_Nevada_00846,NEG_KMN_NE_00069,Nevada,0,2,state_fold_2,Nevada,846
+NEG_KMN_NE_00070_Nevada_00848,NEG_KMN_NE_00070,Nevada,0,2,state_fold_2,Nevada,848
+NEG_KMN_NE_00071_Nevada_00850,NEG_KMN_NE_00071,Nevada,0,2,state_fold_2,Nevada,850
+NEG_KMN_NE_00072_Nevada_00851,NEG_KMN_NE_00072,Nevada,0,2,state_fold_2,Nevada,851
+NEG_KMN_NE_00073_Nevada_00852,NEG_KMN_NE_00073,Nevada,0,2,state_fold_2,Nevada,852
+NEG_KMN_NE_00074_Nevada_00853,NEG_KMN_NE_00074,Nevada,0,2,state_fold_2,Nevada,853
+NEG_KMN_NE_00075_Nevada_00854,NEG_KMN_NE_00075,Nevada,0,2,state_fold_2,Nevada,854
+NEG_KMN_NE_00076_Nevada_00855,NEG_KMN_NE_00076,Nevada,0,2,state_fold_2,Nevada,855
+NEG_KMN_NE_00077_Nevada_00856,NEG_KMN_NE_00077,Nevada,0,2,state_fold_2,Nevada,856
+NEG_KMN_NE_00078_Nevada_00857,NEG_KMN_NE_00078,Nevada,0,2,state_fold_2,Nevada,857
+NEG_KMN_NE_00079_Nevada_00858,NEG_KMN_NE_00079,Nevada,0,2,state_fold_2,Nevada,858
+NEG_KMN_NE_00080_Nevada_00859,NEG_KMN_NE_00080,Nevada,0,2,state_fold_2,Nevada,859
+NEG_KMN_NE_00081_Nevada_00860,NEG_KMN_NE_00081,Nevada,0,2,state_fold_2,Nevada,860
+NEG_KMN_NE_00082_Nevada_00861,NEG_KMN_NE_00082,Nevada,0,2,state_fold_2,Nevada,861
+NEG_KMN_NE_00083_Nevada_00862,NEG_KMN_NE_00083,Nevada,0,2,state_fold_2,Nevada,862
+NEG_KMN_NE_00084_Nevada_00863,NEG_KMN_NE_00084,Nevada,0,2,state_fold_2,Nevada,863
+NEG_KMN_NE_00085_Nevada_00864,NEG_KMN_NE_00085,Nevada,0,2,state_fold_2,Nevada,864
+NEG_KMN_NE_00086_Nevada_00865,NEG_KMN_NE_00086,Nevada,0,2,state_fold_2,Nevada,865
+NEG_KMN_NE_00087_Nevada_00866,NEG_KMN_NE_00087,Nevada,0,2,state_fold_2,Nevada,866
+NEG_KMN_NE_00088_Nevada_00867,NEG_KMN_NE_00088,Nevada,0,2,state_fold_2,Nevada,867
+NEG_KMN_NE_00089_Nevada_00868,NEG_KMN_NE_00089,Nevada,0,2,state_fold_2,Nevada,868
+NEG_KMN_NE_00090_Nevada_00869,NEG_KMN_NE_00090,Nevada,0,2,state_fold_2,Nevada,869
+NEG_KMN_NE_00091_Nevada_00870,NEG_KMN_NE_00091,Nevada,0,2,state_fold_2,Nevada,870
+NEG_KMN_NE_00092_Nevada_00871,NEG_KMN_NE_00092,Nevada,0,2,state_fold_2,Nevada,871
+NEG_KMN_NE_00093_Nevada_00872,NEG_KMN_NE_00093,Nevada,0,2,state_fold_2,Nevada,872
+NEG_KMN_NE_00094_Nevada_00873,NEG_KMN_NE_00094,Nevada,0,2,state_fold_2,Nevada,873
+NEG_KMN_NE_00095_Nevada_00874,NEG_KMN_NE_00095,Nevada,0,2,state_fold_2,Nevada,874
+NEG_KMN_NE_00096_Nevada_00875,NEG_KMN_NE_00096,Nevada,0,2,state_fold_2,Nevada,875
+NEG_KMN_NE_00097_Nevada_00876,NEG_KMN_NE_00097,Nevada,0,2,state_fold_2,Nevada,876
+NEG_KMN_NE_00098_Nevada_00877,NEG_KMN_NE_00098,Nevada,0,2,state_fold_2,Nevada,877
+NEG_KMN_NE_00099_Nevada_00878,NEG_KMN_NE_00099,Nevada,0,2,state_fold_2,Nevada,878
+NEG_KMN_NE_00100_Nevada_00879,NEG_KMN_NE_00100,Nevada,0,2,state_fold_2,Nevada,879
+NEG_KMN_NE_00101_Nevada_00880,NEG_KMN_NE_00101,Nevada,0,2,state_fold_2,Nevada,880
+NEG_KMN_NE_00102_Nevada_00881,NEG_KMN_NE_00102,Nevada,0,2,state_fold_2,Nevada,881
+NEG_KMN_NE_00103_Nevada_00882,NEG_KMN_NE_00103,Nevada,0,2,state_fold_2,Nevada,882
+NEG_KMN_NE_00104_Nevada_00883,NEG_KMN_NE_00104,Nevada,0,2,state_fold_2,Nevada,883
+NEG_KMN_NE_00105_Nevada_00884,NEG_KMN_NE_00105,Nevada,0,2,state_fold_2,Nevada,884
+NEG_KMN_NE_00106_Nevada_00885,NEG_KMN_NE_00106,Nevada,0,2,state_fold_2,Nevada,885
+NEG_KMN_NE_00107_Nevada_00886,NEG_KMN_NE_00107,Nevada,0,2,state_fold_2,Nevada,886
+NEG_KMN_NE_00108_Nevada_00887,NEG_KMN_NE_00108,Nevada,0,2,state_fold_2,Nevada,887
+NEG_KMN_NE_00109_Nevada_00888,NEG_KMN_NE_00109,Nevada,0,2,state_fold_2,Nevada,888
+NEG_KMN_NE_00110_Nevada_00889,NEG_KMN_NE_00110,Nevada,0,2,state_fold_2,Nevada,889
+NEG_KMN_NE_00111_Nevada_00890,NEG_KMN_NE_00111,Nevada,0,2,state_fold_2,Nevada,890
+NEG_KMN_NE_00112_Nevada_00891,NEG_KMN_NE_00112,Nevada,0,2,state_fold_2,Nevada,891
+NEG_KMN_NE_00113_Nevada_00892,NEG_KMN_NE_00113,Nevada,0,2,state_fold_2,Nevada,892
+NEG_KMN_NE_00114_Nevada_00893,NEG_KMN_NE_00114,Nevada,0,2,state_fold_2,Nevada,893
+NEG_KMN_NE_00115_Nevada_00894,NEG_KMN_NE_00115,Nevada,0,2,state_fold_2,Nevada,894
+NEG_KMN_NE_00116_Nevada_00895,NEG_KMN_NE_00116,Nevada,0,2,state_fold_2,Nevada,895
+NEG_KMN_NE_00117_Nevada_00896,NEG_KMN_NE_00117,Nevada,0,2,state_fold_2,Nevada,896
+NEG_KMN_NE_00118_Nevada_00897,NEG_KMN_NE_00118,Nevada,0,2,state_fold_2,Nevada,897
+NEG_KMN_NE_00119_Nevada_00898,NEG_KMN_NE_00119,Nevada,0,2,state_fold_2,Nevada,898
+NEG_KMN_NE_00120_Nevada_00899,NEG_KMN_NE_00120,Nevada,0,2,state_fold_2,Nevada,899
+NEG_KMN_NE_00121_Nevada_00900,NEG_KMN_NE_00121,Nevada,0,2,state_fold_2,Nevada,900
+NEG_KMN_NE_00122_Nevada_00901,NEG_KMN_NE_00122,Nevada,0,2,state_fold_2,Nevada,901
+NEG_KMN_NE_00123_Nevada_00902,NEG_KMN_NE_00123,Nevada,0,2,state_fold_2,Nevada,902
+NEG_KMN_NE_00124_Nevada_00903,NEG_KMN_NE_00124,Nevada,0,2,state_fold_2,Nevada,903
+NEG_KMN_NE_00125_Nevada_00904,NEG_KMN_NE_00125,Nevada,0,2,state_fold_2,Nevada,904
+NEG_KMN_NE_00126_Nevada_00905,NEG_KMN_NE_00126,Nevada,0,2,state_fold_2,Nevada,905
+NEG_KMN_NE_00127_Nevada_00906,NEG_KMN_NE_00127,Nevada,0,2,state_fold_2,Nevada,906
+NEG_KMN_NE_00128_Nevada_00907,NEG_KMN_NE_00128,Nevada,0,2,state_fold_2,Nevada,907
+NEG_KMN_NE_00129_Nevada_00908,NEG_KMN_NE_00129,Nevada,0,2,state_fold_2,Nevada,908
+NEG_KMN_NE_00130_Nevada_00909,NEG_KMN_NE_00130,Nevada,0,2,state_fold_2,Nevada,909
+NEG_KMN_NE_00131_Nevada_00910,NEG_KMN_NE_00131,Nevada,0,2,state_fold_2,Nevada,910
+NEG_KMN_NE_00132_Nevada_00911,NEG_KMN_NE_00132,Nevada,0,2,state_fold_2,Nevada,911
+NEG_KMN_NE_00133_Nevada_00912,NEG_KMN_NE_00133,Nevada,0,2,state_fold_2,Nevada,912
+NEG_KMN_NE_00134_Nevada_00913,NEG_KMN_NE_00134,Nevada,0,2,state_fold_2,Nevada,913
+NEG_KMN_NE_00135_Nevada_00914,NEG_KMN_NE_00135,Nevada,0,2,state_fold_2,Nevada,914
+NEG_KMN_NE_00136_Nevada_00915,NEG_KMN_NE_00136,Nevada,0,2,state_fold_2,Nevada,915
+NEG_KMN_NE_00137_Nevada_00916,NEG_KMN_NE_00137,Nevada,0,2,state_fold_2,Nevada,916
+NEG_KMN_NE_00138_Nevada_00917,NEG_KMN_NE_00138,Nevada,0,2,state_fold_2,Nevada,917
+NEG_KMN_NE_00139_Nevada_00918,NEG_KMN_NE_00139,Nevada,0,2,state_fold_2,Nevada,918
+NEG_KMN_NE_00140_Nevada_00919,NEG_KMN_NE_00140,Nevada,0,2,state_fold_2,Nevada,919
+NEG_KMN_NE_00141_Nevada_00920,NEG_KMN_NE_00141,Nevada,0,2,state_fold_2,Nevada,920
+NEG_KMN_NE_00142_Nevada_00921,NEG_KMN_NE_00142,Nevada,0,2,state_fold_2,Nevada,921
+NEG_KMN_NE_00143_Nevada_00922,NEG_KMN_NE_00143,Nevada,0,2,state_fold_2,Nevada,922
+NEG_KMN_NE_00144_Nevada_00923,NEG_KMN_NE_00144,Nevada,0,2,state_fold_2,Nevada,923
+NEG_KMN_NE_00145_Nevada_00924,NEG_KMN_NE_00145,Nevada,0,2,state_fold_2,Nevada,924
+NEG_KMN_NE_00146_Nevada_00925,NEG_KMN_NE_00146,Nevada,0,2,state_fold_2,Nevada,925
+NEG_KMN_NE_00147_Nevada_00926,NEG_KMN_NE_00147,Nevada,0,2,state_fold_2,Nevada,926
+NEG_KMN_NE_00148_Nevada_00927,NEG_KMN_NE_00148,Nevada,0,2,state_fold_2,Nevada,927
+NEG_KMN_NE_00149_Nevada_00928,NEG_KMN_NE_00149,Nevada,0,2,state_fold_2,Nevada,928
+NEG_KMN_NE_00150_Nevada_00929,NEG_KMN_NE_00150,Nevada,0,2,state_fold_2,Nevada,929
+NEG_KMN_NE_00151_Nevada_00930,NEG_KMN_NE_00151,Nevada,0,2,state_fold_2,Nevada,930
+NEG_KMN_NE_00152_Nevada_00931,NEG_KMN_NE_00152,Nevada,0,2,state_fold_2,Nevada,931
+NEG_KMN_NE_00153_Nevada_00932,NEG_KMN_NE_00153,Nevada,0,2,state_fold_2,Nevada,932
+NEG_KMN_NE_00154_Nevada_00933,NEG_KMN_NE_00154,Nevada,0,2,state_fold_2,Nevada,933
+NEG_KMN_NE_00155_Nevada_00934,NEG_KMN_NE_00155,Nevada,0,2,state_fold_2,Nevada,934
+NEG_KMN_NE_00156_Nevada_00935,NEG_KMN_NE_00156,Nevada,0,2,state_fold_2,Nevada,935
+NEG_KMN_NE_00157_Nevada_00936,NEG_KMN_NE_00157,Nevada,0,2,state_fold_2,Nevada,936
+NEG_KMN_NE_00158_Nevada_00937,NEG_KMN_NE_00158,Nevada,0,2,state_fold_2,Nevada,937
+NEG_KMN_NE_00159_Nevada_00938,NEG_KMN_NE_00159,Nevada,0,2,state_fold_2,Nevada,938
+NEG_KMN_NE_00160_Nevada_00939,NEG_KMN_NE_00160,Nevada,0,2,state_fold_2,Nevada,939
+NEG_KMN_NE_00161_Nevada_00940,NEG_KMN_NE_00161,Nevada,0,2,state_fold_2,Nevada,940
+NEG_KMN_NE_00162_Nevada_00941,NEG_KMN_NE_00162,Nevada,0,2,state_fold_2,Nevada,941
+NEG_KMN_NE_00163_Nevada_00942,NEG_KMN_NE_00163,Nevada,0,2,state_fold_2,Nevada,942
+NEG_KMN_NE_00164_Nevada_00943,NEG_KMN_NE_00164,Nevada,0,2,state_fold_2,Nevada,943
+NEG_KMN_NE_00165_Nevada_00944,NEG_KMN_NE_00165,Nevada,0,2,state_fold_2,Nevada,944
+NEG_KMN_NE_00166_Nevada_00945,NEG_KMN_NE_00166,Nevada,0,2,state_fold_2,Nevada,945
+NEG_KMN_NE_00167_Nevada_00946,NEG_KMN_NE_00167,Nevada,0,2,state_fold_2,Nevada,946
+NEG_KMN_NE_00168_Nevada_00947,NEG_KMN_NE_00168,Nevada,0,2,state_fold_2,Nevada,947
+NEG_KMN_NE_00169_Nevada_00948,NEG_KMN_NE_00169,Nevada,0,2,state_fold_2,Nevada,948
+NEG_KMN_NE_00170_Nevada_00949,NEG_KMN_NE_00170,Nevada,0,2,state_fold_2,Nevada,949
+NEG_KMN_NE_00171_Nevada_00950,NEG_KMN_NE_00171,Nevada,0,2,state_fold_2,Nevada,950
+NEG_KMN_NE_00172_Nevada_00951,NEG_KMN_NE_00172,Nevada,0,2,state_fold_2,Nevada,951
+NEG_KMN_NE_00173_Nevada_00952,NEG_KMN_NE_00173,Nevada,0,2,state_fold_2,Nevada,952
+NEG_KMN_NE_00174_Nevada_00953,NEG_KMN_NE_00174,Nevada,0,2,state_fold_2,Nevada,953
+NEG_KMN_NE_00175_Nevada_00954,NEG_KMN_NE_00175,Nevada,0,2,state_fold_2,Nevada,954
+NEG_KMN_NE_00176_Nevada_00955,NEG_KMN_NE_00176,Nevada,0,2,state_fold_2,Nevada,955
+NEG_KMN_NE_00177_Nevada_00956,NEG_KMN_NE_00177,Nevada,0,2,state_fold_2,Nevada,956
+NEG_KMN_NE_00178_Nevada_00957,NEG_KMN_NE_00178,Nevada,0,2,state_fold_2,Nevada,957
+NEG_KMN_NE_00179_Nevada_00958,NEG_KMN_NE_00179,Nevada,0,2,state_fold_2,Nevada,958
+NEG_KMN_NE_00180_Nevada_00959,NEG_KMN_NE_00180,Nevada,0,2,state_fold_2,Nevada,959
+NEG_KMN_NE_00181_Nevada_00960,NEG_KMN_NE_00181,Nevada,0,2,state_fold_2,Nevada,960
+NEG_KMN_NE_00182_Nevada_00961,NEG_KMN_NE_00182,Nevada,0,2,state_fold_2,Nevada,961
+NEG_KMN_NE_00183_Nevada_00962,NEG_KMN_NE_00183,Nevada,0,2,state_fold_2,Nevada,962
+NEG_KMN_NE_00184_Nevada_00963,NEG_KMN_NE_00184,Nevada,0,2,state_fold_2,Nevada,963
+NEG_KMN_NE_00185_Nevada_00964,NEG_KMN_NE_00185,Nevada,0,2,state_fold_2,Nevada,964
+NEG_KMN_NE_00186_Nevada_00965,NEG_KMN_NE_00186,Nevada,0,2,state_fold_2,Nevada,965
+NEG_KMN_NE_00187_Nevada_00966,NEG_KMN_NE_00187,Nevada,0,2,state_fold_2,Nevada,966
+NEG_KMN_NE_00188_Nevada_00967,NEG_KMN_NE_00188,Nevada,0,2,state_fold_2,Nevada,967
+NEG_KMN_NE_00189_Nevada_00968,NEG_KMN_NE_00189,Nevada,0,2,state_fold_2,Nevada,968
+NEG_KMN_NE_00190_Nevada_00969,NEG_KMN_NE_00190,Nevada,0,2,state_fold_2,Nevada,969
+NEG_KMN_NE_00191_Nevada_00970,NEG_KMN_NE_00191,Nevada,0,2,state_fold_2,Nevada,970
+NEG_KMN_NE_00192_Nevada_00971,NEG_KMN_NE_00192,Nevada,0,2,state_fold_2,Nevada,971
+NEG_KMN_NE_00193_Nevada_00972,NEG_KMN_NE_00193,Nevada,0,2,state_fold_2,Nevada,972
+NEG_KMN_NE_00194_Nevada_00973,NEG_KMN_NE_00194,Nevada,0,2,state_fold_2,Nevada,973
+NEG_KMN_NE_00195_Nevada_00974,NEG_KMN_NE_00195,Nevada,0,2,state_fold_2,Nevada,974
+NEG_KMN_NE_00196_Nevada_00975,NEG_KMN_NE_00196,Nevada,0,2,state_fold_2,Nevada,975
+NEG_KMN_NE_00197_Nevada_00976,NEG_KMN_NE_00197,Nevada,0,2,state_fold_2,Nevada,976
+NEG_KMN_NE_00198_Nevada_00977,NEG_KMN_NE_00198,Nevada,0,2,state_fold_2,Nevada,977
+NEG_KMN_NE_00199_Nevada_00978,NEG_KMN_NE_00199,Nevada,0,2,state_fold_2,Nevada,978
+NEG_KMN_NE_00200_Nevada_00979,NEG_KMN_NE_00200,Nevada,0,2,state_fold_2,Nevada,979
+NEG_KMN_NE_00201_Nevada_00980,NEG_KMN_NE_00201,Nevada,0,2,state_fold_2,Nevada,980
+NEG_KMN_NE_00202_Nevada_00981,NEG_KMN_NE_00202,Nevada,0,2,state_fold_2,Nevada,981
+NEG_KMN_NE_00203_Nevada_00982,NEG_KMN_NE_00203,Nevada,0,2,state_fold_2,Nevada,982
+NEG_KMN_NE_00204_Nevada_00983,NEG_KMN_NE_00204,Nevada,0,2,state_fold_2,Nevada,983
+NEG_KMN_NE_00205_Nevada_00984,NEG_KMN_NE_00205,Nevada,0,2,state_fold_2,Nevada,984
+NEG_KMN_NE_00206_Nevada_00985,NEG_KMN_NE_00206,Nevada,0,2,state_fold_2,Nevada,985
+NEG_KMN_NE_00207_Nevada_00986,NEG_KMN_NE_00207,Nevada,0,2,state_fold_2,Nevada,986
+NEG_KMN_NE_00208_Nevada_00987,NEG_KMN_NE_00208,Nevada,0,2,state_fold_2,Nevada,987
+NEG_KMN_NE_00209_Nevada_00988,NEG_KMN_NE_00209,Nevada,0,2,state_fold_2,Nevada,988
+NEG_KMN_NE_00210_Nevada_00989,NEG_KMN_NE_00210,Nevada,0,2,state_fold_2,Nevada,989
+NEG_KMN_NE_00211_Nevada_00990,NEG_KMN_NE_00211,Nevada,0,2,state_fold_2,Nevada,990
+NEG_KMN_NE_00212_Nevada_00991,NEG_KMN_NE_00212,Nevada,0,2,state_fold_2,Nevada,991
+NEG_KMN_NE_00213_Nevada_00992,NEG_KMN_NE_00213,Nevada,0,2,state_fold_2,Nevada,992
+NEG_KMN_NE_00214_Nevada_00993,NEG_KMN_NE_00214,Nevada,0,2,state_fold_2,Nevada,993
+NEG_KMN_NE_00215_Nevada_00994,NEG_KMN_NE_00215,Nevada,0,2,state_fold_2,Nevada,994
+NEG_KMN_NE_00216_Nevada_00995,NEG_KMN_NE_00216,Nevada,0,2,state_fold_2,Nevada,995
+NEG_KMN_NE_00217_Nevada_00996,NEG_KMN_NE_00217,Nevada,0,2,state_fold_2,Nevada,996
+NEG_KMN_NE_00218_Nevada_00997,NEG_KMN_NE_00218,Nevada,0,2,state_fold_2,Nevada,997
+NEG_KMN_NE_00219_Nevada_00998,NEG_KMN_NE_00219,Nevada,0,2,state_fold_2,Nevada,998
+NEG_KMN_NE_00220_Nevada_00999,NEG_KMN_NE_00220,Nevada,0,2,state_fold_2,Nevada,999
+NEG_KMN_NE_00221_Nevada_01000,NEG_KMN_NE_00221,Nevada,0,2,state_fold_2,Nevada,1000
+NEG_KMN_NE_00222_Nevada_01001,NEG_KMN_NE_00222,Nevada,0,2,state_fold_2,Nevada,1001
+NEG_KMN_NE_00223_Nevada_01002,NEG_KMN_NE_00223,Nevada,0,2,state_fold_2,Nevada,1002
+NEG_KMN_NE_00224_Nevada_01003,NEG_KMN_NE_00224,Nevada,0,2,state_fold_2,Nevada,1003
+NEG_KMN_NE_00225_Nevada_01004,NEG_KMN_NE_00225,Nevada,0,2,state_fold_2,Nevada,1004
+NEG_KMN_NE_00226_Nevada_01005,NEG_KMN_NE_00226,Nevada,0,2,state_fold_2,Nevada,1005
+NEG_KMN_NE_00227_Nevada_01006,NEG_KMN_NE_00227,Nevada,0,2,state_fold_2,Nevada,1006
+NEG_KMN_NE_00228_Nevada_01007,NEG_KMN_NE_00228,Nevada,0,2,state_fold_2,Nevada,1007
+NEG_KMN_NE_00229_Nevada_01008,NEG_KMN_NE_00229,Nevada,0,2,state_fold_2,Nevada,1008
+NEG_KMN_NE_00230_Nevada_01009,NEG_KMN_NE_00230,Nevada,0,2,state_fold_2,Nevada,1009
+NEG_KMN_NE_00231_Nevada_01010,NEG_KMN_NE_00231,Nevada,0,2,state_fold_2,Nevada,1010
+NEG_KMN_NE_00232_Nevada_01011,NEG_KMN_NE_00232,Nevada,0,2,state_fold_2,Nevada,1011
+NEG_KMN_NE_00233_Nevada_01012,NEG_KMN_NE_00233,Nevada,0,2,state_fold_2,Nevada,1012
+NEG_KMN_NE_00234_Nevada_01013,NEG_KMN_NE_00234,Nevada,0,2,state_fold_2,Nevada,1013
+NEG_KMN_NE_00235_Nevada_01014,NEG_KMN_NE_00235,Nevada,0,2,state_fold_2,Nevada,1014
+NEG_KMN_NE_00236_Nevada_01015,NEG_KMN_NE_00236,Nevada,0,2,state_fold_2,Nevada,1015
+NEG_KMN_NE_00237_Nevada_01016,NEG_KMN_NE_00237,Nevada,0,2,state_fold_2,Nevada,1016
+NEG_KMN_NE_00238_Nevada_01017,NEG_KMN_NE_00238,Nevada,0,2,state_fold_2,Nevada,1017
+NEG_KMN_NE_00239_Nevada_01018,NEG_KMN_NE_00239,Nevada,0,2,state_fold_2,Nevada,1018
+NEG_KMN_NE_00240_Nevada_01019,NEG_KMN_NE_00240,Nevada,0,2,state_fold_2,Nevada,1019
+NEG_KMN_NE_00241_Nevada_01020,NEG_KMN_NE_00241,Nevada,0,2,state_fold_2,Nevada,1020
+NEG_KMN_NE_00242_Nevada_01021,NEG_KMN_NE_00242,Nevada,0,2,state_fold_2,Nevada,1021
+NEG_KMN_NE_00243_Nevada_01022,NEG_KMN_NE_00243,Nevada,0,2,state_fold_2,Nevada,1022
+NEG_KMN_NE_00244_Nevada_01023,NEG_KMN_NE_00244,Nevada,0,2,state_fold_2,Nevada,1023
+NEG_KMN_NE_00245_Nevada_01024,NEG_KMN_NE_00245,Nevada,0,2,state_fold_2,Nevada,1024
+NEG_KMN_NE_00246_Nevada_01025,NEG_KMN_NE_00246,Nevada,0,2,state_fold_2,Nevada,1025
+NEG_KMN_NE_00247_Nevada_01026,NEG_KMN_NE_00247,Nevada,0,2,state_fold_2,Nevada,1026
+NEG_KMN_NE_00248_Nevada_01027,NEG_KMN_NE_00248,Nevada,0,2,state_fold_2,Nevada,1027
+NEG_KMN_NE_00249_Nevada_01028,NEG_KMN_NE_00249,Nevada,0,2,state_fold_2,Nevada,1028
+NEG_KMN_NE_00250_Nevada_01029,NEG_KMN_NE_00250,Nevada,0,2,state_fold_2,Nevada,1029
+NEG_KMN_NE_00251_Nevada_01030,NEG_KMN_NE_00251,Nevada,0,2,state_fold_2,Nevada,1030
+NEG_KMN_NE_00252_Nevada_01031,NEG_KMN_NE_00252,Nevada,0,2,state_fold_2,Nevada,1031
+NEG_KMN_NE_00253_Nevada_01032,NEG_KMN_NE_00253,Nevada,0,2,state_fold_2,Nevada,1032
+NEG_KMN_NE_00254_Nevada_01033,NEG_KMN_NE_00254,Nevada,0,2,state_fold_2,Nevada,1033
+NEG_KMN_NE_00255_Nevada_01034,NEG_KMN_NE_00255,Nevada,0,2,state_fold_2,Nevada,1034
+NEG_KMN_NE_00256_Nevada_01035,NEG_KMN_NE_00256,Nevada,0,2,state_fold_2,Nevada,1035
+NEG_KMN_NE_00257_Nevada_01036,NEG_KMN_NE_00257,Nevada,0,2,state_fold_2,Nevada,1036
+NEG_KMN_NE_00258_Nevada_01037,NEG_KMN_NE_00258,Nevada,0,2,state_fold_2,Nevada,1037
+NEG_KMN_NE_00259_Nevada_01038,NEG_KMN_NE_00259,Nevada,0,2,state_fold_2,Nevada,1038
+NEG_KMN_NE_00260_Nevada_01039,NEG_KMN_NE_00260,Nevada,0,2,state_fold_2,Nevada,1039
+NEG_KMN_NE_00261_Nevada_01040,NEG_KMN_NE_00261,Nevada,0,2,state_fold_2,Nevada,1040
+NEG_KMN_NE_00262_Nevada_01041,NEG_KMN_NE_00262,Nevada,0,2,state_fold_2,Nevada,1041
+NEG_KMN_NE_00263_Nevada_01042,NEG_KMN_NE_00263,Nevada,0,2,state_fold_2,Nevada,1042
+NEG_KMN_NE_00264_Nevada_01043,NEG_KMN_NE_00264,Nevada,0,2,state_fold_2,Nevada,1043
+NEG_KMN_NE_00265_Nevada_01044,NEG_KMN_NE_00265,Nevada,0,2,state_fold_2,Nevada,1044
+NEG_KMN_NE_00266_Nevada_01045,NEG_KMN_NE_00266,Nevada,0,2,state_fold_2,Nevada,1045
+NEG_KMN_NE_00267_Nevada_01046,NEG_KMN_NE_00267,Nevada,0,2,state_fold_2,Nevada,1046
+NEG_KMN_NE_00268_Nevada_01047,NEG_KMN_NE_00268,Nevada,0,2,state_fold_2,Nevada,1047
+NEG_KMN_NE_00269_Nevada_01048,NEG_KMN_NE_00269,Nevada,0,2,state_fold_2,Nevada,1048
+NEG_KMN_NE_00270_Nevada_01049,NEG_KMN_NE_00270,Nevada,0,2,state_fold_2,Nevada,1049
+NEG_KMN_NE_00271_Nevada_01050,NEG_KMN_NE_00271,Nevada,0,2,state_fold_2,Nevada,1050
+NEG_KMN_NE_00272_Nevada_01051,NEG_KMN_NE_00272,Nevada,0,2,state_fold_2,Nevada,1051
+NEG_KMN_NE_00273_Nevada_01052,NEG_KMN_NE_00273,Nevada,0,2,state_fold_2,Nevada,1052
+NEG_KMN_NE_00274_Nevada_01053,NEG_KMN_NE_00274,Nevada,0,2,state_fold_2,Nevada,1053
+NEG_KMN_NE_00275_Nevada_01054,NEG_KMN_NE_00275,Nevada,0,2,state_fold_2,Nevada,1054
+NEG_KMN_NE_00276_Nevada_01055,NEG_KMN_NE_00276,Nevada,0,2,state_fold_2,Nevada,1055
+NEG_KMN_NE_00277_Nevada_01056,NEG_KMN_NE_00277,Nevada,0,2,state_fold_2,Nevada,1056
+NEG_KMN_NE_00278_Nevada_01057,NEG_KMN_NE_00278,Nevada,0,2,state_fold_2,Nevada,1057
+NEG_KMN_NE_00279_Nevada_01058,NEG_KMN_NE_00279,Nevada,0,2,state_fold_2,Nevada,1058
+NEG_KMN_NE_00280_Nevada_01059,NEG_KMN_NE_00280,Nevada,0,2,state_fold_2,Nevada,1059
+POS_10037318_Nevada_03174,POS_10037318,Nevada,1,2,state_fold_2,Nevada,1595
+POS_10037319_Nevada_03175,POS_10037319,Nevada,1,2,state_fold_2,Nevada,1596
+POS_10037320_Nevada_03176,POS_10037320,Nevada,1,2,state_fold_2,Nevada,1597
+POS_10037321_Nevada_03177,POS_10037321,Nevada,1,2,state_fold_2,Nevada,1598
+POS_10044011_Nevada_03188,POS_10044011,Nevada,1,2,state_fold_2,Nevada,1609
+POS_10044060_Nevada_03189,POS_10044060,Nevada,1,2,state_fold_2,Nevada,1610
+POS_10047445_Nevada_03194,POS_10047445,Nevada,1,2,state_fold_2,Nevada,1615
+POS_10047487_Nevada_03195,POS_10047487,Nevada,1,2,state_fold_2,Nevada,1616
+POS_10047490_Nevada_03196,POS_10047490,Nevada,1,2,state_fold_2,Nevada,1617
+POS_10048830_Nevada_03219,POS_10048830,Nevada,1,2,state_fold_2,Nevada,1640
+POS_10080427_Nevada_03229,POS_10080427,Nevada,1,2,state_fold_2,Nevada,1650
+POS_10149678_Nevada_03259,POS_10149678,Nevada,1,2,state_fold_2,Nevada,1680
+POS_10310303_Nevada_03289,POS_10310303,Nevada,1,2,state_fold_2,Nevada,1710
+POS_10310307_Nevada_03290,POS_10310307,Nevada,1,2,state_fold_2,Nevada,1711
+POS_10310327_Nevada_03291,POS_10310327,Nevada,1,2,state_fold_2,Nevada,1712
+POS_10310360_Nevada_03292,POS_10310360,Nevada,1,2,state_fold_2,Nevada,1713
+POS_10310385_Nevada_03293,POS_10310385,Nevada,1,2,state_fold_2,Nevada,1714
+POS_10310387_Nevada_03294,POS_10310387,Nevada,1,2,state_fold_2,Nevada,1715
+POS_10310388_Nevada_03295,POS_10310388,Nevada,1,2,state_fold_2,Nevada,1716
+POS_10310402_Nevada_03296,POS_10310402,Nevada,1,2,state_fold_2,Nevada,1717
+POS_10310421_Nevada_03297,POS_10310421,Nevada,1,2,state_fold_2,Nevada,1718
+POS_10310428_Nevada_03298,POS_10310428,Nevada,1,2,state_fold_2,Nevada,1719
+POS_10310521_Nevada_03299,POS_10310521,Nevada,1,2,state_fold_2,Nevada,1720
+POS_10310523_Nevada_03300,POS_10310523,Nevada,1,2,state_fold_2,Nevada,1721
+POS_10310559_Nevada_03301,POS_10310559,Nevada,1,2,state_fold_2,Nevada,1722
+POS_60000966_Nevada_03311,POS_60000966,Nevada,1,2,state_fold_2,Nevada,1732
+POS_60001009_Nevada_03313,POS_60001009,Nevada,1,2,state_fold_2,Nevada,1734
+POS_60001650_Nevada_03316,POS_60001650,Nevada,1,2,state_fold_2,Nevada,1737
+NEG_KMN_CA_00001_California_00580,NEG_KMN_CA_00001,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,580
+NEG_KMN_CA_00002_California_00581,NEG_KMN_CA_00002,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,581
+NEG_KMN_CA_00003_California_00582,NEG_KMN_CA_00003,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,582
+NEG_KMN_CA_00004_California_00583,NEG_KMN_CA_00004,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,583
+NEG_KMN_CA_00005_California_00584,NEG_KMN_CA_00005,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,584
+NEG_KMN_CA_00006_California_00585,NEG_KMN_CA_00006,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,585
+NEG_KMN_CA_00007_California_00586,NEG_KMN_CA_00007,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,586
+NEG_KMN_CA_00008_California_00587,NEG_KMN_CA_00008,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,587
+NEG_KMN_CA_00009_California_00588,NEG_KMN_CA_00009,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,588
+NEG_KMN_CA_00010_California_00589,NEG_KMN_CA_00010,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,589
+NEG_KMN_CA_00011_California_00590,NEG_KMN_CA_00011,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,590
+NEG_KMN_CA_00012_California_00591,NEG_KMN_CA_00012,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,591
+NEG_KMN_CA_00013_California_00592,NEG_KMN_CA_00013,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,592
+NEG_KMN_CA_00014_California_00593,NEG_KMN_CA_00014,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,593
+NEG_KMN_CA_00015_California_00594,NEG_KMN_CA_00015,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,594
+NEG_KMN_CA_00016_California_00595,NEG_KMN_CA_00016,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,595
+NEG_KMN_CA_00017_California_00596,NEG_KMN_CA_00017,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,596
+NEG_KMN_CA_00018_California_00597,NEG_KMN_CA_00018,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,597
+NEG_KMN_CA_00019_California_00598,NEG_KMN_CA_00019,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,598
+NEG_KMN_CA_00020_California_00599,NEG_KMN_CA_00020,California,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,599
+NEG_KMN_ID_00001_Idaho_00640,NEG_KMN_ID_00001,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,640
+NEG_KMN_ID_00002_Idaho_00641,NEG_KMN_ID_00002,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,641
+NEG_KMN_ID_00003_Idaho_00642,NEG_KMN_ID_00003,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,642
+NEG_KMN_ID_00004_Idaho_00643,NEG_KMN_ID_00004,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,643
+NEG_KMN_ID_00005_Idaho_00644,NEG_KMN_ID_00005,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,644
+NEG_KMN_ID_00006_Idaho_00645,NEG_KMN_ID_00006,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,645
+NEG_KMN_ID_00007_Idaho_00646,NEG_KMN_ID_00007,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,646
+NEG_KMN_ID_00008_Idaho_00647,NEG_KMN_ID_00008,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,647
+NEG_KMN_ID_00009_Idaho_00648,NEG_KMN_ID_00009,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,648
+NEG_KMN_ID_00010_Idaho_00649,NEG_KMN_ID_00010,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,649
+NEG_KMN_ID_00011_Idaho_00650,NEG_KMN_ID_00011,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,650
+NEG_KMN_ID_00012_Idaho_00651,NEG_KMN_ID_00012,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,651
+NEG_KMN_ID_00013_Idaho_00652,NEG_KMN_ID_00013,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,652
+NEG_KMN_ID_00014_Idaho_00653,NEG_KMN_ID_00014,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,653
+NEG_KMN_ID_00015_Idaho_00654,NEG_KMN_ID_00015,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,654
+NEG_KMN_ID_00016_Idaho_00655,NEG_KMN_ID_00016,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,655
+NEG_KMN_ID_00017_Idaho_00656,NEG_KMN_ID_00017,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,656
+NEG_KMN_ID_00018_Idaho_00657,NEG_KMN_ID_00018,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,657
+NEG_KMN_ID_00019_Idaho_00658,NEG_KMN_ID_00019,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,658
+NEG_KMN_ID_00020_Idaho_00659,NEG_KMN_ID_00020,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,659
+NEG_KMN_ID_00021_Idaho_00660,NEG_KMN_ID_00021,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,660
+NEG_KMN_ID_00022_Idaho_00661,NEG_KMN_ID_00022,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,661
+NEG_KMN_ID_00023_Idaho_00662,NEG_KMN_ID_00023,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,662
+NEG_KMN_ID_00024_Idaho_00663,NEG_KMN_ID_00024,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,663
+NEG_KMN_ID_00025_Idaho_00664,NEG_KMN_ID_00025,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,664
+NEG_KMN_ID_00026_Idaho_00665,NEG_KMN_ID_00026,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,665
+NEG_KMN_ID_00027_Idaho_00666,NEG_KMN_ID_00027,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,666
+NEG_KMN_ID_00028_Idaho_00667,NEG_KMN_ID_00028,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,667
+NEG_KMN_ID_00029_Idaho_00668,NEG_KMN_ID_00029,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,668
+NEG_KMN_ID_00030_Idaho_00669,NEG_KMN_ID_00030,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,669
+NEG_KMN_ID_00031_Idaho_00670,NEG_KMN_ID_00031,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,670
+NEG_KMN_ID_00032_Idaho_00671,NEG_KMN_ID_00032,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,671
+NEG_KMN_ID_00033_Idaho_00672,NEG_KMN_ID_00033,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,672
+NEG_KMN_ID_00034_Idaho_00673,NEG_KMN_ID_00034,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,673
+NEG_KMN_ID_00035_Idaho_00674,NEG_KMN_ID_00035,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,674
+NEG_KMN_ID_00036_Idaho_00675,NEG_KMN_ID_00036,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,675
+NEG_KMN_ID_00037_Idaho_00676,NEG_KMN_ID_00037,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,676
+NEG_KMN_ID_00038_Idaho_00677,NEG_KMN_ID_00038,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,677
+NEG_KMN_ID_00039_Idaho_00678,NEG_KMN_ID_00039,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,678
+NEG_KMN_ID_00040_Idaho_00679,NEG_KMN_ID_00040,Idaho,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,679
+NEG_KMN_NE_00001_New_Mexico_00711,NEG_KMN_NE_00001,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,711
+NEG_KMN_NE_00002_New_Mexico_00713,NEG_KMN_NE_00002,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,713
+NEG_KMN_NE_00003_New_Mexico_00715,NEG_KMN_NE_00003,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,715
+NEG_KMN_NE_00004_New_Mexico_00717,NEG_KMN_NE_00004,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,717
+NEG_KMN_NE_00005_New_Mexico_00719,NEG_KMN_NE_00005,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,719
+NEG_KMN_NE_00006_New_Mexico_00721,NEG_KMN_NE_00006,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,721
+NEG_KMN_NE_00007_New_Mexico_00723,NEG_KMN_NE_00007,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,723
+NEG_KMN_NE_00008_New_Mexico_00725,NEG_KMN_NE_00008,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,725
+NEG_KMN_NE_00009_New_Mexico_00727,NEG_KMN_NE_00009,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,727
+NEG_KMN_NE_00010_New_Mexico_00729,NEG_KMN_NE_00010,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,729
+NEG_KMN_NE_00011_New_Mexico_00731,NEG_KMN_NE_00011,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,731
+NEG_KMN_NE_00012_New_Mexico_00733,NEG_KMN_NE_00012,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,733
+NEG_KMN_NE_00013_New_Mexico_00735,NEG_KMN_NE_00013,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,735
+NEG_KMN_NE_00014_New_Mexico_00737,NEG_KMN_NE_00014,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,737
+NEG_KMN_NE_00015_New_Mexico_00739,NEG_KMN_NE_00015,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,739
+NEG_KMN_NE_00016_New_Mexico_00741,NEG_KMN_NE_00016,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,741
+NEG_KMN_NE_00017_New_Mexico_00743,NEG_KMN_NE_00017,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,743
+NEG_KMN_NE_00018_New_Mexico_00745,NEG_KMN_NE_00018,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,745
+NEG_KMN_NE_00019_New_Mexico_00747,NEG_KMN_NE_00019,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,747
+NEG_KMN_NE_00020_New_Mexico_00749,NEG_KMN_NE_00020,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,749
+NEG_KMN_NE_00021_New_Mexico_00751,NEG_KMN_NE_00021,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,751
+NEG_KMN_NE_00022_New_Mexico_00753,NEG_KMN_NE_00022,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,753
+NEG_KMN_NE_00023_New_Mexico_00755,NEG_KMN_NE_00023,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,755
+NEG_KMN_NE_00024_New_Mexico_00757,NEG_KMN_NE_00024,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,757
+NEG_KMN_NE_00025_New_Mexico_00759,NEG_KMN_NE_00025,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,759
+NEG_KMN_NE_00026_New_Mexico_00761,NEG_KMN_NE_00026,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,761
+NEG_KMN_NE_00027_New_Mexico_00763,NEG_KMN_NE_00027,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,763
+NEG_KMN_NE_00028_New_Mexico_00765,NEG_KMN_NE_00028,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,765
+NEG_KMN_NE_00029_New_Mexico_00767,NEG_KMN_NE_00029,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,767
+NEG_KMN_NE_00030_New_Mexico_00769,NEG_KMN_NE_00030,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,769
+NEG_KMN_NE_00031_New_Mexico_00771,NEG_KMN_NE_00031,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,771
+NEG_KMN_NE_00032_New_Mexico_00773,NEG_KMN_NE_00032,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,773
+NEG_KMN_NE_00033_New_Mexico_00775,NEG_KMN_NE_00033,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,775
+NEG_KMN_NE_00034_New_Mexico_00777,NEG_KMN_NE_00034,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,777
+NEG_KMN_NE_00035_New_Mexico_00779,NEG_KMN_NE_00035,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,779
+NEG_KMN_NE_00036_New_Mexico_00781,NEG_KMN_NE_00036,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,781
+NEG_KMN_NE_00037_New_Mexico_00783,NEG_KMN_NE_00037,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,783
+NEG_KMN_NE_00038_New_Mexico_00785,NEG_KMN_NE_00038,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,785
+NEG_KMN_NE_00039_New_Mexico_00787,NEG_KMN_NE_00039,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,787
+NEG_KMN_NE_00040_New_Mexico_00789,NEG_KMN_NE_00040,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,789
+NEG_KMN_NE_00041_New_Mexico_00791,NEG_KMN_NE_00041,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,791
+NEG_KMN_NE_00042_New_Mexico_00793,NEG_KMN_NE_00042,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,793
+NEG_KMN_NE_00043_New_Mexico_00795,NEG_KMN_NE_00043,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,795
+NEG_KMN_NE_00044_New_Mexico_00797,NEG_KMN_NE_00044,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,797
+NEG_KMN_NE_00045_New_Mexico_00799,NEG_KMN_NE_00045,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,799
+NEG_KMN_NE_00046_New_Mexico_00801,NEG_KMN_NE_00046,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,801
+NEG_KMN_NE_00047_New_Mexico_00803,NEG_KMN_NE_00047,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,803
+NEG_KMN_NE_00048_New_Mexico_00805,NEG_KMN_NE_00048,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,805
+NEG_KMN_NE_00049_New_Mexico_00807,NEG_KMN_NE_00049,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,807
+NEG_KMN_NE_00050_New_Mexico_00809,NEG_KMN_NE_00050,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,809
+NEG_KMN_NE_00051_New_Mexico_00811,NEG_KMN_NE_00051,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,811
+NEG_KMN_NE_00052_New_Mexico_00813,NEG_KMN_NE_00052,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,813
+NEG_KMN_NE_00053_New_Mexico_00815,NEG_KMN_NE_00053,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,815
+NEG_KMN_NE_00054_New_Mexico_00817,NEG_KMN_NE_00054,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,817
+NEG_KMN_NE_00055_New_Mexico_00819,NEG_KMN_NE_00055,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,819
+NEG_KMN_NE_00056_New_Mexico_00821,NEG_KMN_NE_00056,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,821
+NEG_KMN_NE_00057_New_Mexico_00823,NEG_KMN_NE_00057,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,823
+NEG_KMN_NE_00058_New_Mexico_00825,NEG_KMN_NE_00058,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,825
+NEG_KMN_NE_00059_New_Mexico_00827,NEG_KMN_NE_00059,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,827
+NEG_KMN_NE_00060_New_Mexico_00829,NEG_KMN_NE_00060,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,829
+NEG_KMN_NE_00061_New_Mexico_00831,NEG_KMN_NE_00061,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,831
+NEG_KMN_NE_00062_New_Mexico_00833,NEG_KMN_NE_00062,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,833
+NEG_KMN_NE_00063_New_Mexico_00835,NEG_KMN_NE_00063,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,835
+NEG_KMN_NE_00064_New_Mexico_00837,NEG_KMN_NE_00064,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,837
+NEG_KMN_NE_00065_New_Mexico_00839,NEG_KMN_NE_00065,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,839
+NEG_KMN_NE_00066_New_Mexico_00841,NEG_KMN_NE_00066,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,841
+NEG_KMN_NE_00067_New_Mexico_00843,NEG_KMN_NE_00067,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,843
+NEG_KMN_NE_00068_New_Mexico_00845,NEG_KMN_NE_00068,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,845
+NEG_KMN_NE_00069_New_Mexico_00847,NEG_KMN_NE_00069,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,847
+NEG_KMN_NE_00070_New_Mexico_00849,NEG_KMN_NE_00070,New Mexico,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,849
+NEG_KMN_WY_00001_Wyoming_01530,NEG_KMN_WY_00001,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1530
+NEG_KMN_WY_00002_Wyoming_01531,NEG_KMN_WY_00002,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1531
+NEG_KMN_WY_00003_Wyoming_01532,NEG_KMN_WY_00003,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1532
+NEG_KMN_WY_00004_Wyoming_01533,NEG_KMN_WY_00004,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1533
+NEG_KMN_WY_00005_Wyoming_01534,NEG_KMN_WY_00005,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1534
+NEG_KMN_WY_00006_Wyoming_01535,NEG_KMN_WY_00006,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1535
+NEG_KMN_WY_00007_Wyoming_01536,NEG_KMN_WY_00007,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1536
+NEG_KMN_WY_00008_Wyoming_01537,NEG_KMN_WY_00008,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1537
+NEG_KMN_WY_00009_Wyoming_01538,NEG_KMN_WY_00009,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1538
+NEG_KMN_WY_00010_Wyoming_01539,NEG_KMN_WY_00010,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1539
+NEG_KMN_WY_00011_Wyoming_01540,NEG_KMN_WY_00011,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1540
+NEG_KMN_WY_00012_Wyoming_01541,NEG_KMN_WY_00012,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1541
+NEG_KMN_WY_00013_Wyoming_01542,NEG_KMN_WY_00013,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1542
+NEG_KMN_WY_00014_Wyoming_01543,NEG_KMN_WY_00014,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1543
+NEG_KMN_WY_00015_Wyoming_01544,NEG_KMN_WY_00015,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1544
+NEG_KMN_WY_00016_Wyoming_01545,NEG_KMN_WY_00016,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1545
+NEG_KMN_WY_00017_Wyoming_01546,NEG_KMN_WY_00017,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1546
+NEG_KMN_WY_00018_Wyoming_01547,NEG_KMN_WY_00018,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1547
+NEG_KMN_WY_00019_Wyoming_01548,NEG_KMN_WY_00019,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1548
+NEG_KMN_WY_00020_Wyoming_01549,NEG_KMN_WY_00020,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1549
+NEG_KMN_WY_00021_Wyoming_01550,NEG_KMN_WY_00021,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1550
+NEG_KMN_WY_00022_Wyoming_01551,NEG_KMN_WY_00022,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1551
+NEG_KMN_WY_00023_Wyoming_01552,NEG_KMN_WY_00023,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1552
+NEG_KMN_WY_00024_Wyoming_01553,NEG_KMN_WY_00024,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1553
+NEG_KMN_WY_00025_Wyoming_01554,NEG_KMN_WY_00025,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1554
+NEG_KMN_WY_00026_Wyoming_01555,NEG_KMN_WY_00026,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1555
+NEG_KMN_WY_00027_Wyoming_01556,NEG_KMN_WY_00027,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1556
+NEG_KMN_WY_00028_Wyoming_01557,NEG_KMN_WY_00028,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1557
+NEG_KMN_WY_00029_Wyoming_01558,NEG_KMN_WY_00029,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1558
+NEG_KMN_WY_00030_Wyoming_01559,NEG_KMN_WY_00030,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1559
+NEG_KMN_WY_00031_Wyoming_01560,NEG_KMN_WY_00031,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1560
+NEG_KMN_WY_00032_Wyoming_01561,NEG_KMN_WY_00032,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1561
+NEG_KMN_WY_00033_Wyoming_01562,NEG_KMN_WY_00033,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1562
+NEG_KMN_WY_00034_Wyoming_01563,NEG_KMN_WY_00034,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1563
+NEG_KMN_WY_00035_Wyoming_01564,NEG_KMN_WY_00035,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1564
+NEG_KMN_WY_00036_Wyoming_01565,NEG_KMN_WY_00036,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1565
+NEG_KMN_WY_00037_Wyoming_01566,NEG_KMN_WY_00037,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1566
+NEG_KMN_WY_00038_Wyoming_01567,NEG_KMN_WY_00038,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1567
+NEG_KMN_WY_00039_Wyoming_01568,NEG_KMN_WY_00039,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1568
+NEG_KMN_WY_00040_Wyoming_01569,NEG_KMN_WY_00040,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1569
+NEG_KMN_WY_00041_Wyoming_01570,NEG_KMN_WY_00041,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1570
+NEG_KMN_WY_00042_Wyoming_01571,NEG_KMN_WY_00042,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1571
+NEG_KMN_WY_00043_Wyoming_01572,NEG_KMN_WY_00043,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1572
+NEG_KMN_WY_00044_Wyoming_01573,NEG_KMN_WY_00044,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1573
+NEG_KMN_WY_00045_Wyoming_01574,NEG_KMN_WY_00045,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1574
+NEG_KMN_WY_00046_Wyoming_01575,NEG_KMN_WY_00046,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1575
+NEG_KMN_WY_00047_Wyoming_01576,NEG_KMN_WY_00047,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1576
+NEG_KMN_WY_00048_Wyoming_01577,NEG_KMN_WY_00048,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1577
+NEG_KMN_WY_00049_Wyoming_01578,NEG_KMN_WY_00049,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1578
+NEG_KMN_WY_00050_Wyoming_01579,NEG_KMN_WY_00050,Wyoming,0,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1579
+POS_10012285_New_Mexico_03163,POS_10012285,New Mexico,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1584
+POS_10064808_New_Mexico_03224,POS_10064808,New Mexico,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1645
+POS_10078685_Idaho_03228,POS_10078685,Idaho,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1649
+POS_10087992_New_Mexico_03230,POS_10087992,New Mexico,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1651
+POS_10089294_Idaho_03231,POS_10089294,Idaho,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1652
+POS_10096858_Idaho_03236,POS_10096858,Idaho,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1657
+POS_10097383_New_Mexico_03239,POS_10097383,New Mexico,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1660
+POS_10097911_New_Mexico_03240,POS_10097911,New Mexico,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1661
+POS_10106252_Wyoming_03245,POS_10106252,Wyoming,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1666
+POS_10109418_California_03248,POS_10109418,California,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1669
+POS_10133042_Wyoming_03256,POS_10133042,Wyoming,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1677
+POS_10150841_New_Mexico_03260,POS_10150841,New Mexico,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1681
+POS_10174772_New_Mexico_03265,POS_10174772,New Mexico,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1686
+POS_10193063_Idaho_03270,POS_10193063,Idaho,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1691
+POS_10261965_California_03280,POS_10261965,California,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1701
+POS_10400361_Wyoming_03305,POS_10400361,Wyoming,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1726
+POS_60000972_Wyoming_03312,POS_60000972,Wyoming,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1733
+POS_60001624_Wyoming_03315,POS_60001624,Wyoming,1,3,state_fold_3,California;Idaho;New Mexico;Wyoming,1736
+NEG_KMN_CO_00001_Colorado_00600,NEG_KMN_CO_00001,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,600
+NEG_KMN_CO_00002_Colorado_00601,NEG_KMN_CO_00002,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,601
+NEG_KMN_CO_00003_Colorado_00602,NEG_KMN_CO_00003,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,602
+NEG_KMN_CO_00004_Colorado_00603,NEG_KMN_CO_00004,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,603
+NEG_KMN_CO_00005_Colorado_00604,NEG_KMN_CO_00005,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,604
+NEG_KMN_CO_00006_Colorado_00605,NEG_KMN_CO_00006,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,605
+NEG_KMN_CO_00007_Colorado_00606,NEG_KMN_CO_00007,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,606
+NEG_KMN_CO_00008_Colorado_00607,NEG_KMN_CO_00008,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,607
+NEG_KMN_CO_00009_Colorado_00608,NEG_KMN_CO_00009,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,608
+NEG_KMN_CO_00010_Colorado_00609,NEG_KMN_CO_00010,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,609
+NEG_KMN_CO_00011_Colorado_00610,NEG_KMN_CO_00011,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,610
+NEG_KMN_CO_00012_Colorado_00611,NEG_KMN_CO_00012,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,611
+NEG_KMN_CO_00013_Colorado_00612,NEG_KMN_CO_00013,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,612
+NEG_KMN_CO_00014_Colorado_00613,NEG_KMN_CO_00014,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,613
+NEG_KMN_CO_00015_Colorado_00614,NEG_KMN_CO_00015,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,614
+NEG_KMN_CO_00016_Colorado_00615,NEG_KMN_CO_00016,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,615
+NEG_KMN_CO_00017_Colorado_00616,NEG_KMN_CO_00017,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,616
+NEG_KMN_CO_00018_Colorado_00617,NEG_KMN_CO_00018,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,617
+NEG_KMN_CO_00019_Colorado_00618,NEG_KMN_CO_00019,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,618
+NEG_KMN_CO_00020_Colorado_00619,NEG_KMN_CO_00020,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,619
+NEG_KMN_CO_00021_Colorado_00620,NEG_KMN_CO_00021,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,620
+NEG_KMN_CO_00022_Colorado_00621,NEG_KMN_CO_00022,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,621
+NEG_KMN_CO_00023_Colorado_00622,NEG_KMN_CO_00023,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,622
+NEG_KMN_CO_00024_Colorado_00623,NEG_KMN_CO_00024,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,623
+NEG_KMN_CO_00025_Colorado_00624,NEG_KMN_CO_00025,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,624
+NEG_KMN_CO_00026_Colorado_00625,NEG_KMN_CO_00026,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,625
+NEG_KMN_CO_00027_Colorado_00626,NEG_KMN_CO_00027,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,626
+NEG_KMN_CO_00028_Colorado_00627,NEG_KMN_CO_00028,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,627
+NEG_KMN_CO_00029_Colorado_00628,NEG_KMN_CO_00029,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,628
+NEG_KMN_CO_00030_Colorado_00629,NEG_KMN_CO_00030,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,629
+NEG_KMN_CO_00031_Colorado_00630,NEG_KMN_CO_00031,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,630
+NEG_KMN_CO_00032_Colorado_00631,NEG_KMN_CO_00032,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,631
+NEG_KMN_CO_00033_Colorado_00632,NEG_KMN_CO_00033,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,632
+NEG_KMN_CO_00034_Colorado_00633,NEG_KMN_CO_00034,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,633
+NEG_KMN_CO_00035_Colorado_00634,NEG_KMN_CO_00035,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,634
+NEG_KMN_CO_00036_Colorado_00635,NEG_KMN_CO_00036,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,635
+NEG_KMN_CO_00037_Colorado_00636,NEG_KMN_CO_00037,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,636
+NEG_KMN_CO_00038_Colorado_00637,NEG_KMN_CO_00038,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,637
+NEG_KMN_CO_00039_Colorado_00638,NEG_KMN_CO_00039,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,638
+NEG_KMN_CO_00040_Colorado_00639,NEG_KMN_CO_00040,Colorado,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,639
+NEG_KMN_MO_00001_Montana_00680,NEG_KMN_MO_00001,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,680
+NEG_KMN_MO_00002_Montana_00681,NEG_KMN_MO_00002,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,681
+NEG_KMN_MO_00003_Montana_00682,NEG_KMN_MO_00003,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,682
+NEG_KMN_MO_00004_Montana_00683,NEG_KMN_MO_00004,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,683
+NEG_KMN_MO_00005_Montana_00684,NEG_KMN_MO_00005,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,684
+NEG_KMN_MO_00006_Montana_00685,NEG_KMN_MO_00006,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,685
+NEG_KMN_MO_00007_Montana_00686,NEG_KMN_MO_00007,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,686
+NEG_KMN_MO_00008_Montana_00687,NEG_KMN_MO_00008,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,687
+NEG_KMN_MO_00009_Montana_00688,NEG_KMN_MO_00009,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,688
+NEG_KMN_MO_00010_Montana_00689,NEG_KMN_MO_00010,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,689
+NEG_KMN_MO_00011_Montana_00690,NEG_KMN_MO_00011,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,690
+NEG_KMN_MO_00012_Montana_00691,NEG_KMN_MO_00012,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,691
+NEG_KMN_MO_00013_Montana_00692,NEG_KMN_MO_00013,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,692
+NEG_KMN_MO_00014_Montana_00693,NEG_KMN_MO_00014,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,693
+NEG_KMN_MO_00015_Montana_00694,NEG_KMN_MO_00015,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,694
+NEG_KMN_MO_00016_Montana_00695,NEG_KMN_MO_00016,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,695
+NEG_KMN_MO_00017_Montana_00696,NEG_KMN_MO_00017,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,696
+NEG_KMN_MO_00018_Montana_00697,NEG_KMN_MO_00018,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,697
+NEG_KMN_MO_00019_Montana_00698,NEG_KMN_MO_00019,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,698
+NEG_KMN_MO_00020_Montana_00699,NEG_KMN_MO_00020,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,699
+NEG_KMN_MO_00021_Montana_00700,NEG_KMN_MO_00021,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,700
+NEG_KMN_MO_00022_Montana_00701,NEG_KMN_MO_00022,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,701
+NEG_KMN_MO_00023_Montana_00702,NEG_KMN_MO_00023,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,702
+NEG_KMN_MO_00024_Montana_00703,NEG_KMN_MO_00024,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,703
+NEG_KMN_MO_00025_Montana_00704,NEG_KMN_MO_00025,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,704
+NEG_KMN_MO_00026_Montana_00705,NEG_KMN_MO_00026,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,705
+NEG_KMN_MO_00027_Montana_00706,NEG_KMN_MO_00027,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,706
+NEG_KMN_MO_00028_Montana_00707,NEG_KMN_MO_00028,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,707
+NEG_KMN_MO_00029_Montana_00708,NEG_KMN_MO_00029,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,708
+NEG_KMN_MO_00030_Montana_00709,NEG_KMN_MO_00030,Montana,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,709
+NEG_KMN_OR_00001_Oregon_01060,NEG_KMN_OR_00001,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1060
+NEG_KMN_OR_00002_Oregon_01061,NEG_KMN_OR_00002,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1061
+NEG_KMN_OR_00003_Oregon_01062,NEG_KMN_OR_00003,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1062
+NEG_KMN_OR_00004_Oregon_01063,NEG_KMN_OR_00004,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1063
+NEG_KMN_OR_00005_Oregon_01064,NEG_KMN_OR_00005,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1064
+NEG_KMN_OR_00006_Oregon_01065,NEG_KMN_OR_00006,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1065
+NEG_KMN_OR_00007_Oregon_01066,NEG_KMN_OR_00007,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1066
+NEG_KMN_OR_00008_Oregon_01067,NEG_KMN_OR_00008,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1067
+NEG_KMN_OR_00009_Oregon_01068,NEG_KMN_OR_00009,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1068
+NEG_KMN_OR_00010_Oregon_01069,NEG_KMN_OR_00010,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1069
+NEG_KMN_OR_00011_Oregon_01070,NEG_KMN_OR_00011,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1070
+NEG_KMN_OR_00012_Oregon_01071,NEG_KMN_OR_00012,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1071
+NEG_KMN_OR_00013_Oregon_01072,NEG_KMN_OR_00013,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1072
+NEG_KMN_OR_00014_Oregon_01073,NEG_KMN_OR_00014,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1073
+NEG_KMN_OR_00015_Oregon_01074,NEG_KMN_OR_00015,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1074
+NEG_KMN_OR_00016_Oregon_01075,NEG_KMN_OR_00016,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1075
+NEG_KMN_OR_00017_Oregon_01076,NEG_KMN_OR_00017,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1076
+NEG_KMN_OR_00018_Oregon_01077,NEG_KMN_OR_00018,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1077
+NEG_KMN_OR_00019_Oregon_01078,NEG_KMN_OR_00019,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1078
+NEG_KMN_OR_00020_Oregon_01079,NEG_KMN_OR_00020,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1079
+NEG_KMN_OR_00021_Oregon_01080,NEG_KMN_OR_00021,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1080
+NEG_KMN_OR_00022_Oregon_01081,NEG_KMN_OR_00022,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1081
+NEG_KMN_OR_00023_Oregon_01082,NEG_KMN_OR_00023,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1082
+NEG_KMN_OR_00024_Oregon_01083,NEG_KMN_OR_00024,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1083
+NEG_KMN_OR_00025_Oregon_01084,NEG_KMN_OR_00025,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1084
+NEG_KMN_OR_00026_Oregon_01085,NEG_KMN_OR_00026,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1085
+NEG_KMN_OR_00027_Oregon_01086,NEG_KMN_OR_00027,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1086
+NEG_KMN_OR_00028_Oregon_01087,NEG_KMN_OR_00028,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1087
+NEG_KMN_OR_00029_Oregon_01088,NEG_KMN_OR_00029,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1088
+NEG_KMN_OR_00030_Oregon_01089,NEG_KMN_OR_00030,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1089
+NEG_KMN_OR_00031_Oregon_01090,NEG_KMN_OR_00031,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1090
+NEG_KMN_OR_00032_Oregon_01091,NEG_KMN_OR_00032,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1091
+NEG_KMN_OR_00033_Oregon_01092,NEG_KMN_OR_00033,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1092
+NEG_KMN_OR_00034_Oregon_01093,NEG_KMN_OR_00034,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1093
+NEG_KMN_OR_00035_Oregon_01094,NEG_KMN_OR_00035,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1094
+NEG_KMN_OR_00036_Oregon_01095,NEG_KMN_OR_00036,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1095
+NEG_KMN_OR_00037_Oregon_01096,NEG_KMN_OR_00037,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1096
+NEG_KMN_OR_00038_Oregon_01097,NEG_KMN_OR_00038,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1097
+NEG_KMN_OR_00039_Oregon_01098,NEG_KMN_OR_00039,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1098
+NEG_KMN_OR_00040_Oregon_01099,NEG_KMN_OR_00040,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1099
+NEG_KMN_OR_00041_Oregon_01100,NEG_KMN_OR_00041,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1100
+NEG_KMN_OR_00042_Oregon_01101,NEG_KMN_OR_00042,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1101
+NEG_KMN_OR_00043_Oregon_01102,NEG_KMN_OR_00043,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1102
+NEG_KMN_OR_00044_Oregon_01103,NEG_KMN_OR_00044,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1103
+NEG_KMN_OR_00045_Oregon_01104,NEG_KMN_OR_00045,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1104
+NEG_KMN_OR_00046_Oregon_01105,NEG_KMN_OR_00046,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1105
+NEG_KMN_OR_00047_Oregon_01106,NEG_KMN_OR_00047,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1106
+NEG_KMN_OR_00048_Oregon_01107,NEG_KMN_OR_00048,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1107
+NEG_KMN_OR_00049_Oregon_01108,NEG_KMN_OR_00049,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1108
+NEG_KMN_OR_00050_Oregon_01109,NEG_KMN_OR_00050,Oregon,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1109
+NEG_KMN_UT_00001_Utah_01110,NEG_KMN_UT_00001,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1110
+NEG_KMN_UT_00002_Utah_01111,NEG_KMN_UT_00002,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1111
+NEG_KMN_UT_00003_Utah_01112,NEG_KMN_UT_00003,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1112
+NEG_KMN_UT_00004_Utah_01113,NEG_KMN_UT_00004,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1113
+NEG_KMN_UT_00005_Utah_01114,NEG_KMN_UT_00005,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1114
+NEG_KMN_UT_00006_Utah_01115,NEG_KMN_UT_00006,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1115
+NEG_KMN_UT_00007_Utah_01116,NEG_KMN_UT_00007,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1116
+NEG_KMN_UT_00008_Utah_01117,NEG_KMN_UT_00008,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1117
+NEG_KMN_UT_00009_Utah_01118,NEG_KMN_UT_00009,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1118
+NEG_KMN_UT_00010_Utah_01119,NEG_KMN_UT_00010,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1119
+NEG_KMN_UT_00011_Utah_01120,NEG_KMN_UT_00011,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1120
+NEG_KMN_UT_00012_Utah_01121,NEG_KMN_UT_00012,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1121
+NEG_KMN_UT_00013_Utah_01122,NEG_KMN_UT_00013,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1122
+NEG_KMN_UT_00014_Utah_01123,NEG_KMN_UT_00014,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1123
+NEG_KMN_UT_00015_Utah_01124,NEG_KMN_UT_00015,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1124
+NEG_KMN_UT_00016_Utah_01125,NEG_KMN_UT_00016,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1125
+NEG_KMN_UT_00017_Utah_01126,NEG_KMN_UT_00017,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1126
+NEG_KMN_UT_00018_Utah_01127,NEG_KMN_UT_00018,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1127
+NEG_KMN_UT_00019_Utah_01128,NEG_KMN_UT_00019,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1128
+NEG_KMN_UT_00020_Utah_01129,NEG_KMN_UT_00020,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1129
+NEG_KMN_UT_00021_Utah_01130,NEG_KMN_UT_00021,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1130
+NEG_KMN_UT_00022_Utah_01131,NEG_KMN_UT_00022,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1131
+NEG_KMN_UT_00023_Utah_01132,NEG_KMN_UT_00023,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1132
+NEG_KMN_UT_00024_Utah_01133,NEG_KMN_UT_00024,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1133
+NEG_KMN_UT_00025_Utah_01134,NEG_KMN_UT_00025,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1134
+NEG_KMN_UT_00026_Utah_01135,NEG_KMN_UT_00026,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1135
+NEG_KMN_UT_00027_Utah_01136,NEG_KMN_UT_00027,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1136
+NEG_KMN_UT_00028_Utah_01137,NEG_KMN_UT_00028,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1137
+NEG_KMN_UT_00029_Utah_01138,NEG_KMN_UT_00029,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1138
+NEG_KMN_UT_00030_Utah_01139,NEG_KMN_UT_00030,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1139
+NEG_KMN_UT_00031_Utah_01140,NEG_KMN_UT_00031,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1140
+NEG_KMN_UT_00032_Utah_01141,NEG_KMN_UT_00032,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1141
+NEG_KMN_UT_00033_Utah_01142,NEG_KMN_UT_00033,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1142
+NEG_KMN_UT_00034_Utah_01143,NEG_KMN_UT_00034,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1143
+NEG_KMN_UT_00035_Utah_01144,NEG_KMN_UT_00035,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1144
+NEG_KMN_UT_00036_Utah_01145,NEG_KMN_UT_00036,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1145
+NEG_KMN_UT_00037_Utah_01146,NEG_KMN_UT_00037,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1146
+NEG_KMN_UT_00038_Utah_01147,NEG_KMN_UT_00038,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1147
+NEG_KMN_UT_00039_Utah_01148,NEG_KMN_UT_00039,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1148
+NEG_KMN_UT_00040_Utah_01149,NEG_KMN_UT_00040,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1149
+NEG_KMN_UT_00041_Utah_01150,NEG_KMN_UT_00041,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1150
+NEG_KMN_UT_00042_Utah_01151,NEG_KMN_UT_00042,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1151
+NEG_KMN_UT_00043_Utah_01152,NEG_KMN_UT_00043,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1152
+NEG_KMN_UT_00044_Utah_01153,NEG_KMN_UT_00044,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1153
+NEG_KMN_UT_00045_Utah_01154,NEG_KMN_UT_00045,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1154
+NEG_KMN_UT_00046_Utah_01155,NEG_KMN_UT_00046,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1155
+NEG_KMN_UT_00047_Utah_01156,NEG_KMN_UT_00047,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1156
+NEG_KMN_UT_00048_Utah_01157,NEG_KMN_UT_00048,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1157
+NEG_KMN_UT_00049_Utah_01158,NEG_KMN_UT_00049,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1158
+NEG_KMN_UT_00050_Utah_01159,NEG_KMN_UT_00050,Utah,0,4,state_fold_4,Colorado;Montana;Oregon;Utah,1159
+POS_10008353_Colorado_03159,POS_10008353,Colorado,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1580
+POS_10012295_Colorado_03164,POS_10012295,Colorado,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1585
+POS_10033433_Oregon_03170,POS_10033433,Oregon,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1591
+POS_10036279_Oregon_03171,POS_10036279,Oregon,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1592
+POS_10040246_Oregon_03184,POS_10040246,Oregon,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1605
+POS_10042180_Utah_03186,POS_10042180,Utah,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1607
+POS_10053081_Oregon_03220,POS_10053081,Oregon,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1641
+POS_10069296_Utah_03226,POS_10069296,Utah,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1647
+POS_10095161_Oregon_03233,POS_10095161,Oregon,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1654
+POS_10101379_Utah_03241,POS_10101379,Utah,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1662
+POS_10129805_Utah_03254,POS_10129805,Utah,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1675
+POS_10173000_Montana_03264,POS_10173000,Montana,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1685
+POS_10221947_Montana_03275,POS_10221947,Montana,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1696
+POS_10264283_Colorado_03281,POS_10264283,Colorado,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1702
+POS_10400263_Colorado_03302,POS_10400263,Colorado,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1723
+POS_60000887_Utah_03309,POS_60000887,Utah,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1730
+POS_60001622_Montana_03314,POS_60001622,Montana,1,4,state_fold_4,Colorado;Montana;Oregon;Utah,1735
