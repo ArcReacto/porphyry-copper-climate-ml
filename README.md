@@ -1,8 +1,8 @@
 # CD-MPM rebuttal reproducibility package
 
-This directory contains the aligned U.S. input tables and executable scripts used for the reviewer-requested experiments. It is intentionally self-contained: all default paths are relative to this directory, and running an experiment writes new artifacts under `outputs/`.
+The self-contained reproducibility package is located in `reproducibility_rebuttal_20261007/`. It contains the aligned U.S. input tables, executable scripts, fold assignments, and reported result artifacts used for the reviewer-requested experiments. All default paths are relative to the package directory, and rerunning an experiment writes new artifacts under its ignored `outputs/` directory.
 
-The package does **not** contain generated predictions, metrics, figures, trained models, or raw source archives. The committed CSV files are processed, point-aligned model inputs for the western-U.S. study area.
+The package does **not** contain trained models or raw source archives. The committed input CSV files are processed, point-aligned model inputs for the western-U.S. study area; immutable copies of the predictions, metrics, selections, diagnostics, and manifests cited in the rebuttal are included under `results/reported/`.
 
 ## Scope and benchmark
 
@@ -39,6 +39,12 @@ reproducibility_rebuttal_20261007/
 ```
 
 `DATA_MANIFEST.csv` gives the row/column counts and the intended use of every distributed CSV. `CHECKSUMS.sha256` records file integrity.
+
+All commands below assume that you first enter the package directory:
+
+```bash
+cd reproducibility_rebuttal_20261007
+```
 
 ## Environment
 
